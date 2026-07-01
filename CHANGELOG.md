@@ -4,6 +4,21 @@ All notable changes to this project are documented here.
 The format follows [Keep a Changelog](https://keepachangelog.com/), and the
 project adheres to [Semantic Versioning](https://semver.org/).
 
+## [0.2.0] - 2026-07-01
+
+### Added
+- **Phase 3 — triage pipeline**: rule-based narrative classifier
+  (`citf/classify.py`) inferring category/outcome/location; end-to-end pipeline
+  (`citf/pipeline.py`); optional Claude-based classifier (`citf/llm_classify.py`).
+- **Heat map**: `scripts/build_heatmap.py` emits a floor-plan `viz/heatmap.svg`
+  and standalone `viz/heatmap.html` with a triaged incident feed.
+- `scripts/triage_incidents.py` CLI with an optional accuracy check against
+  ground-truth labels; classifier test suite.
+
+### Changed
+- The generator now applies the same recurrence rule used at runtime, giving
+  `pattern` a single, consistent definition across generation and triage.
+
 ## [0.1.0] - 2026-07-01
 
 ### Added

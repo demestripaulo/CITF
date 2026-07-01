@@ -133,14 +133,45 @@ internal deployment; use a generic/synthetic plan for any public or portfolio
 version. Obtain written authorization, an IP/ownership agreement, and a
 de-identification policy before ingesting any real operational data.
 
+## Triage pipeline (Phase 3)
+
+Free-text incident narratives are classified and prioritized end to end:
+
+```bash
+python3 scripts/triage_incidents.py --input data/incidents_input.json --truth data/incidents.json
+```
+
+- `citf/classify.py` — a transparent, rule-based classifier that infers
+  `category`, `outcome`, and `location` from free text with a confidence score.
+- `citf/pipeline.py` — narrative → classify → crosswalk → triage → recurrence,
+  producing records in the CITF schema.
+- `citf/llm_classify.py` — optional Claude-based classifier for messy real-world
+  phrasing; the pipeline falls back to the rule-based result if it is unavailable.
+
+On the bundled synthetic set, category accuracy is high (~0.98). Severity is a
+*derived* quantity — it depends on whether the narrative explicitly states the
+outcome — so its accuracy is lower and honestly bounded by how much the text
+says. Sensor-derived incidents carry an exact outcome, so their severity is
+exact. Making generated outcomes fully consistent with the narrative text is a
+Phase 4 refinement.
+
+## Heat map & triaged feed (Phase 3)
+
+```bash
+python3 scripts/build_heatmap.py
+```
+
+Writes `viz/heatmap.svg` and a standalone `viz/heatmap.html`: a floor plan whose
+doors are colored by worst incident severity and sized by open-frequency, plus a
+triaged incident feed. The plan is **generic/synthetic** — swap in an authorized
+site plan only for a private, internal deployment.
+
 ## Roadmap
 
-- **Phase 3** — narrative classifier: extract `category` / `cyber_nexus` /
-  outcome from free text (rule-based baseline + optional LLM augmentation),
-  then derive priority via `triage.py`. A floor-plan "heat map" view of
-  door-open frequency/duration and a triaged incident feed.
-- **Phase 4** — evaluation: measure classification against the ground-truth
-  labels; report precision/recall and triage-time impact.
+- **Phase 4** — evaluation & refinement: precision/recall by category, calibrate
+  triage against outcomes made text-consistent, and measure triage-time impact.
+- A lightweight capture UI (mobile-friendly) for officers to file narratives that
+  enter the same pipeline.
 
 ## License
 

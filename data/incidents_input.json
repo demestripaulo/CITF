@@ -1,0 +1,4342 @@
+[
+  {
+    "incident_id": "INC-000446",
+    "timestamp": "2026-01-06T01:34:00",
+    "site_id": "SITE-D",
+    "reporter_role": "guard",
+    "narrative_text": "A slip-and-fall was reported in the classroom building at 01:34; first aid rendered."
+  },
+  {
+    "incident_id": "INC-000303",
+    "timestamp": "2026-01-06T12:21:00",
+    "site_id": "SITE-C",
+    "reporter_role": "guard",
+    "narrative_text": "At 12:21, minor vandalism was noted at the records room."
+  },
+  {
+    "incident_id": "INC-000094",
+    "timestamp": "2026-01-06T13:28:00",
+    "site_id": "SITE-B",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 13:28, a suspected theft was reported in the it office."
+  },
+  {
+    "incident_id": "INC-000560",
+    "timestamp": "2026-01-06T17:02:00",
+    "site_id": "SITE-E",
+    "reporter_role": "guard",
+    "narrative_text": "At 17:02, an unscheduled delivery was dropped at the records room with no manifest."
+  },
+  {
+    "incident_id": "INC-000504",
+    "timestamp": "2026-01-06T20:46:00",
+    "site_id": "SITE-E",
+    "reporter_role": "account_manager",
+    "narrative_text": "An item was reported missing from the courtyard at 20:46."
+  },
+  {
+    "incident_id": "INC-000536",
+    "timestamp": "2026-01-06T21:41:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "At 21:41, a visitor in the parking lot was positioned to read a logged-in screen."
+  },
+  {
+    "incident_id": "INC-000028",
+    "timestamp": "2026-01-07T02:59:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "At 02:59, motion reported in the network closet during a period with no scheduled activity."
+  },
+  {
+    "incident_id": "INC-000312",
+    "timestamp": "2026-01-07T03:16:00",
+    "site_id": "SITE-A",
+    "reporter_role": "supervisor",
+    "narrative_text": "Unrecognized device observed plugged into equipment in the server room at 03:16."
+  },
+  {
+    "incident_id": "INC-000359",
+    "timestamp": "2026-01-07T05:31:00",
+    "site_id": "SITE-F",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 05:31, minor vandalism was noted at the main gate."
+  },
+  {
+    "incident_id": "INC-000363",
+    "timestamp": "2026-01-07T07:02:00",
+    "site_id": "SITE-A",
+    "reporter_role": "guard",
+    "narrative_text": "Visitor at the cafeteria at 07:02 declined to provide identification and had no record of appointment."
+  },
+  {
+    "incident_id": "INC-000246",
+    "timestamp": "2026-01-07T09:36:00",
+    "site_id": "SITE-A",
+    "reporter_role": "guard",
+    "narrative_text": "At 09:36, a trespasser was noted crossing into the grounds at the main gate."
+  },
+  {
+    "incident_id": "INC-000485",
+    "timestamp": "2026-01-07T16:06:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "Documents containing personal information were found in open trash at the administration office at 16:06."
+  },
+  {
+    "incident_id": "INC-000083",
+    "timestamp": "2026-01-08T02:18:00",
+    "site_id": "SITE-D",
+    "reporter_role": "guard",
+    "narrative_text": "At 02:18, an unscheduled delivery was dropped at the classroom building with no manifest."
+  },
+  {
+    "incident_id": "INC-000589",
+    "timestamp": "2026-01-08T05:06:00",
+    "site_id": "SITE-E",
+    "reporter_role": "guard",
+    "narrative_text": "At 05:06, a suspected theft was reported in the dormitory entrance."
+  },
+  {
+    "incident_id": "INC-000403",
+    "timestamp": "2026-01-08T10:16:00",
+    "site_id": "SITE-C",
+    "reporter_role": "guard",
+    "narrative_text": "An item was reported missing from the chapel at 10:16."
+  },
+  {
+    "incident_id": "INC-000259",
+    "timestamp": "2026-01-08T12:16:00",
+    "site_id": "SITE-F",
+    "reporter_role": "guard",
+    "narrative_text": "Badge presented at records room at 12:16 belonged to a person no longer affiliated with the institution."
+  },
+  {
+    "incident_id": "INC-000386",
+    "timestamp": "2026-01-08T12:50:00",
+    "site_id": "SITE-G",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 12:50, motion reported in the it office during a period with no scheduled activity."
+  },
+  {
+    "incident_id": "INC-000161",
+    "timestamp": "2026-01-08T14:58:00",
+    "site_id": "SITE-D",
+    "reporter_role": "account_manager",
+    "narrative_text": "At 14:58, a suspected theft was reported in the chapel."
+  },
+  {
+    "incident_id": "INC-000284",
+    "timestamp": "2026-01-08T16:46:00",
+    "site_id": "SITE-A",
+    "reporter_role": "guard",
+    "narrative_text": "A slip-and-fall was reported in the dormitory entrance at 16:46; first aid rendered."
+  },
+  {
+    "incident_id": "INC-000451",
+    "timestamp": "2026-01-08T18:32:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "Graffiti was found on the exterior wall near the library at 18:32."
+  },
+  {
+    "incident_id": "INC-000072",
+    "timestamp": "2026-01-08T19:09:00",
+    "site_id": "SITE-G",
+    "reporter_role": "supervisor",
+    "narrative_text": "Person observed inside the server room at 19:09 without escort or work authorization."
+  },
+  {
+    "incident_id": "INC-000430",
+    "timestamp": "2026-01-08T21:00:00",
+    "site_id": "SITE-E",
+    "reporter_role": "guard",
+    "narrative_text": "A slip-and-fall was reported in the cafeteria at 21:00; first aid rendered."
+  },
+  {
+    "incident_id": "INC-000447",
+    "timestamp": "2026-01-08T21:00:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "An unauthorized person was observed viewing a staff workstation screen in the administration office at 21:00."
+  },
+  {
+    "incident_id": "INC-000608",
+    "timestamp": "2026-01-09T00:05:00",
+    "site_id": "SITE-D",
+    "reporter_role": "guard",
+    "narrative_text": "Visitor at the records room at 00:05 declined to provide identification and had no record of appointment."
+  },
+  {
+    "incident_id": "INC-000427",
+    "timestamp": "2026-01-09T07:23:00",
+    "site_id": "SITE-F",
+    "reporter_role": "supervisor",
+    "narrative_text": "Observed an individual follow a badged person through the cafeteria access door at 07:23 without presenting credentials."
+  },
+  {
+    "incident_id": "INC-000068",
+    "timestamp": "2026-01-09T12:37:00",
+    "site_id": "SITE-E",
+    "reporter_role": "guard",
+    "narrative_text": "An unauthorized person was observed viewing a staff workstation screen in the courtyard at 12:37."
+  },
+  {
+    "incident_id": "INC-000313",
+    "timestamp": "2026-01-09T15:06:00",
+    "site_id": "SITE-C",
+    "reporter_role": "guard",
+    "narrative_text": "Graffiti was found on the exterior wall near the dormitory entrance at 15:06."
+  },
+  {
+    "incident_id": "INC-000047",
+    "timestamp": "2026-01-09T21:12:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "Camera covering the parking lot was found repositioned away from the entry at 21:12."
+  },
+  {
+    "incident_id": "INC-000318",
+    "timestamp": "2026-01-09T23:39:00",
+    "site_id": "SITE-D",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 23:39, an individual repeatedly tried badging at the server room reader; access denied."
+  },
+  {
+    "incident_id": "INC-000010",
+    "timestamp": "2026-01-10T10:25:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "At 10:25, a person at the dormitory entrance could not be verified against the visitor log."
+  },
+  {
+    "incident_id": "INC-000042",
+    "timestamp": "2026-01-10T11:37:00",
+    "site_id": "SITE-E",
+    "reporter_role": "guard",
+    "narrative_text": "Graffiti was found on the exterior wall near the rear entrance at 11:37."
+  },
+  {
+    "incident_id": "INC-000606",
+    "timestamp": "2026-01-10T12:37:00",
+    "site_id": "SITE-D",
+    "reporter_role": "account_manager",
+    "narrative_text": "At 12:37, a person at the cafeteria could not be verified against the visitor log."
+  },
+  {
+    "incident_id": "INC-000290",
+    "timestamp": "2026-01-11T02:43:00",
+    "site_id": "SITE-C",
+    "reporter_role": "supervisor",
+    "narrative_text": "A slip-and-fall was reported in the server room at 02:43; first aid rendered."
+  },
+  {
+    "incident_id": "INC-000607",
+    "timestamp": "2026-01-11T09:35:00",
+    "site_id": "SITE-D",
+    "reporter_role": "guard",
+    "narrative_text": "Visitor at the main gate at 09:35 declined to provide identification and had no record of appointment."
+  },
+  {
+    "incident_id": "INC-000043",
+    "timestamp": "2026-01-11T11:13:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "At 11:13, a trespasser was noted crossing into the grounds at the parking lot."
+  },
+  {
+    "incident_id": "INC-000597",
+    "timestamp": "2026-01-11T18:50:00",
+    "site_id": "SITE-A",
+    "reporter_role": "account_manager",
+    "narrative_text": "Graffiti was found on the exterior wall near the it office at 18:50."
+  },
+  {
+    "incident_id": "INC-000142",
+    "timestamp": "2026-01-11T23:50:00",
+    "site_id": "SITE-E",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 23:50, minor vandalism was noted at the server room."
+  },
+  {
+    "incident_id": "INC-000201",
+    "timestamp": "2026-01-11T23:55:00",
+    "site_id": "SITE-D",
+    "reporter_role": "account_manager",
+    "narrative_text": "Subject at server room at 23:55 attempted to talk past the officer using claimed authority and time pressure."
+  },
+  {
+    "incident_id": "INC-000489",
+    "timestamp": "2026-01-12T00:47:00",
+    "site_id": "SITE-E",
+    "reporter_role": "account_manager",
+    "narrative_text": "At 00:47, a trespasser was noted crossing into the grounds at the courtyard."
+  },
+  {
+    "incident_id": "INC-000603",
+    "timestamp": "2026-01-12T07:54:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "At 07:54 the cafeteria gate latch appeared forced and the door was standing open."
+  },
+  {
+    "incident_id": "INC-000233",
+    "timestamp": "2026-01-12T18:30:00",
+    "site_id": "SITE-F",
+    "reporter_role": "account_manager",
+    "narrative_text": "At 18:30, minor vandalism was noted at the library."
+  },
+  {
+    "incident_id": "INC-000025",
+    "timestamp": "2026-01-12T21:41:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "At 21:41, a fire alarm activated in the administration office; area checked and cleared."
+  },
+  {
+    "incident_id": "INC-000412",
+    "timestamp": "2026-01-13T04:48:00",
+    "site_id": "SITE-E",
+    "reporter_role": "guard",
+    "narrative_text": "At 04:48, a trespasser was noted crossing into the grounds at the main gate."
+  },
+  {
+    "incident_id": "INC-000392",
+    "timestamp": "2026-01-13T07:38:00",
+    "site_id": "SITE-A",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 07:38, a suspected theft was reported in the classroom building."
+  },
+  {
+    "incident_id": "INC-000018",
+    "timestamp": "2026-01-13T07:56:00",
+    "site_id": "SITE-B",
+    "reporter_role": "supervisor",
+    "narrative_text": "Power fluctuation reported in the server room at 07:56, affecting equipment."
+  },
+  {
+    "incident_id": "INC-000258",
+    "timestamp": "2026-01-13T14:08:00",
+    "site_id": "SITE-G",
+    "reporter_role": "supervisor",
+    "narrative_text": "A slip-and-fall was reported in the rear entrance at 14:08; first aid rendered."
+  },
+  {
+    "incident_id": "INC-000032",
+    "timestamp": "2026-01-13T16:05:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "Individual observed in the records room at 16:05, well outside authorized hours."
+  },
+  {
+    "incident_id": "INC-000366",
+    "timestamp": "2026-01-14T14:55:00",
+    "site_id": "SITE-D",
+    "reporter_role": "guard",
+    "narrative_text": "Camera covering the dormitory entrance was found repositioned away from the entry at 14:55."
+  },
+  {
+    "incident_id": "INC-000577",
+    "timestamp": "2026-01-14T15:35:00",
+    "site_id": "SITE-A",
+    "reporter_role": "guard",
+    "narrative_text": "An item was reported missing from the main lobby at 15:35."
+  },
+  {
+    "incident_id": "INC-000604",
+    "timestamp": "2026-01-14T16:34:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "Found the administration office door propped open with a wedge at 16:34; no personnel present."
+  },
+  {
+    "incident_id": "INC-000260",
+    "timestamp": "2026-01-14T17:03:00",
+    "site_id": "SITE-F",
+    "reporter_role": "guard",
+    "narrative_text": "At 17:03, a trespasser was noted crossing into the grounds at the main gate."
+  },
+  {
+    "incident_id": "INC-000138",
+    "timestamp": "2026-01-14T17:13:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "At 17:13, a subject was recording the courtyard entry layout on a phone."
+  },
+  {
+    "incident_id": "INC-000132",
+    "timestamp": "2026-01-14T20:52:00",
+    "site_id": "SITE-F",
+    "reporter_role": "guard",
+    "narrative_text": "At 20:52, documents marked sensitive were found exposed in the records room."
+  },
+  {
+    "incident_id": "INC-000517",
+    "timestamp": "2026-01-15T00:54:00",
+    "site_id": "SITE-F",
+    "reporter_role": "guard",
+    "narrative_text": "At 00:54, a suspected theft was reported in the rear entrance."
+  },
+  {
+    "incident_id": "INC-000057",
+    "timestamp": "2026-01-15T14:26:00",
+    "site_id": "SITE-E",
+    "reporter_role": "account_manager",
+    "narrative_text": "A slip-and-fall was reported in the server room at 14:26; first aid rendered."
+  },
+  {
+    "incident_id": "INC-000027",
+    "timestamp": "2026-01-15T14:51:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "Graffiti was found on the exterior wall near the records room at 14:51."
+  },
+  {
+    "incident_id": "INC-000605",
+    "timestamp": "2026-01-15T15:09:00",
+    "site_id": "SITE-D",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 15:09, a person at the main gate could not be verified against the visitor log."
+  },
+  {
+    "incident_id": "INC-000552",
+    "timestamp": "2026-01-15T16:18:00",
+    "site_id": "SITE-E",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 16:18, a suspected theft was reported in the main gate."
+  },
+  {
+    "incident_id": "INC-000404",
+    "timestamp": "2026-01-15T17:57:00",
+    "site_id": "SITE-F",
+    "reporter_role": "account_manager",
+    "narrative_text": "At 17:57, documents marked sensitive were found exposed in the administration office."
+  },
+  {
+    "incident_id": "INC-000090",
+    "timestamp": "2026-01-15T18:40:00",
+    "site_id": "SITE-D",
+    "reporter_role": "guard",
+    "narrative_text": "Subject observed moving through a known camera gap near the administration office at 18:40."
+  },
+  {
+    "incident_id": "INC-000601",
+    "timestamp": "2026-01-16T01:19:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "Found the it office door propped open with a wedge at 01:19; no personnel present."
+  },
+  {
+    "incident_id": "INC-000602",
+    "timestamp": "2026-01-16T03:05:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "Found the it office door propped open with a wedge at 03:05; no personnel present."
+  },
+  {
+    "incident_id": "INC-000184",
+    "timestamp": "2026-01-16T05:17:00",
+    "site_id": "SITE-C",
+    "reporter_role": "guard",
+    "narrative_text": "Visitor at the cafeteria at 05:17 declined to provide identification and had no record of appointment."
+  },
+  {
+    "incident_id": "INC-000082",
+    "timestamp": "2026-01-16T07:46:00",
+    "site_id": "SITE-B",
+    "reporter_role": "supervisor",
+    "narrative_text": "Individual observed in the parking lot at 07:46, well outside authorized hours."
+  },
+  {
+    "incident_id": "INC-000186",
+    "timestamp": "2026-01-16T11:14:00",
+    "site_id": "SITE-D",
+    "reporter_role": "guard",
+    "narrative_text": "At 11:14 the main lobby gate latch appeared forced and the door was standing open."
+  },
+  {
+    "incident_id": "INC-000240",
+    "timestamp": "2026-01-16T11:59:00",
+    "site_id": "SITE-F",
+    "reporter_role": "guard",
+    "narrative_text": "At 11:59, a trespasser was noted crossing into the grounds at the rear entrance."
+  },
+  {
+    "incident_id": "INC-000199",
+    "timestamp": "2026-01-16T13:38:00",
+    "site_id": "SITE-D",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 13:38, a subject lingered near the records room, noting access points and staff patterns."
+  },
+  {
+    "incident_id": "INC-000293",
+    "timestamp": "2026-01-16T16:47:00",
+    "site_id": "SITE-F",
+    "reporter_role": "guard",
+    "narrative_text": "At 16:47, a subject lingered near the main gate, noting access points and staff patterns."
+  },
+  {
+    "incident_id": "INC-000372",
+    "timestamp": "2026-01-16T18:06:00",
+    "site_id": "SITE-D",
+    "reporter_role": "guard",
+    "narrative_text": "At 18:06, a caller at the rear entrance pressured the officer to grant access 'just this once,' citing urgency from a senior name."
+  },
+  {
+    "incident_id": "INC-000546",
+    "timestamp": "2026-01-16T19:02:00",
+    "site_id": "SITE-C",
+    "reporter_role": "guard",
+    "narrative_text": "At 19:02, minor vandalism was noted at the it office."
+  },
+  {
+    "incident_id": "INC-000262",
+    "timestamp": "2026-01-16T21:42:00",
+    "site_id": "SITE-D",
+    "reporter_role": "guard",
+    "narrative_text": "Documents containing personal information were found in open trash at the parking lot at 21:42."
+  },
+  {
+    "incident_id": "INC-000300",
+    "timestamp": "2026-01-16T23:57:00",
+    "site_id": "SITE-G",
+    "reporter_role": "account_manager",
+    "narrative_text": "A slip-and-fall was reported in the rear entrance at 23:57; first aid rendered."
+  },
+  {
+    "incident_id": "INC-000502",
+    "timestamp": "2026-01-17T02:03:00",
+    "site_id": "SITE-A",
+    "reporter_role": "supervisor",
+    "narrative_text": "An individual was observed climbing the perimeter fence near the parking lot at 02:03."
+  },
+  {
+    "incident_id": "INC-000545",
+    "timestamp": "2026-01-17T04:30:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "An item was reported missing from the server room at 04:30."
+  },
+  {
+    "incident_id": "INC-000445",
+    "timestamp": "2026-01-17T04:39:00",
+    "site_id": "SITE-D",
+    "reporter_role": "guard",
+    "narrative_text": "At 04:39 the parking lot gate latch appeared forced and the door was standing open."
+  },
+  {
+    "incident_id": "INC-000002",
+    "timestamp": "2026-01-17T06:14:00",
+    "site_id": "SITE-A",
+    "reporter_role": "guard",
+    "narrative_text": "Observed an individual follow a badged person through the rear entrance access door at 06:14 without presenting credentials."
+  },
+  {
+    "incident_id": "INC-000439",
+    "timestamp": "2026-01-17T07:22:00",
+    "site_id": "SITE-F",
+    "reporter_role": "guard",
+    "narrative_text": "At 07:22, a cooling failure was noted in the server room."
+  },
+  {
+    "incident_id": "INC-000107",
+    "timestamp": "2026-01-17T07:53:00",
+    "site_id": "SITE-D",
+    "reporter_role": "supervisor",
+    "narrative_text": "Individual observed in the server room at 07:53, well outside authorized hours."
+  },
+  {
+    "incident_id": "INC-000385",
+    "timestamp": "2026-01-17T08:24:00",
+    "site_id": "SITE-A",
+    "reporter_role": "guard",
+    "narrative_text": "Documents containing personal information were found in open trash at the administration office at 08:24."
+  },
+  {
+    "incident_id": "INC-000408",
+    "timestamp": "2026-01-17T09:52:00",
+    "site_id": "SITE-D",
+    "reporter_role": "account_manager",
+    "narrative_text": "At 09:52, a suspected theft was reported in the administration office."
+  },
+  {
+    "incident_id": "INC-000377",
+    "timestamp": "2026-01-17T22:15:00",
+    "site_id": "SITE-B",
+    "reporter_role": "supervisor",
+    "narrative_text": "An individual was observed climbing the perimeter fence near the courtyard at 22:15."
+  },
+  {
+    "incident_id": "INC-000407",
+    "timestamp": "2026-01-18T01:25:00",
+    "site_id": "SITE-B",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 01:25, a caller at the courtyard pressured the officer to grant access 'just this once,' citing urgency from a senior name."
+  },
+  {
+    "incident_id": "INC-000334",
+    "timestamp": "2026-01-18T04:48:00",
+    "site_id": "SITE-F",
+    "reporter_role": "guard",
+    "narrative_text": "A patch cable in the classroom building was found disconnected at 04:48."
+  },
+  {
+    "incident_id": "INC-000126",
+    "timestamp": "2026-01-18T20:41:00",
+    "site_id": "SITE-F",
+    "reporter_role": "supervisor",
+    "narrative_text": "Individual at main lobby at 20:41 claimed to be an IT vendor but could not produce a work order or company ID."
+  },
+  {
+    "incident_id": "INC-000569",
+    "timestamp": "2026-01-18T22:10:00",
+    "site_id": "SITE-D",
+    "reporter_role": "guard",
+    "narrative_text": "At 22:10, a suspected theft was reported in the main lobby."
+  },
+  {
+    "incident_id": "INC-000277",
+    "timestamp": "2026-01-18T23:30:00",
+    "site_id": "SITE-D",
+    "reporter_role": "guard",
+    "narrative_text": "At 23:30, a fire alarm activated in the network closet; area checked and cleared."
+  },
+  {
+    "incident_id": "INC-000038",
+    "timestamp": "2026-01-19T04:16:00",
+    "site_id": "SITE-F",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 04:16, a caller at the chapel pressured the officer to grant access 'just this once,' citing urgency from a senior name."
+  },
+  {
+    "incident_id": "INC-000102",
+    "timestamp": "2026-01-19T05:21:00",
+    "site_id": "SITE-F",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 05:21, a trespasser was noted crossing into the grounds at the rear entrance."
+  },
+  {
+    "incident_id": "INC-000370",
+    "timestamp": "2026-01-19T06:33:00",
+    "site_id": "SITE-C",
+    "reporter_role": "supervisor",
+    "narrative_text": "Individual seen repeatedly observing the classroom building entrances and photographing the layout at 06:33."
+  },
+  {
+    "incident_id": "INC-000225",
+    "timestamp": "2026-01-19T13:08:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "At 13:08, a suspected theft was reported in the server room."
+  },
+  {
+    "incident_id": "INC-000074",
+    "timestamp": "2026-01-19T18:01:00",
+    "site_id": "SITE-C",
+    "reporter_role": "account_manager",
+    "narrative_text": "At 18:01, a self-described maintenance contractor sought access to the server room without a verifiable assignment."
+  },
+  {
+    "incident_id": "INC-000049",
+    "timestamp": "2026-01-19T19:27:00",
+    "site_id": "SITE-A",
+    "reporter_role": "guard",
+    "narrative_text": "At 19:27, a trespasser was noted crossing into the grounds at the courtyard."
+  },
+  {
+    "incident_id": "INC-000316",
+    "timestamp": "2026-01-19T21:51:00",
+    "site_id": "SITE-F",
+    "reporter_role": "guard",
+    "narrative_text": "An individual was observed climbing the perimeter fence near the parking lot at 21:51."
+  },
+  {
+    "incident_id": "INC-000510",
+    "timestamp": "2026-01-20T05:42:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "Access log at network closet showed the same credential used at two separate points within minutes around 05:42."
+  },
+  {
+    "incident_id": "INC-000162",
+    "timestamp": "2026-01-20T12:01:00",
+    "site_id": "SITE-C",
+    "reporter_role": "account_manager",
+    "narrative_text": "At 12:01, an individual repeatedly tried badging at the main gate reader; access denied."
+  },
+  {
+    "incident_id": "INC-000129",
+    "timestamp": "2026-01-20T14:04:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "Subject at library at 14:04 attempted to talk past the officer using claimed authority and time pressure."
+  },
+  {
+    "incident_id": "INC-000394",
+    "timestamp": "2026-01-20T16:55:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "At 16:55, minor vandalism was noted at the main gate."
+  },
+  {
+    "incident_id": "INC-000141",
+    "timestamp": "2026-01-20T23:04:00",
+    "site_id": "SITE-E",
+    "reporter_role": "guard",
+    "narrative_text": "A slip-and-fall was reported in the cafeteria at 23:04; first aid rendered."
+  },
+  {
+    "incident_id": "INC-000508",
+    "timestamp": "2026-01-21T01:00:00",
+    "site_id": "SITE-B",
+    "reporter_role": "supervisor",
+    "narrative_text": "Individual observed in the courtyard at 01:00, well outside authorized hours."
+  },
+  {
+    "incident_id": "INC-000376",
+    "timestamp": "2026-01-21T02:10:00",
+    "site_id": "SITE-C",
+    "reporter_role": "guard",
+    "narrative_text": "A slip-and-fall was reported in the network closet at 02:10; first aid rendered."
+  },
+  {
+    "incident_id": "INC-000331",
+    "timestamp": "2026-01-21T07:13:00",
+    "site_id": "SITE-D",
+    "reporter_role": "account_manager",
+    "narrative_text": "At 07:13, a suspected theft was reported in the network closet."
+  },
+  {
+    "incident_id": "INC-000033",
+    "timestamp": "2026-01-21T18:15:00",
+    "site_id": "SITE-D",
+    "reporter_role": "guard",
+    "narrative_text": "Individual at courtyard at 18:15 claimed to be an IT vendor but could not produce a work order or company ID."
+  },
+  {
+    "incident_id": "INC-000349",
+    "timestamp": "2026-01-21T18:46:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "At 18:46, documents marked sensitive were found exposed in the records room."
+  },
+  {
+    "incident_id": "INC-000076",
+    "timestamp": "2026-01-21T18:50:00",
+    "site_id": "SITE-G",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 18:50, a subject lingered near the main lobby, noting access points and staff patterns."
+  },
+  {
+    "incident_id": "INC-000253",
+    "timestamp": "2026-01-21T20:58:00",
+    "site_id": "SITE-F",
+    "reporter_role": "account_manager",
+    "narrative_text": "An individual was observed climbing the perimeter fence near the courtyard at 20:58."
+  },
+  {
+    "incident_id": "INC-000298",
+    "timestamp": "2026-01-22T02:11:00",
+    "site_id": "SITE-A",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 02:11, a trespasser was noted crossing into the grounds at the rear entrance."
+  },
+  {
+    "incident_id": "INC-000203",
+    "timestamp": "2026-01-22T02:15:00",
+    "site_id": "SITE-A",
+    "reporter_role": "guard",
+    "narrative_text": "At 02:15, a fire alarm activated in the network closet; area checked and cleared."
+  },
+  {
+    "incident_id": "INC-000448",
+    "timestamp": "2026-01-22T03:24:00",
+    "site_id": "SITE-C",
+    "reporter_role": "guard",
+    "narrative_text": "At 03:24, a caller at the rear entrance pressured the officer to grant access 'just this once,' citing urgency from a senior name."
+  },
+  {
+    "incident_id": "INC-000019",
+    "timestamp": "2026-01-22T04:42:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "At 04:42, a subject was recording the cafeteria entry layout on a phone."
+  },
+  {
+    "incident_id": "INC-000393",
+    "timestamp": "2026-01-22T10:45:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "Graffiti was found on the exterior wall near the library at 10:45."
+  },
+  {
+    "incident_id": "INC-000213",
+    "timestamp": "2026-01-22T13:32:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "Graffiti was found on the exterior wall near the server room at 13:32."
+  },
+  {
+    "incident_id": "INC-000263",
+    "timestamp": "2026-01-22T23:14:00",
+    "site_id": "SITE-E",
+    "reporter_role": "guard",
+    "narrative_text": "At 23:14, a fire alarm activated in the records room; area checked and cleared."
+  },
+  {
+    "incident_id": "INC-000379",
+    "timestamp": "2026-01-23T03:00:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "An item was reported missing from the main lobby at 03:00."
+  },
+  {
+    "incident_id": "INC-000526",
+    "timestamp": "2026-01-23T14:10:00",
+    "site_id": "SITE-E",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 14:10, documents marked sensitive were found exposed in the administration office."
+  },
+  {
+    "incident_id": "INC-000250",
+    "timestamp": "2026-01-23T15:20:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "At 15:20, a suspected theft was reported in the server room."
+  },
+  {
+    "incident_id": "INC-000229",
+    "timestamp": "2026-01-23T22:21:00",
+    "site_id": "SITE-A",
+    "reporter_role": "supervisor",
+    "narrative_text": "At approximately 22:21, a subject entered via the network closet behind an authorized employee and did not badge in."
+  },
+  {
+    "incident_id": "INC-000221",
+    "timestamp": "2026-01-24T03:03:00",
+    "site_id": "SITE-B",
+    "reporter_role": "account_manager",
+    "narrative_text": "At 03:03, a fire alarm activated in the dormitory entrance; area checked and cleared."
+  },
+  {
+    "incident_id": "INC-000139",
+    "timestamp": "2026-01-24T04:34:00",
+    "site_id": "SITE-C",
+    "reporter_role": "guard",
+    "narrative_text": "Visitor at the dormitory entrance at 04:34 declined to provide identification and had no record of appointment."
+  },
+  {
+    "incident_id": "INC-000271",
+    "timestamp": "2026-01-24T14:58:00",
+    "site_id": "SITE-C",
+    "reporter_role": "guard",
+    "narrative_text": "At 14:58, minor vandalism was noted at the main lobby."
+  },
+  {
+    "incident_id": "INC-000532",
+    "timestamp": "2026-01-24T18:52:00",
+    "site_id": "SITE-E",
+    "reporter_role": "account_manager",
+    "narrative_text": "At 18:52, a fire alarm activated in the network closet; area checked and cleared."
+  },
+  {
+    "incident_id": "INC-000420",
+    "timestamp": "2026-01-24T19:38:00",
+    "site_id": "SITE-D",
+    "reporter_role": "guard",
+    "narrative_text": "At 19:38, a trespasser was noted crossing into the grounds at the rear entrance."
+  },
+  {
+    "incident_id": "INC-000335",
+    "timestamp": "2026-01-24T22:20:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "At 22:20, a self-described maintenance contractor sought access to the records room without a verifiable assignment."
+  },
+  {
+    "incident_id": "INC-000590",
+    "timestamp": "2026-01-25T00:31:00",
+    "site_id": "SITE-A",
+    "reporter_role": "guard",
+    "narrative_text": "At 00:31, a self-described maintenance contractor sought access to the classroom building without a verifiable assignment."
+  },
+  {
+    "incident_id": "INC-000171",
+    "timestamp": "2026-01-25T01:28:00",
+    "site_id": "SITE-E",
+    "reporter_role": "guard",
+    "narrative_text": "A slip-and-fall was reported in the chapel at 01:28; first aid rendered."
+  },
+  {
+    "incident_id": "INC-000044",
+    "timestamp": "2026-01-25T07:55:00",
+    "site_id": "SITE-E",
+    "reporter_role": "guard",
+    "narrative_text": "Subject observed moving through a known camera gap near the library at 07:55."
+  },
+  {
+    "incident_id": "INC-000493",
+    "timestamp": "2026-01-25T10:38:00",
+    "site_id": "SITE-A",
+    "reporter_role": "account_manager",
+    "narrative_text": "At 10:38, a self-described maintenance contractor sought access to the main lobby without a verifiable assignment."
+  },
+  {
+    "incident_id": "INC-000348",
+    "timestamp": "2026-01-25T13:39:00",
+    "site_id": "SITE-F",
+    "reporter_role": "guard",
+    "narrative_text": "Graffiti was found on the exterior wall near the administration office at 13:39."
+  },
+  {
+    "incident_id": "INC-000254",
+    "timestamp": "2026-01-25T14:47:00",
+    "site_id": "SITE-D",
+    "reporter_role": "guard",
+    "narrative_text": "At 14:47, minor vandalism was noted at the courtyard."
+  },
+  {
+    "incident_id": "INC-000204",
+    "timestamp": "2026-01-25T21:28:00",
+    "site_id": "SITE-E",
+    "reporter_role": "supervisor",
+    "narrative_text": "An item was reported missing from the main gate at 21:28."
+  },
+  {
+    "incident_id": "INC-000147",
+    "timestamp": "2026-01-25T21:59:00",
+    "site_id": "SITE-C",
+    "reporter_role": "guard",
+    "narrative_text": "An individual was observed climbing the perimeter fence near the rear entrance at 21:59."
+  },
+  {
+    "incident_id": "INC-000464",
+    "timestamp": "2026-01-26T03:26:00",
+    "site_id": "SITE-G",
+    "reporter_role": "account_manager",
+    "narrative_text": "At 03:26, a person at the server room could not be verified against the visitor log."
+  },
+  {
+    "incident_id": "INC-000362",
+    "timestamp": "2026-01-26T08:49:00",
+    "site_id": "SITE-C",
+    "reporter_role": "guard",
+    "narrative_text": "Graffiti was found on the exterior wall near the chapel at 08:49."
+  },
+  {
+    "incident_id": "INC-000486",
+    "timestamp": "2026-01-26T09:43:00",
+    "site_id": "SITE-C",
+    "reporter_role": "guard",
+    "narrative_text": "At 09:43, a self-described maintenance contractor sought access to the dormitory entrance without a verifiable assignment."
+  },
+  {
+    "incident_id": "INC-000598",
+    "timestamp": "2026-01-26T15:05:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "An item was reported missing from the administration office at 15:05."
+  },
+  {
+    "incident_id": "INC-000492",
+    "timestamp": "2026-01-26T18:54:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "At 18:54, a trespasser was noted crossing into the grounds at the courtyard."
+  },
+  {
+    "incident_id": "INC-000061",
+    "timestamp": "2026-01-26T23:55:00",
+    "site_id": "SITE-D",
+    "reporter_role": "guard",
+    "narrative_text": "Individual seen repeatedly observing the cafeteria entrances and photographing the layout at 23:55."
+  },
+  {
+    "incident_id": "INC-000579",
+    "timestamp": "2026-01-27T00:02:00",
+    "site_id": "SITE-E",
+    "reporter_role": "guard",
+    "narrative_text": "At 00:02 the administration office gate latch appeared forced and the door was standing open."
+  },
+  {
+    "incident_id": "INC-000327",
+    "timestamp": "2026-01-27T02:36:00",
+    "site_id": "SITE-D",
+    "reporter_role": "guard",
+    "narrative_text": "Unexpected parcel left at the main lobby at 02:36, addressed to no known recipient."
+  },
+  {
+    "incident_id": "INC-000415",
+    "timestamp": "2026-01-27T06:51:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "At 06:51, a fire alarm activated in the classroom building; area checked and cleared."
+  },
+  {
+    "incident_id": "INC-000530",
+    "timestamp": "2026-01-27T08:59:00",
+    "site_id": "SITE-A",
+    "reporter_role": "guard",
+    "narrative_text": "Confidential files were left unattended on a desk in the administration office at 08:59."
+  },
+  {
+    "incident_id": "INC-000097",
+    "timestamp": "2026-01-27T09:38:00",
+    "site_id": "SITE-A",
+    "reporter_role": "supervisor",
+    "narrative_text": "Camera covering the it office was found repositioned away from the entry at 09:38."
+  },
+  {
+    "incident_id": "INC-000382",
+    "timestamp": "2026-01-27T18:27:00",
+    "site_id": "SITE-A",
+    "reporter_role": "guard",
+    "narrative_text": "At 18:27, a fire alarm activated in the records room; area checked and cleared."
+  },
+  {
+    "incident_id": "INC-000405",
+    "timestamp": "2026-01-27T19:56:00",
+    "site_id": "SITE-F",
+    "reporter_role": "guard",
+    "narrative_text": "Unexpected parcel left at the parking lot at 19:56, addressed to no known recipient."
+  },
+  {
+    "incident_id": "INC-000409",
+    "timestamp": "2026-01-27T20:18:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "At 20:18, a suspected theft was reported in the chapel."
+  },
+  {
+    "incident_id": "INC-000548",
+    "timestamp": "2026-01-27T21:02:00",
+    "site_id": "SITE-E",
+    "reporter_role": "guard",
+    "narrative_text": "Graffiti was found on the exterior wall near the main gate at 21:02."
+  },
+  {
+    "incident_id": "INC-000378",
+    "timestamp": "2026-01-28T00:25:00",
+    "site_id": "SITE-G",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 00:25, a caller at the records room pressured the officer to grant access 'just this once,' citing urgency from a senior name."
+  },
+  {
+    "incident_id": "INC-000285",
+    "timestamp": "2026-01-28T03:58:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "Subject attempted entry at the chapel at 03:58 without authorization and was turned away."
+  },
+  {
+    "incident_id": "INC-000166",
+    "timestamp": "2026-01-28T19:09:00",
+    "site_id": "SITE-B",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 19:09, a trespasser was noted crossing into the grounds at the main gate."
+  },
+  {
+    "incident_id": "INC-000547",
+    "timestamp": "2026-01-28T20:31:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "At 20:31, a person at the cafeteria could not be verified against the visitor log."
+  },
+  {
+    "incident_id": "INC-000491",
+    "timestamp": "2026-01-28T23:32:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "At 23:32, a suspected theft was reported in the chapel."
+  },
+  {
+    "incident_id": "INC-000438",
+    "timestamp": "2026-01-29T09:06:00",
+    "site_id": "SITE-E",
+    "reporter_role": "guard",
+    "narrative_text": "Individual seen repeatedly observing the cafeteria entrances and photographing the layout at 09:06."
+  },
+  {
+    "incident_id": "INC-000323",
+    "timestamp": "2026-01-29T11:44:00",
+    "site_id": "SITE-A",
+    "reporter_role": "guard",
+    "narrative_text": "At 11:44, a trespasser was noted crossing into the grounds at the parking lot."
+  },
+  {
+    "incident_id": "INC-000411",
+    "timestamp": "2026-01-29T14:02:00",
+    "site_id": "SITE-C",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 14:02, a fire alarm activated in the dormitory entrance; area checked and cleared."
+  },
+  {
+    "incident_id": "INC-000565",
+    "timestamp": "2026-01-29T15:27:00",
+    "site_id": "SITE-C",
+    "reporter_role": "guard",
+    "narrative_text": "At 15:27, a trespasser was noted crossing into the grounds at the parking lot."
+  },
+  {
+    "incident_id": "INC-000198",
+    "timestamp": "2026-01-29T15:44:00",
+    "site_id": "SITE-C",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 15:44, an unscheduled delivery was dropped at the cafeteria with no manifest."
+  },
+  {
+    "incident_id": "INC-000561",
+    "timestamp": "2026-01-29T16:17:00",
+    "site_id": "SITE-D",
+    "reporter_role": "account_manager",
+    "narrative_text": "An individual was observed climbing the perimeter fence near the rear entrance at 16:17."
+  },
+  {
+    "incident_id": "INC-000566",
+    "timestamp": "2026-01-29T18:08:00",
+    "site_id": "SITE-D",
+    "reporter_role": "guard",
+    "narrative_text": "Subject observed moving through a known camera gap near the courtyard at 18:08."
+  },
+  {
+    "incident_id": "INC-000600",
+    "timestamp": "2026-01-30T00:44:00",
+    "site_id": "SITE-F",
+    "reporter_role": "guard",
+    "narrative_text": "At 00:44, movement was noted along the parking lot route that avoids camera coverage."
+  },
+  {
+    "incident_id": "INC-000273",
+    "timestamp": "2026-01-30T01:17:00",
+    "site_id": "SITE-E",
+    "reporter_role": "guard",
+    "narrative_text": "Camera covering the parking lot was found repositioned away from the entry at 01:17."
+  },
+  {
+    "incident_id": "INC-000249",
+    "timestamp": "2026-01-30T05:39:00",
+    "site_id": "SITE-F",
+    "reporter_role": "guard",
+    "narrative_text": "At 05:39, a subject lingered near the records room, noting access points and staff patterns."
+  },
+  {
+    "incident_id": "INC-000026",
+    "timestamp": "2026-01-30T06:34:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "Visitor at the cafeteria at 06:34 declined to provide identification and had no record of appointment."
+  },
+  {
+    "incident_id": "INC-000109",
+    "timestamp": "2026-01-30T19:32:00",
+    "site_id": "SITE-D",
+    "reporter_role": "guard",
+    "narrative_text": "At 19:32, minor vandalism was noted at the it office."
+  },
+  {
+    "incident_id": "INC-000275",
+    "timestamp": "2026-01-30T23:07:00",
+    "site_id": "SITE-B",
+    "reporter_role": "account_manager",
+    "narrative_text": "Person observed inside the network closet at 23:07 without escort or work authorization."
+  },
+  {
+    "incident_id": "INC-000367",
+    "timestamp": "2026-01-31T09:36:00",
+    "site_id": "SITE-C",
+    "reporter_role": "account_manager",
+    "narrative_text": "Observed an individual follow a badged person through the network closet access door at 09:36 without presenting credentials."
+  },
+  {
+    "incident_id": "INC-000368",
+    "timestamp": "2026-01-31T23:57:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "A slip-and-fall was reported in the rear entrance at 23:57; first aid rendered."
+  },
+  {
+    "incident_id": "INC-000235",
+    "timestamp": "2026-02-01T13:32:00",
+    "site_id": "SITE-F",
+    "reporter_role": "supervisor",
+    "narrative_text": "A slip-and-fall was reported in the network closet at 13:32; first aid rendered."
+  },
+  {
+    "incident_id": "INC-000291",
+    "timestamp": "2026-02-01T18:09:00",
+    "site_id": "SITE-A",
+    "reporter_role": "guard",
+    "narrative_text": "An individual was observed climbing the perimeter fence near the rear entrance at 18:09."
+  },
+  {
+    "incident_id": "INC-000093",
+    "timestamp": "2026-02-01T20:13:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "Observed an individual follow a badged person through the dormitory entrance access door at 20:13 without presenting credentials."
+  },
+  {
+    "incident_id": "INC-000034",
+    "timestamp": "2026-02-01T21:45:00",
+    "site_id": "SITE-C",
+    "reporter_role": "guard",
+    "narrative_text": "At 21:45, a trespasser was noted crossing into the grounds at the courtyard."
+  },
+  {
+    "incident_id": "INC-000267",
+    "timestamp": "2026-02-02T01:08:00",
+    "site_id": "SITE-E",
+    "reporter_role": "guard",
+    "narrative_text": "At 01:08, minor vandalism was noted at the rear entrance."
+  },
+  {
+    "incident_id": "INC-000354",
+    "timestamp": "2026-02-02T01:59:00",
+    "site_id": "SITE-C",
+    "reporter_role": "supervisor",
+    "narrative_text": "At approximately 01:59, a subject entered via the main lobby behind an authorized employee and did not badge in."
+  },
+  {
+    "incident_id": "INC-000064",
+    "timestamp": "2026-02-02T02:26:00",
+    "site_id": "SITE-F",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 02:26, minor vandalism was noted at the parking lot."
+  },
+  {
+    "incident_id": "INC-000339",
+    "timestamp": "2026-02-02T15:17:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "A slip-and-fall was reported in the main gate at 15:17; first aid rendered."
+  },
+  {
+    "incident_id": "INC-000055",
+    "timestamp": "2026-02-02T16:30:00",
+    "site_id": "SITE-F",
+    "reporter_role": "guard",
+    "narrative_text": "A slip-and-fall was reported in the network closet at 16:30; first aid rendered."
+  },
+  {
+    "incident_id": "INC-000086",
+    "timestamp": "2026-02-02T23:30:00",
+    "site_id": "SITE-B",
+    "reporter_role": "account_manager",
+    "narrative_text": "At 23:30, minor vandalism was noted at the dormitory entrance."
+  },
+  {
+    "incident_id": "INC-000178",
+    "timestamp": "2026-02-03T04:09:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "Power fluctuation reported in the server room at 04:09, affecting equipment."
+  },
+  {
+    "incident_id": "INC-000287",
+    "timestamp": "2026-02-03T09:43:00",
+    "site_id": "SITE-F",
+    "reporter_role": "guard",
+    "narrative_text": "Graffiti was found on the exterior wall near the records room at 09:43."
+  },
+  {
+    "incident_id": "INC-000214",
+    "timestamp": "2026-02-03T11:33:00",
+    "site_id": "SITE-C",
+    "reporter_role": "guard",
+    "narrative_text": "At 11:33, minor vandalism was noted at the server room."
+  },
+  {
+    "incident_id": "INC-000158",
+    "timestamp": "2026-02-03T12:38:00",
+    "site_id": "SITE-A",
+    "reporter_role": "guard",
+    "narrative_text": "Access log at main lobby showed the same credential used at two separate points within minutes around 12:38."
+  },
+  {
+    "incident_id": "INC-000473",
+    "timestamp": "2026-02-03T14:21:00",
+    "site_id": "SITE-G",
+    "reporter_role": "account_manager",
+    "narrative_text": "At 14:21, a suspected theft was reported in the rear entrance."
+  },
+  {
+    "incident_id": "INC-000071",
+    "timestamp": "2026-02-03T20:04:00",
+    "site_id": "SITE-C",
+    "reporter_role": "guard",
+    "narrative_text": "An item was reported missing from the network closet at 20:04."
+  },
+  {
+    "incident_id": "INC-000278",
+    "timestamp": "2026-02-03T23:09:00",
+    "site_id": "SITE-E",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 23:09, a suspected theft was reported in the main lobby."
+  },
+  {
+    "incident_id": "INC-000242",
+    "timestamp": "2026-02-04T01:06:00",
+    "site_id": "SITE-F",
+    "reporter_role": "supervisor",
+    "narrative_text": "Graffiti was found on the exterior wall near the parking lot at 01:06."
+  },
+  {
+    "incident_id": "INC-000538",
+    "timestamp": "2026-02-04T02:18:00",
+    "site_id": "SITE-D",
+    "reporter_role": "guard",
+    "narrative_text": "An individual was observed climbing the perimeter fence near the rear entrance at 02:18."
+  },
+  {
+    "incident_id": "INC-000007",
+    "timestamp": "2026-02-04T03:24:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "Visitor at the dormitory entrance at 03:24 declined to provide identification and had no record of appointment."
+  },
+  {
+    "incident_id": "INC-000087",
+    "timestamp": "2026-02-04T11:11:00",
+    "site_id": "SITE-C",
+    "reporter_role": "supervisor",
+    "narrative_text": "A USB flash drive was found unattended in the dormitory entrance at 11:11."
+  },
+  {
+    "incident_id": "INC-000295",
+    "timestamp": "2026-02-04T11:35:00",
+    "site_id": "SITE-D",
+    "reporter_role": "guard",
+    "narrative_text": "At 11:35, movement was noted along the parking lot route that avoids camera coverage."
+  },
+  {
+    "incident_id": "INC-000279",
+    "timestamp": "2026-02-04T12:36:00",
+    "site_id": "SITE-C",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 12:36, minor vandalism was noted at the records room."
+  },
+  {
+    "incident_id": "INC-000543",
+    "timestamp": "2026-02-04T14:50:00",
+    "site_id": "SITE-A",
+    "reporter_role": "guard",
+    "narrative_text": "Individual seen repeatedly observing the it office entrances and photographing the layout at 14:50."
+  },
+  {
+    "incident_id": "INC-000160",
+    "timestamp": "2026-02-04T16:35:00",
+    "site_id": "SITE-E",
+    "reporter_role": "guard",
+    "narrative_text": "A slip-and-fall was reported in the records room at 16:35; first aid rendered."
+  },
+  {
+    "incident_id": "INC-000125",
+    "timestamp": "2026-02-04T19:51:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "At 19:51, movement was noted along the main gate route that avoids camera coverage."
+  },
+  {
+    "incident_id": "INC-000252",
+    "timestamp": "2026-02-05T01:42:00",
+    "site_id": "SITE-F",
+    "reporter_role": "guard",
+    "narrative_text": "An individual was observed climbing the perimeter fence near the main gate at 01:42."
+  },
+  {
+    "incident_id": "INC-000470",
+    "timestamp": "2026-02-05T02:29:00",
+    "site_id": "SITE-D",
+    "reporter_role": "guard",
+    "narrative_text": "At 02:29, an individual repeatedly tried badging at the cafeteria reader; access denied."
+  },
+  {
+    "incident_id": "INC-000123",
+    "timestamp": "2026-02-05T12:36:00",
+    "site_id": "SITE-A",
+    "reporter_role": "guard",
+    "narrative_text": "At 12:36, an unknown laptop was found connected to a network port in the library."
+  },
+  {
+    "incident_id": "INC-000140",
+    "timestamp": "2026-02-05T18:20:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "An individual was observed climbing the perimeter fence near the main gate at 18:20."
+  },
+  {
+    "incident_id": "INC-000390",
+    "timestamp": "2026-02-05T18:20:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "Graffiti was found on the exterior wall near the network closet at 18:20."
+  },
+  {
+    "incident_id": "INC-000112",
+    "timestamp": "2026-02-05T18:24:00",
+    "site_id": "SITE-F",
+    "reporter_role": "guard",
+    "narrative_text": "At 18:24, the server room was found unlocked and occupied by an unidentified individual."
+  },
+  {
+    "incident_id": "INC-000520",
+    "timestamp": "2026-02-05T19:43:00",
+    "site_id": "SITE-F",
+    "reporter_role": "guard",
+    "narrative_text": "At 19:43, a suspected theft was reported in the library."
+  },
+  {
+    "incident_id": "INC-000576",
+    "timestamp": "2026-02-05T21:16:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "An item was reported missing from the it office at 21:16."
+  },
+  {
+    "incident_id": "INC-000056",
+    "timestamp": "2026-02-05T21:19:00",
+    "site_id": "SITE-A",
+    "reporter_role": "guard",
+    "narrative_text": "An individual was observed climbing the perimeter fence near the parking lot at 21:19."
+  },
+  {
+    "incident_id": "INC-000193",
+    "timestamp": "2026-02-05T23:42:00",
+    "site_id": "SITE-C",
+    "reporter_role": "account_manager",
+    "narrative_text": "At 23:42, a suspected theft was reported in the administration office."
+  },
+  {
+    "incident_id": "INC-000529",
+    "timestamp": "2026-02-06T01:08:00",
+    "site_id": "SITE-A",
+    "reporter_role": "guard",
+    "narrative_text": "Subject attempted entry at the courtyard at 01:08 without authorization and was turned away."
+  },
+  {
+    "incident_id": "INC-000091",
+    "timestamp": "2026-02-06T03:35:00",
+    "site_id": "SITE-A",
+    "reporter_role": "account_manager",
+    "narrative_text": "Subject observed moving through a known camera gap near the network closet at 03:35."
+  },
+  {
+    "incident_id": "INC-000585",
+    "timestamp": "2026-02-06T05:45:00",
+    "site_id": "SITE-D",
+    "reporter_role": "guard",
+    "narrative_text": "At 05:45, a fire alarm activated in the it office; area checked and cleared."
+  },
+  {
+    "incident_id": "INC-000021",
+    "timestamp": "2026-02-06T07:04:00",
+    "site_id": "SITE-A",
+    "reporter_role": "account_manager",
+    "narrative_text": "Documents containing personal information were found in open trash at the records room at 07:04."
+  },
+  {
+    "incident_id": "INC-000272",
+    "timestamp": "2026-02-06T08:13:00",
+    "site_id": "SITE-D",
+    "reporter_role": "guard",
+    "narrative_text": "At 08:13 the main gate gate latch appeared forced and the door was standing open."
+  },
+  {
+    "incident_id": "INC-000559",
+    "timestamp": "2026-02-06T19:22:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "Graffiti was found on the exterior wall near the library at 19:22."
+  },
+  {
+    "incident_id": "INC-000255",
+    "timestamp": "2026-02-06T21:48:00",
+    "site_id": "SITE-G",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 21:48, a self-described maintenance contractor sought access to the courtyard without a verifiable assignment."
+  },
+  {
+    "incident_id": "INC-000296",
+    "timestamp": "2026-02-06T22:04:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "At 22:04, a trespasser was noted crossing into the grounds at the main gate."
+  },
+  {
+    "incident_id": "INC-000183",
+    "timestamp": "2026-02-07T01:41:00",
+    "site_id": "SITE-G",
+    "reporter_role": "supervisor",
+    "narrative_text": "Camera covering the cafeteria was found repositioned away from the entry at 01:41."
+  },
+  {
+    "incident_id": "INC-000188",
+    "timestamp": "2026-02-07T06:53:00",
+    "site_id": "SITE-A",
+    "reporter_role": "account_manager",
+    "narrative_text": "At approximately 06:53, a subject entered via the library behind an authorized employee and did not badge in."
+  },
+  {
+    "incident_id": "INC-000159",
+    "timestamp": "2026-02-07T09:20:00",
+    "site_id": "SITE-G",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 09:20, the server room was found unlocked and occupied by an unidentified individual."
+  },
+  {
+    "incident_id": "INC-000498",
+    "timestamp": "2026-02-07T17:46:00",
+    "site_id": "SITE-D",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 17:46, a suspected theft was reported in the dormitory entrance."
+  },
+  {
+    "incident_id": "INC-000014",
+    "timestamp": "2026-02-07T17:55:00",
+    "site_id": "SITE-E",
+    "reporter_role": "guard",
+    "narrative_text": "At 17:55, a fire alarm activated in the main lobby; area checked and cleared."
+  },
+  {
+    "incident_id": "INC-000476",
+    "timestamp": "2026-02-07T19:12:00",
+    "site_id": "SITE-A",
+    "reporter_role": "guard",
+    "narrative_text": "A slip-and-fall was reported in the classroom building at 19:12; first aid rendered."
+  },
+  {
+    "incident_id": "INC-000174",
+    "timestamp": "2026-02-07T23:54:00",
+    "site_id": "SITE-C",
+    "reporter_role": "guard",
+    "narrative_text": "Subject attempted entry at the administration office at 23:54 without authorization and was turned away."
+  },
+  {
+    "incident_id": "INC-000036",
+    "timestamp": "2026-02-08T04:59:00",
+    "site_id": "SITE-E",
+    "reporter_role": "guard",
+    "narrative_text": "At 04:59, minor vandalism was noted at the main gate."
+  },
+  {
+    "incident_id": "INC-000130",
+    "timestamp": "2026-02-08T17:07:00",
+    "site_id": "SITE-A",
+    "reporter_role": "guard",
+    "narrative_text": "At 17:07, a fire alarm activated in the cafeteria; area checked and cleared."
+  },
+  {
+    "incident_id": "INC-000440",
+    "timestamp": "2026-02-08T18:18:00",
+    "site_id": "SITE-C",
+    "reporter_role": "supervisor",
+    "narrative_text": "Subject observed moving through a known camera gap near the cafeteria at 18:18."
+  },
+  {
+    "incident_id": "INC-000387",
+    "timestamp": "2026-02-09T05:01:00",
+    "site_id": "SITE-D",
+    "reporter_role": "guard",
+    "narrative_text": "An individual was observed climbing the perimeter fence near the courtyard at 05:01."
+  },
+  {
+    "incident_id": "INC-000301",
+    "timestamp": "2026-02-09T09:17:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "Individual at cafeteria at 09:17 claimed to be an IT vendor but could not produce a work order or company ID."
+  },
+  {
+    "incident_id": "INC-000251",
+    "timestamp": "2026-02-09T10:19:00",
+    "site_id": "SITE-G",
+    "reporter_role": "account_manager",
+    "narrative_text": "A slip-and-fall was reported in the courtyard at 10:19; first aid rendered."
+  },
+  {
+    "incident_id": "INC-000587",
+    "timestamp": "2026-02-09T13:12:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "Individual observed in the records room at 13:12, well outside authorized hours."
+  },
+  {
+    "incident_id": "INC-000100",
+    "timestamp": "2026-02-09T18:02:00",
+    "site_id": "SITE-G",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 18:02, a subject was recording the network closet entry layout on a phone."
+  },
+  {
+    "incident_id": "INC-000008",
+    "timestamp": "2026-02-09T22:59:00",
+    "site_id": "SITE-F",
+    "reporter_role": "guard",
+    "narrative_text": "Graffiti was found on the exterior wall near the administration office at 22:59."
+  },
+  {
+    "incident_id": "INC-000360",
+    "timestamp": "2026-02-09T23:56:00",
+    "site_id": "SITE-F",
+    "reporter_role": "guard",
+    "narrative_text": "At 23:56, minor vandalism was noted at the chapel."
+  },
+  {
+    "incident_id": "INC-000124",
+    "timestamp": "2026-02-10T00:36:00",
+    "site_id": "SITE-D",
+    "reporter_role": "account_manager",
+    "narrative_text": "At 00:36, a subject was recording the records room entry layout on a phone."
+  },
+  {
+    "incident_id": "INC-000371",
+    "timestamp": "2026-02-10T02:02:00",
+    "site_id": "SITE-F",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 02:02, an unlabeled removable drive was discovered on a surface in the server room."
+  },
+  {
+    "incident_id": "INC-000001",
+    "timestamp": "2026-02-10T07:14:00",
+    "site_id": "SITE-F",
+    "reporter_role": "guard",
+    "narrative_text": "Observed an individual follow a badged person through the library access door at 07:14 without presenting credentials."
+  },
+  {
+    "incident_id": "INC-000434",
+    "timestamp": "2026-02-10T08:41:00",
+    "site_id": "SITE-C",
+    "reporter_role": "guard",
+    "narrative_text": "Individual observed photographing access points near the it office at 08:41."
+  },
+  {
+    "incident_id": "INC-000239",
+    "timestamp": "2026-02-10T09:07:00",
+    "site_id": "SITE-E",
+    "reporter_role": "guard",
+    "narrative_text": "An individual was observed climbing the perimeter fence near the rear entrance at 09:07."
+  },
+  {
+    "incident_id": "INC-000319",
+    "timestamp": "2026-02-10T22:51:00",
+    "site_id": "SITE-B",
+    "reporter_role": "account_manager",
+    "narrative_text": "Graffiti was found on the exterior wall near the network closet at 22:51."
+  },
+  {
+    "incident_id": "INC-000531",
+    "timestamp": "2026-02-11T02:13:00",
+    "site_id": "SITE-F",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 02:13, a visitor in the cafeteria was positioned to read a logged-in screen."
+  },
+  {
+    "incident_id": "INC-000556",
+    "timestamp": "2026-02-11T02:25:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "At 02:25, a caller at the administration office pressured the officer to grant access 'just this once,' citing urgency from a senior name."
+  },
+  {
+    "incident_id": "INC-000054",
+    "timestamp": "2026-02-11T06:27:00",
+    "site_id": "SITE-C",
+    "reporter_role": "account_manager",
+    "narrative_text": "At 06:27, a suspected theft was reported in the network closet."
+  },
+  {
+    "incident_id": "INC-000433",
+    "timestamp": "2026-02-11T09:43:00",
+    "site_id": "SITE-E",
+    "reporter_role": "guard",
+    "narrative_text": "At 09:43, motion reported in the chapel during a period with no scheduled activity."
+  },
+  {
+    "incident_id": "INC-000182",
+    "timestamp": "2026-02-11T12:32:00",
+    "site_id": "SITE-D",
+    "reporter_role": "guard",
+    "narrative_text": "Unexpected parcel left at the rear entrance at 12:32, addressed to no known recipient."
+  },
+  {
+    "incident_id": "INC-000583",
+    "timestamp": "2026-02-11T15:34:00",
+    "site_id": "SITE-C",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 15:34, minor vandalism was noted at the main lobby."
+  },
+  {
+    "incident_id": "INC-000187",
+    "timestamp": "2026-02-11T15:44:00",
+    "site_id": "SITE-A",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 15:44, the records room camera feed was offline with no maintenance scheduled."
+  },
+  {
+    "incident_id": "INC-000244",
+    "timestamp": "2026-02-11T20:03:00",
+    "site_id": "SITE-C",
+    "reporter_role": "account_manager",
+    "narrative_text": "At 20:03, a caller at the server room pressured the officer to grant access 'just this once,' citing urgency from a senior name."
+  },
+  {
+    "incident_id": "INC-000095",
+    "timestamp": "2026-02-11T22:55:00",
+    "site_id": "SITE-F",
+    "reporter_role": "guard",
+    "narrative_text": "At 22:55, a trespasser was noted crossing into the grounds at the rear entrance."
+  },
+  {
+    "incident_id": "INC-000127",
+    "timestamp": "2026-02-12T10:47:00",
+    "site_id": "SITE-A",
+    "reporter_role": "guard",
+    "narrative_text": "Found the parking lot door propped open with a wedge at 10:47; no personnel present."
+  },
+  {
+    "incident_id": "INC-000015",
+    "timestamp": "2026-02-12T13:10:00",
+    "site_id": "SITE-A",
+    "reporter_role": "guard",
+    "narrative_text": "At 13:10, a caller at the cafeteria pressured the officer to grant access 'just this once,' citing urgency from a senior name."
+  },
+  {
+    "incident_id": "INC-000449",
+    "timestamp": "2026-02-12T14:46:00",
+    "site_id": "SITE-C",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 14:46, a suspected theft was reported in the rear entrance."
+  },
+  {
+    "incident_id": "INC-000108",
+    "timestamp": "2026-02-12T16:45:00",
+    "site_id": "SITE-D",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 16:45 the dormitory entrance gate latch appeared forced and the door was standing open."
+  },
+  {
+    "incident_id": "INC-000584",
+    "timestamp": "2026-02-12T19:14:00",
+    "site_id": "SITE-G",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 19:14, a fire alarm activated in the network closet; area checked and cleared."
+  },
+  {
+    "incident_id": "INC-000088",
+    "timestamp": "2026-02-12T22:08:00",
+    "site_id": "SITE-E",
+    "reporter_role": "guard",
+    "narrative_text": "An item was reported missing from the administration office at 22:08."
+  },
+  {
+    "incident_id": "INC-000414",
+    "timestamp": "2026-02-13T02:25:00",
+    "site_id": "SITE-D",
+    "reporter_role": "guard",
+    "narrative_text": "Found the server room door propped open with a wedge at 02:25; no personnel present."
+  },
+  {
+    "incident_id": "INC-000189",
+    "timestamp": "2026-02-13T03:03:00",
+    "site_id": "SITE-B",
+    "reporter_role": "account_manager",
+    "narrative_text": "At 03:03, a trespasser was noted crossing into the grounds at the parking lot."
+  },
+  {
+    "incident_id": "INC-000268",
+    "timestamp": "2026-02-13T04:42:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "Access log at rear entrance showed the same credential used at two separate points within minutes around 04:42."
+  },
+  {
+    "incident_id": "INC-000308",
+    "timestamp": "2026-02-13T07:16:00",
+    "site_id": "SITE-F",
+    "reporter_role": "guard",
+    "narrative_text": "At 07:16, a self-described maintenance contractor sought access to the administration office without a verifiable assignment."
+  },
+  {
+    "incident_id": "INC-000238",
+    "timestamp": "2026-02-13T07:19:00",
+    "site_id": "SITE-E",
+    "reporter_role": "guard",
+    "narrative_text": "At 07:19, a cooling failure was noted in the network closet."
+  },
+  {
+    "incident_id": "INC-000442",
+    "timestamp": "2026-02-13T13:03:00",
+    "site_id": "SITE-E",
+    "reporter_role": "guard",
+    "narrative_text": "At 13:03, intact sensitive paperwork was discovered in unsecured disposal near the administration office."
+  },
+  {
+    "incident_id": "INC-000133",
+    "timestamp": "2026-02-13T15:07:00",
+    "site_id": "SITE-A",
+    "reporter_role": "supervisor",
+    "narrative_text": "An item was reported missing from the chapel at 15:07."
+  },
+  {
+    "incident_id": "INC-000052",
+    "timestamp": "2026-02-13T16:19:00",
+    "site_id": "SITE-F",
+    "reporter_role": "guard",
+    "narrative_text": "At 16:19, a person at the administration office could not be verified against the visitor log."
+  },
+  {
+    "incident_id": "INC-000085",
+    "timestamp": "2026-02-14T08:14:00",
+    "site_id": "SITE-C",
+    "reporter_role": "guard",
+    "narrative_text": "At 08:14, a fire alarm activated in the chapel; area checked and cleared."
+  },
+  {
+    "incident_id": "INC-000153",
+    "timestamp": "2026-02-14T10:22:00",
+    "site_id": "SITE-F",
+    "reporter_role": "guard",
+    "narrative_text": "At 10:22, a trespasser was noted crossing into the grounds at the main gate."
+  },
+  {
+    "incident_id": "INC-000582",
+    "timestamp": "2026-02-14T11:26:00",
+    "site_id": "SITE-D",
+    "reporter_role": "guard",
+    "narrative_text": "Observed an individual follow a badged person through the dormitory entrance access door at 11:26 without presenting credentials."
+  },
+  {
+    "incident_id": "INC-000211",
+    "timestamp": "2026-02-14T12:45:00",
+    "site_id": "SITE-A",
+    "reporter_role": "supervisor",
+    "narrative_text": "At approximately 12:45, a subject entered via the it office behind an authorized employee and did not badge in."
+  },
+  {
+    "incident_id": "INC-000223",
+    "timestamp": "2026-02-14T15:01:00",
+    "site_id": "SITE-D",
+    "reporter_role": "supervisor",
+    "narrative_text": "Unrecognized device observed plugged into equipment in the it office at 15:01."
+  },
+  {
+    "incident_id": "INC-000542",
+    "timestamp": "2026-02-14T18:22:00",
+    "site_id": "SITE-C",
+    "reporter_role": "guard",
+    "narrative_text": "A slip-and-fall was reported in the network closet at 18:22; first aid rendered."
+  },
+  {
+    "incident_id": "INC-000175",
+    "timestamp": "2026-02-14T20:44:00",
+    "site_id": "SITE-C",
+    "reporter_role": "guard",
+    "narrative_text": "Found the administration office door propped open with a wedge at 20:44; no personnel present."
+  },
+  {
+    "incident_id": "INC-000035",
+    "timestamp": "2026-02-15T02:00:00",
+    "site_id": "SITE-D",
+    "reporter_role": "account_manager",
+    "narrative_text": "An individual was observed climbing the perimeter fence near the rear entrance at 02:00."
+  },
+  {
+    "incident_id": "INC-000399",
+    "timestamp": "2026-02-15T05:40:00",
+    "site_id": "SITE-C",
+    "reporter_role": "guard",
+    "narrative_text": "At 05:40, a self-described maintenance contractor sought access to the server room without a verifiable assignment."
+  },
+  {
+    "incident_id": "INC-000305",
+    "timestamp": "2026-02-15T09:47:00",
+    "site_id": "SITE-D",
+    "reporter_role": "supervisor",
+    "narrative_text": "Graffiti was found on the exterior wall near the it office at 09:47."
+  },
+  {
+    "incident_id": "INC-000574",
+    "timestamp": "2026-02-15T10:41:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "At 10:41, a trespasser was noted crossing into the grounds at the courtyard."
+  },
+  {
+    "incident_id": "INC-000557",
+    "timestamp": "2026-02-15T11:13:00",
+    "site_id": "SITE-D",
+    "reporter_role": "guard",
+    "narrative_text": "Found the server room door propped open with a wedge at 11:13; no personnel present."
+  },
+  {
+    "incident_id": "INC-000346",
+    "timestamp": "2026-02-15T11:56:00",
+    "site_id": "SITE-A",
+    "reporter_role": "guard",
+    "narrative_text": "An item was reported missing from the dormitory entrance at 11:56."
+  },
+  {
+    "incident_id": "INC-000514",
+    "timestamp": "2026-02-15T13:10:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "Badge presented at main lobby at 13:10 belonged to a person no longer affiliated with the institution."
+  },
+  {
+    "incident_id": "INC-000325",
+    "timestamp": "2026-02-15T14:39:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "At 14:39, minor vandalism was noted at the main lobby."
+  },
+  {
+    "incident_id": "INC-000494",
+    "timestamp": "2026-02-15T16:14:00",
+    "site_id": "SITE-A",
+    "reporter_role": "guard",
+    "narrative_text": "An individual was observed climbing the perimeter fence near the parking lot at 16:14."
+  },
+  {
+    "incident_id": "INC-000212",
+    "timestamp": "2026-02-15T20:04:00",
+    "site_id": "SITE-B",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 20:04, a person at the cafeteria could not be verified against the visitor log."
+  },
+  {
+    "incident_id": "INC-000443",
+    "timestamp": "2026-02-15T22:11:00",
+    "site_id": "SITE-B",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 22:11, a fire alarm activated in the network closet; area checked and cleared."
+  },
+  {
+    "incident_id": "INC-000118",
+    "timestamp": "2026-02-16T01:18:00",
+    "site_id": "SITE-A",
+    "reporter_role": "guard",
+    "narrative_text": "Visitor at the main gate at 01:18 declined to provide identification and had no record of appointment."
+  },
+  {
+    "incident_id": "INC-000395",
+    "timestamp": "2026-02-16T04:10:00",
+    "site_id": "SITE-C",
+    "reporter_role": "supervisor",
+    "narrative_text": "Access log at it office showed the same credential used at two separate points within minutes around 04:10."
+  },
+  {
+    "incident_id": "INC-000417",
+    "timestamp": "2026-02-16T08:33:00",
+    "site_id": "SITE-E",
+    "reporter_role": "account_manager",
+    "narrative_text": "At 08:33, a fire alarm activated in the cafeteria; area checked and cleared."
+  },
+  {
+    "incident_id": "INC-000423",
+    "timestamp": "2026-02-16T08:46:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "Unrecognized device observed plugged into equipment in the classroom building at 08:46."
+  },
+  {
+    "incident_id": "INC-000276",
+    "timestamp": "2026-02-16T09:24:00",
+    "site_id": "SITE-E",
+    "reporter_role": "guard",
+    "narrative_text": "At 09:24, minor vandalism was noted at the cafeteria."
+  },
+  {
+    "incident_id": "INC-000257",
+    "timestamp": "2026-02-16T16:28:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "At 16:28 the chapel gate latch appeared forced and the door was standing open."
+  },
+  {
+    "incident_id": "INC-000222",
+    "timestamp": "2026-02-16T18:46:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "At 18:46, minor vandalism was noted at the main gate."
+  },
+  {
+    "incident_id": "INC-000236",
+    "timestamp": "2026-02-16T21:30:00",
+    "site_id": "SITE-E",
+    "reporter_role": "guard",
+    "narrative_text": "Individual at rear entrance at 21:30 claimed to be an IT vendor but could not produce a work order or company ID."
+  },
+  {
+    "incident_id": "INC-000176",
+    "timestamp": "2026-02-17T04:42:00",
+    "site_id": "SITE-F",
+    "reporter_role": "supervisor",
+    "narrative_text": "A slip-and-fall was reported in the it office at 04:42; first aid rendered."
+  },
+  {
+    "incident_id": "INC-000570",
+    "timestamp": "2026-02-17T08:23:00",
+    "site_id": "SITE-D",
+    "reporter_role": "guard",
+    "narrative_text": "Camera covering the main gate was found repositioned away from the entry at 08:23."
+  },
+  {
+    "incident_id": "INC-000063",
+    "timestamp": "2026-02-17T10:57:00",
+    "site_id": "SITE-C",
+    "reporter_role": "guard",
+    "narrative_text": "Individual at rear entrance at 10:57 claimed to be an IT vendor but could not produce a work order or company ID."
+  },
+  {
+    "incident_id": "INC-000289",
+    "timestamp": "2026-02-17T18:54:00",
+    "site_id": "SITE-F",
+    "reporter_role": "guard",
+    "narrative_text": "A slip-and-fall was reported in the chapel at 18:54; first aid rendered."
+  },
+  {
+    "incident_id": "INC-000004",
+    "timestamp": "2026-02-18T03:05:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "At 03:05, minor vandalism was noted at the parking lot."
+  },
+  {
+    "incident_id": "INC-000477",
+    "timestamp": "2026-02-18T03:48:00",
+    "site_id": "SITE-F",
+    "reporter_role": "account_manager",
+    "narrative_text": "Graffiti was found on the exterior wall near the parking lot at 03:48."
+  },
+  {
+    "incident_id": "INC-000462",
+    "timestamp": "2026-02-18T05:07:00",
+    "site_id": "SITE-C",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 05:07, documents marked sensitive were found exposed in the records room."
+  },
+  {
+    "incident_id": "INC-000039",
+    "timestamp": "2026-02-18T06:43:00",
+    "site_id": "SITE-F",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 06:43, minor vandalism was noted at the administration office."
+  },
+  {
+    "incident_id": "INC-000164",
+    "timestamp": "2026-02-18T07:21:00",
+    "site_id": "SITE-F",
+    "reporter_role": "supervisor",
+    "narrative_text": "An individual was observed climbing the perimeter fence near the parking lot at 07:21."
+  },
+  {
+    "incident_id": "INC-000573",
+    "timestamp": "2026-02-18T13:40:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "An unauthorized person was observed viewing a staff workstation screen in the courtyard at 13:40."
+  },
+  {
+    "incident_id": "INC-000146",
+    "timestamp": "2026-02-18T14:25:00",
+    "site_id": "SITE-D",
+    "reporter_role": "guard",
+    "narrative_text": "At 14:25, minor vandalism was noted at the parking lot."
+  },
+  {
+    "incident_id": "INC-000467",
+    "timestamp": "2026-02-18T16:33:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "Individual observed photographing access points near the it office at 16:33."
+  },
+  {
+    "incident_id": "INC-000194",
+    "timestamp": "2026-02-18T20:11:00",
+    "site_id": "SITE-E",
+    "reporter_role": "supervisor",
+    "narrative_text": "An individual was observed climbing the perimeter fence near the rear entrance at 20:11."
+  },
+  {
+    "incident_id": "INC-000067",
+    "timestamp": "2026-02-18T21:43:00",
+    "site_id": "SITE-D",
+    "reporter_role": "guard",
+    "narrative_text": "At 21:43, a suspected theft was reported in the network closet."
+  },
+  {
+    "incident_id": "INC-000340",
+    "timestamp": "2026-02-18T21:48:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "At 21:48, an individual repeatedly tried badging at the main lobby reader; access denied."
+  },
+  {
+    "incident_id": "INC-000495",
+    "timestamp": "2026-02-19T07:56:00",
+    "site_id": "SITE-A",
+    "reporter_role": "guard",
+    "narrative_text": "At 07:56, a fire alarm activated in the classroom building; area checked and cleared."
+  },
+  {
+    "incident_id": "INC-000314",
+    "timestamp": "2026-02-19T09:21:00",
+    "site_id": "SITE-B",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 09:21, a subject lingered near the cafeteria, noting access points and staff patterns."
+  },
+  {
+    "incident_id": "INC-000165",
+    "timestamp": "2026-02-19T11:46:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "Found the records room door propped open with a wedge at 11:46; no personnel present."
+  },
+  {
+    "incident_id": "INC-000483",
+    "timestamp": "2026-02-19T21:08:00",
+    "site_id": "SITE-F",
+    "reporter_role": "guard",
+    "narrative_text": "Access log at it office showed the same credential used at two separate points within minutes around 21:08."
+  },
+  {
+    "incident_id": "INC-000224",
+    "timestamp": "2026-02-20T01:03:00",
+    "site_id": "SITE-E",
+    "reporter_role": "account_manager",
+    "narrative_text": "At 01:03, an unlabeled removable drive was discovered on a surface in the dormitory entrance."
+  },
+  {
+    "incident_id": "INC-000383",
+    "timestamp": "2026-02-20T06:58:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "At 06:58, a fire alarm activated in the library; area checked and cleared."
+  },
+  {
+    "incident_id": "INC-000191",
+    "timestamp": "2026-02-20T07:36:00",
+    "site_id": "SITE-E",
+    "reporter_role": "guard",
+    "narrative_text": "At 07:36, a suspected theft was reported in the parking lot."
+  },
+  {
+    "incident_id": "INC-000286",
+    "timestamp": "2026-02-20T08:50:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "Access log at parking lot showed the same credential used at two separate points within minutes around 08:50."
+  },
+  {
+    "incident_id": "INC-000465",
+    "timestamp": "2026-02-20T19:01:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "At 19:01, a fire alarm activated in the records room; area checked and cleared."
+  },
+  {
+    "incident_id": "INC-000237",
+    "timestamp": "2026-02-20T21:49:00",
+    "site_id": "SITE-E",
+    "reporter_role": "supervisor",
+    "narrative_text": "An individual was observed climbing the perimeter fence near the courtyard at 21:49."
+  },
+  {
+    "incident_id": "INC-000177",
+    "timestamp": "2026-02-21T00:23:00",
+    "site_id": "SITE-E",
+    "reporter_role": "guard",
+    "narrative_text": "At 00:23, an individual repeatedly tried badging at the dormitory entrance reader; access denied."
+  },
+  {
+    "incident_id": "INC-000515",
+    "timestamp": "2026-02-21T04:43:00",
+    "site_id": "SITE-C",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 04:43, an unscheduled delivery was dropped at the it office with no manifest."
+  },
+  {
+    "incident_id": "INC-000320",
+    "timestamp": "2026-02-21T10:12:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "At 10:12, a subject lingered near the cafeteria, noting access points and staff patterns."
+  },
+  {
+    "incident_id": "INC-000006",
+    "timestamp": "2026-02-21T18:12:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "Individual seen repeatedly observing the it office entrances and photographing the layout at 18:12."
+  },
+  {
+    "incident_id": "INC-000527",
+    "timestamp": "2026-02-21T19:45:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "At 19:45, minor vandalism was noted at the records room."
+  },
+  {
+    "incident_id": "INC-000180",
+    "timestamp": "2026-02-21T21:46:00",
+    "site_id": "SITE-D",
+    "reporter_role": "account_manager",
+    "narrative_text": "At 21:46, a person at the classroom building could not be verified against the visitor log."
+  },
+  {
+    "incident_id": "INC-000426",
+    "timestamp": "2026-02-21T22:12:00",
+    "site_id": "SITE-A",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 22:12, a fire alarm activated in the dormitory entrance; area checked and cleared."
+  },
+  {
+    "incident_id": "INC-000575",
+    "timestamp": "2026-02-21T23:37:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "A slip-and-fall was reported in the rear entrance at 23:37; first aid rendered."
+  },
+  {
+    "incident_id": "INC-000365",
+    "timestamp": "2026-02-22T03:32:00",
+    "site_id": "SITE-E",
+    "reporter_role": "guard",
+    "narrative_text": "An item was reported missing from the administration office at 03:32."
+  },
+  {
+    "incident_id": "INC-000148",
+    "timestamp": "2026-02-22T04:35:00",
+    "site_id": "SITE-F",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 04:35, a suspected theft was reported in the main lobby."
+  },
+  {
+    "incident_id": "INC-000228",
+    "timestamp": "2026-02-22T10:35:00",
+    "site_id": "SITE-D",
+    "reporter_role": "guard",
+    "narrative_text": "At 10:35, a suspected theft was reported in the main gate."
+  },
+  {
+    "incident_id": "INC-000337",
+    "timestamp": "2026-02-22T14:31:00",
+    "site_id": "SITE-F",
+    "reporter_role": "guard",
+    "narrative_text": "Badge presented at main gate at 14:31 belonged to a person no longer affiliated with the institution."
+  },
+  {
+    "incident_id": "INC-000612",
+    "timestamp": "2026-02-22T15:47:00",
+    "site_id": "SITE-C",
+    "reporter_role": "guard",
+    "narrative_text": "Individual seen repeatedly observing the parking lot entrances and photographing the layout at 15:47."
+  },
+  {
+    "incident_id": "INC-000220",
+    "timestamp": "2026-02-22T16:35:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "At 16:35, an unlabeled removable drive was discovered on a surface in the chapel."
+  },
+  {
+    "incident_id": "INC-000179",
+    "timestamp": "2026-02-23T04:10:00",
+    "site_id": "SITE-E",
+    "reporter_role": "account_manager",
+    "narrative_text": "Individual at library at 04:10 claimed to be an IT vendor but could not produce a work order or company ID."
+  },
+  {
+    "incident_id": "INC-000264",
+    "timestamp": "2026-02-23T07:15:00",
+    "site_id": "SITE-E",
+    "reporter_role": "guard",
+    "narrative_text": "At 07:15, a fire alarm activated in the cafeteria; area checked and cleared."
+  },
+  {
+    "incident_id": "INC-000070",
+    "timestamp": "2026-02-23T08:48:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "At 08:48, a trespasser was noted crossing into the grounds at the rear entrance."
+  },
+  {
+    "incident_id": "INC-000524",
+    "timestamp": "2026-02-23T20:24:00",
+    "site_id": "SITE-B",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 20:24, motion reported in the main gate during a period with no scheduled activity."
+  },
+  {
+    "incident_id": "INC-000297",
+    "timestamp": "2026-02-24T10:23:00",
+    "site_id": "SITE-F",
+    "reporter_role": "guard",
+    "narrative_text": "At 10:23, a self-described maintenance contractor sought access to the chapel without a verifiable assignment."
+  },
+  {
+    "incident_id": "INC-000066",
+    "timestamp": "2026-02-24T13:34:00",
+    "site_id": "SITE-C",
+    "reporter_role": "guard",
+    "narrative_text": "At 13:34, a trespasser was noted crossing into the grounds at the parking lot."
+  },
+  {
+    "incident_id": "INC-000206",
+    "timestamp": "2026-02-24T17:07:00",
+    "site_id": "SITE-E",
+    "reporter_role": "supervisor",
+    "narrative_text": "Unexpected parcel left at the dormitory entrance at 17:07, addressed to no known recipient."
+  },
+  {
+    "incident_id": "INC-000050",
+    "timestamp": "2026-02-24T18:12:00",
+    "site_id": "SITE-A",
+    "reporter_role": "guard",
+    "narrative_text": "Individual observed in the dormitory entrance at 18:12, well outside authorized hours."
+  },
+  {
+    "incident_id": "INC-000321",
+    "timestamp": "2026-02-24T19:25:00",
+    "site_id": "SITE-E",
+    "reporter_role": "guard",
+    "narrative_text": "Access log at courtyard showed the same credential used at two separate points within minutes around 19:25."
+  },
+  {
+    "incident_id": "INC-000594",
+    "timestamp": "2026-02-24T21:19:00",
+    "site_id": "SITE-D",
+    "reporter_role": "guard",
+    "narrative_text": "Found the server room door propped open with a wedge at 21:19; no personnel present."
+  },
+  {
+    "incident_id": "INC-000480",
+    "timestamp": "2026-02-24T21:38:00",
+    "site_id": "SITE-A",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 21:38, a self-described maintenance contractor sought access to the courtyard without a verifiable assignment."
+  },
+  {
+    "incident_id": "INC-000292",
+    "timestamp": "2026-02-24T21:57:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "Individual observed in the rear entrance at 21:57, well outside authorized hours."
+  },
+  {
+    "incident_id": "INC-000351",
+    "timestamp": "2026-02-25T09:41:00",
+    "site_id": "SITE-F",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 09:41, minor vandalism was noted at the main lobby."
+  },
+  {
+    "incident_id": "INC-000481",
+    "timestamp": "2026-02-25T10:18:00",
+    "site_id": "SITE-C",
+    "reporter_role": "guard",
+    "narrative_text": "At 10:18, minor vandalism was noted at the cafeteria."
+  },
+  {
+    "incident_id": "INC-000205",
+    "timestamp": "2026-02-25T10:41:00",
+    "site_id": "SITE-C",
+    "reporter_role": "guard",
+    "narrative_text": "Individual observed in the dormitory entrance at 10:41, well outside authorized hours."
+  },
+  {
+    "incident_id": "INC-000306",
+    "timestamp": "2026-02-25T11:07:00",
+    "site_id": "SITE-G",
+    "reporter_role": "supervisor",
+    "narrative_text": "An individual was observed climbing the perimeter fence near the parking lot at 11:07."
+  },
+  {
+    "incident_id": "INC-000196",
+    "timestamp": "2026-02-25T17:30:00",
+    "site_id": "SITE-E",
+    "reporter_role": "guard",
+    "narrative_text": "At 17:30, a trespasser was noted crossing into the grounds at the courtyard."
+  },
+  {
+    "incident_id": "INC-000506",
+    "timestamp": "2026-02-25T21:01:00",
+    "site_id": "SITE-D",
+    "reporter_role": "supervisor",
+    "narrative_text": "A slip-and-fall was reported in the cafeteria at 21:01; first aid rendered."
+  },
+  {
+    "incident_id": "INC-000029",
+    "timestamp": "2026-02-26T01:10:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "At 01:10, minor vandalism was noted at the parking lot."
+  },
+  {
+    "incident_id": "INC-000058",
+    "timestamp": "2026-02-26T07:09:00",
+    "site_id": "SITE-D",
+    "reporter_role": "guard",
+    "narrative_text": "Unexpected parcel left at the administration office at 07:09, addressed to no known recipient."
+  },
+  {
+    "incident_id": "INC-000098",
+    "timestamp": "2026-02-26T08:32:00",
+    "site_id": "SITE-F",
+    "reporter_role": "guard",
+    "narrative_text": "An individual was observed climbing the perimeter fence near the rear entrance at 08:32."
+  },
+  {
+    "incident_id": "INC-000613",
+    "timestamp": "2026-02-26T09:47:00",
+    "site_id": "SITE-C",
+    "reporter_role": "guard",
+    "narrative_text": "At 09:47, an individual repeatedly tried badging at the main lobby reader; access denied."
+  },
+  {
+    "incident_id": "INC-000012",
+    "timestamp": "2026-02-26T11:14:00",
+    "site_id": "SITE-E",
+    "reporter_role": "supervisor",
+    "narrative_text": "Unexpected parcel left at the library at 11:14, addressed to no known recipient."
+  },
+  {
+    "incident_id": "INC-000549",
+    "timestamp": "2026-02-26T11:42:00",
+    "site_id": "SITE-G",
+    "reporter_role": "account_manager",
+    "narrative_text": "An individual was observed climbing the perimeter fence near the rear entrance at 11:42."
+  },
+  {
+    "incident_id": "INC-000525",
+    "timestamp": "2026-02-26T11:52:00",
+    "site_id": "SITE-E",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 11:52, minor vandalism was noted at the records room."
+  },
+  {
+    "incident_id": "INC-000309",
+    "timestamp": "2026-02-26T17:32:00",
+    "site_id": "SITE-E",
+    "reporter_role": "guard",
+    "narrative_text": "A slip-and-fall was reported in the server room at 17:32; first aid rendered."
+  },
+  {
+    "incident_id": "INC-000024",
+    "timestamp": "2026-02-27T06:06:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "At 06:06, a fire alarm activated in the chapel; area checked and cleared."
+  },
+  {
+    "incident_id": "INC-000419",
+    "timestamp": "2026-02-27T08:24:00",
+    "site_id": "SITE-C",
+    "reporter_role": "account_manager",
+    "narrative_text": "At 08:24, a subject lingered near the administration office, noting access points and staff patterns."
+  },
+  {
+    "incident_id": "INC-000503",
+    "timestamp": "2026-02-27T12:28:00",
+    "site_id": "SITE-C",
+    "reporter_role": "guard",
+    "narrative_text": "At 12:28 the administration office gate latch appeared forced and the door was standing open."
+  },
+  {
+    "incident_id": "INC-000401",
+    "timestamp": "2026-02-27T15:56:00",
+    "site_id": "SITE-B",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 15:56, a fire alarm activated in the parking lot; area checked and cleared."
+  },
+  {
+    "incident_id": "INC-000509",
+    "timestamp": "2026-02-27T20:54:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "An individual was observed climbing the perimeter fence near the parking lot at 20:54."
+  },
+  {
+    "incident_id": "INC-000045",
+    "timestamp": "2026-02-27T21:55:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "An individual was observed climbing the perimeter fence near the parking lot at 21:55."
+  },
+  {
+    "incident_id": "INC-000614",
+    "timestamp": "2026-02-28T04:47:00",
+    "site_id": "SITE-C",
+    "reporter_role": "guard",
+    "narrative_text": "Observed an individual follow a badged person through the rear entrance access door at 04:47 without presenting credentials."
+  },
+  {
+    "incident_id": "INC-000245",
+    "timestamp": "2026-02-28T05:59:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "At approximately 05:59, a subject entered via the server room behind an authorized employee and did not badge in."
+  },
+  {
+    "incident_id": "INC-000436",
+    "timestamp": "2026-02-28T12:24:00",
+    "site_id": "SITE-C",
+    "reporter_role": "account_manager",
+    "narrative_text": "Badge presented at it office at 12:24 belonged to a person no longer affiliated with the institution."
+  },
+  {
+    "incident_id": "INC-000336",
+    "timestamp": "2026-02-28T12:28:00",
+    "site_id": "SITE-F",
+    "reporter_role": "guard",
+    "narrative_text": "At 12:28, a trespasser was noted crossing into the grounds at the main gate."
+  },
+  {
+    "incident_id": "INC-000065",
+    "timestamp": "2026-02-28T12:57:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "At 12:57, minor vandalism was noted at the network closet."
+  },
+  {
+    "incident_id": "INC-000270",
+    "timestamp": "2026-02-28T13:09:00",
+    "site_id": "SITE-F",
+    "reporter_role": "guard",
+    "narrative_text": "At 13:09, movement was noted along the dormitory entrance route that avoids camera coverage."
+  },
+  {
+    "incident_id": "INC-000355",
+    "timestamp": "2026-02-28T13:44:00",
+    "site_id": "SITE-G",
+    "reporter_role": "supervisor",
+    "narrative_text": "Individual observed in the parking lot at 13:44, well outside authorized hours."
+  },
+  {
+    "incident_id": "INC-000454",
+    "timestamp": "2026-02-28T21:06:00",
+    "site_id": "SITE-C",
+    "reporter_role": "guard",
+    "narrative_text": "An item was reported missing from the administration office at 21:06."
+  },
+  {
+    "incident_id": "INC-000053",
+    "timestamp": "2026-02-28T21:24:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "At 21:24, a self-described maintenance contractor sought access to the administration office without a verifiable assignment."
+  },
+  {
+    "incident_id": "INC-000324",
+    "timestamp": "2026-03-01T05:31:00",
+    "site_id": "SITE-D",
+    "reporter_role": "supervisor",
+    "narrative_text": "Individual observed in the administration office at 05:31, well outside authorized hours."
+  },
+  {
+    "incident_id": "INC-000332",
+    "timestamp": "2026-03-01T05:39:00",
+    "site_id": "SITE-F",
+    "reporter_role": "guard",
+    "narrative_text": "An unauthorized person was observed viewing a staff workstation screen in the library at 05:39."
+  },
+  {
+    "incident_id": "INC-000537",
+    "timestamp": "2026-03-01T07:51:00",
+    "site_id": "SITE-E",
+    "reporter_role": "guard",
+    "narrative_text": "An unauthorized person was observed viewing a staff workstation screen in the cafeteria at 07:51."
+  },
+  {
+    "incident_id": "INC-000317",
+    "timestamp": "2026-03-01T14:14:00",
+    "site_id": "SITE-E",
+    "reporter_role": "guard",
+    "narrative_text": "Badge presented at network closet at 14:14 belonged to a person no longer affiliated with the institution."
+  },
+  {
+    "incident_id": "INC-000540",
+    "timestamp": "2026-03-01T20:37:00",
+    "site_id": "SITE-B",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 20:37, a suspected theft was reported in the dormitory entrance."
+  },
+  {
+    "incident_id": "INC-000345",
+    "timestamp": "2026-03-01T22:08:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "At 22:08, a person at the cafeteria could not be verified against the visitor log."
+  },
+  {
+    "incident_id": "INC-000030",
+    "timestamp": "2026-03-01T22:46:00",
+    "site_id": "SITE-C",
+    "reporter_role": "guard",
+    "narrative_text": "At 22:46, a cooling failure was noted in the network closet."
+  },
+  {
+    "incident_id": "INC-000163",
+    "timestamp": "2026-03-02T03:15:00",
+    "site_id": "SITE-A",
+    "reporter_role": "guard",
+    "narrative_text": "Subject observed moving through a known camera gap near the parking lot at 03:15."
+  },
+  {
+    "incident_id": "INC-000157",
+    "timestamp": "2026-03-02T03:18:00",
+    "site_id": "SITE-C",
+    "reporter_role": "account_manager",
+    "narrative_text": "At 03:18, a suspected theft was reported in the administration office."
+  },
+  {
+    "incident_id": "INC-000117",
+    "timestamp": "2026-03-02T03:48:00",
+    "site_id": "SITE-A",
+    "reporter_role": "supervisor",
+    "narrative_text": "Individual observed photographing access points near the administration office at 03:48."
+  },
+  {
+    "incident_id": "INC-000596",
+    "timestamp": "2026-03-02T10:00:00",
+    "site_id": "SITE-F",
+    "reporter_role": "account_manager",
+    "narrative_text": "A USB flash drive was found unattended in the library at 10:00."
+  },
+  {
+    "incident_id": "INC-000567",
+    "timestamp": "2026-03-02T12:12:00",
+    "site_id": "SITE-E",
+    "reporter_role": "guard",
+    "narrative_text": "At 12:12, a self-described maintenance contractor sought access to the library without a verifiable assignment."
+  },
+  {
+    "incident_id": "INC-000101",
+    "timestamp": "2026-03-02T20:52:00",
+    "site_id": "SITE-E",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 20:52, documents marked sensitive were found exposed in the records room."
+  },
+  {
+    "incident_id": "INC-000466",
+    "timestamp": "2026-03-03T01:04:00",
+    "site_id": "SITE-D",
+    "reporter_role": "guard",
+    "narrative_text": "Person observed inside the network closet at 01:04 without escort or work authorization."
+  },
+  {
+    "incident_id": "INC-000580",
+    "timestamp": "2026-03-03T04:44:00",
+    "site_id": "SITE-E",
+    "reporter_role": "account_manager",
+    "narrative_text": "At 04:44, a trespasser was noted crossing into the grounds at the parking lot."
+  },
+  {
+    "incident_id": "INC-000593",
+    "timestamp": "2026-03-03T07:47:00",
+    "site_id": "SITE-D",
+    "reporter_role": "supervisor",
+    "narrative_text": "Graffiti was found on the exterior wall near the main lobby at 07:47."
+  },
+  {
+    "incident_id": "INC-000092",
+    "timestamp": "2026-03-03T09:55:00",
+    "site_id": "SITE-D",
+    "reporter_role": "guard",
+    "narrative_text": "Unexpected parcel left at the courtyard at 09:55, addressed to no known recipient."
+  },
+  {
+    "incident_id": "INC-000089",
+    "timestamp": "2026-03-03T10:11:00",
+    "site_id": "SITE-D",
+    "reporter_role": "supervisor",
+    "narrative_text": "Subject attempted entry at the main lobby at 10:11 without authorization and was turned away."
+  },
+  {
+    "incident_id": "INC-000453",
+    "timestamp": "2026-03-03T12:07:00",
+    "site_id": "SITE-D",
+    "reporter_role": "supervisor",
+    "narrative_text": "An item was reported missing from the rear entrance at 12:07."
+  },
+  {
+    "incident_id": "INC-000041",
+    "timestamp": "2026-03-03T17:45:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "At 17:45, a caller at the parking lot pressured the officer to grant access 'just this once,' citing urgency from a senior name."
+  },
+  {
+    "incident_id": "INC-000169",
+    "timestamp": "2026-03-04T01:03:00",
+    "site_id": "SITE-D",
+    "reporter_role": "guard",
+    "narrative_text": "Badge presented at main gate at 01:03 belonged to a person no longer affiliated with the institution."
+  },
+  {
+    "incident_id": "INC-000572",
+    "timestamp": "2026-03-04T02:24:00",
+    "site_id": "SITE-G",
+    "reporter_role": "supervisor",
+    "narrative_text": "Unexpected parcel left at the courtyard at 02:24, addressed to no known recipient."
+  },
+  {
+    "incident_id": "INC-000474",
+    "timestamp": "2026-03-04T03:06:00",
+    "site_id": "SITE-F",
+    "reporter_role": "guard",
+    "narrative_text": "At 03:06, a caller at the network closet pressured the officer to grant access 'just this once,' citing urgency from a senior name."
+  },
+  {
+    "incident_id": "INC-000487",
+    "timestamp": "2026-03-04T03:39:00",
+    "site_id": "SITE-C",
+    "reporter_role": "supervisor",
+    "narrative_text": "An item was reported missing from the records room at 03:39."
+  },
+  {
+    "incident_id": "INC-000080",
+    "timestamp": "2026-03-04T07:48:00",
+    "site_id": "SITE-C",
+    "reporter_role": "guard",
+    "narrative_text": "Camera covering the cafeteria was found repositioned away from the entry at 07:48."
+  },
+  {
+    "incident_id": "INC-000374",
+    "timestamp": "2026-03-04T08:14:00",
+    "site_id": "SITE-C",
+    "reporter_role": "guard",
+    "narrative_text": "At 08:14, a caller at the chapel pressured the officer to grant access 'just this once,' citing urgency from a senior name."
+  },
+  {
+    "incident_id": "INC-000588",
+    "timestamp": "2026-03-04T08:44:00",
+    "site_id": "SITE-E",
+    "reporter_role": "guard",
+    "narrative_text": "At 08:44, a fire alarm activated in the courtyard; area checked and cleared."
+  },
+  {
+    "incident_id": "INC-000513",
+    "timestamp": "2026-03-04T10:39:00",
+    "site_id": "SITE-D",
+    "reporter_role": "account_manager",
+    "narrative_text": "Documents containing personal information were found in open trash at the parking lot at 10:39."
+  },
+  {
+    "incident_id": "INC-000185",
+    "timestamp": "2026-03-04T11:59:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "At 11:59, the server room was found unlocked and occupied by an unidentified individual."
+  },
+  {
+    "incident_id": "INC-000003",
+    "timestamp": "2026-03-04T18:17:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "At 18:17, an unscheduled delivery was dropped at the network closet with no manifest."
+  },
+  {
+    "incident_id": "INC-000341",
+    "timestamp": "2026-03-05T00:27:00",
+    "site_id": "SITE-D",
+    "reporter_role": "guard",
+    "narrative_text": "At 00:27, minor vandalism was noted at the classroom building."
+  },
+  {
+    "incident_id": "INC-000195",
+    "timestamp": "2026-03-05T01:18:00",
+    "site_id": "SITE-F",
+    "reporter_role": "guard",
+    "narrative_text": "Camera covering the classroom building was found repositioned away from the entry at 01:18."
+  },
+  {
+    "incident_id": "INC-000218",
+    "timestamp": "2026-03-05T02:44:00",
+    "site_id": "SITE-C",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 02:44, a fire alarm activated in the main lobby; area checked and cleared."
+  },
+  {
+    "incident_id": "INC-000459",
+    "timestamp": "2026-03-05T09:16:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "An unauthorized person was observed viewing a staff workstation screen in the cafeteria at 09:16."
+  },
+  {
+    "incident_id": "INC-000563",
+    "timestamp": "2026-03-05T10:44:00",
+    "site_id": "SITE-E",
+    "reporter_role": "guard",
+    "narrative_text": "At 10:44, a subject was recording the main lobby entry layout on a phone."
+  },
+  {
+    "incident_id": "INC-000005",
+    "timestamp": "2026-03-05T17:07:00",
+    "site_id": "SITE-F",
+    "reporter_role": "guard",
+    "narrative_text": "At approximately 17:07, a subject entered via the server room behind an authorized employee and did not badge in."
+  },
+  {
+    "incident_id": "INC-000328",
+    "timestamp": "2026-03-05T18:47:00",
+    "site_id": "SITE-B",
+    "reporter_role": "supervisor",
+    "narrative_text": "An individual was observed climbing the perimeter fence near the rear entrance at 18:47."
+  },
+  {
+    "incident_id": "INC-000554",
+    "timestamp": "2026-03-05T18:55:00",
+    "site_id": "SITE-F",
+    "reporter_role": "guard",
+    "narrative_text": "Unrecognized device observed plugged into equipment in the it office at 18:55."
+  },
+  {
+    "incident_id": "INC-000358",
+    "timestamp": "2026-03-05T19:38:00",
+    "site_id": "SITE-A",
+    "reporter_role": "guard",
+    "narrative_text": "A slip-and-fall was reported in the main lobby at 19:38; first aid rendered."
+  },
+  {
+    "incident_id": "INC-000248",
+    "timestamp": "2026-03-05T20:16:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "At 20:16, movement was noted along the it office route that avoids camera coverage."
+  },
+  {
+    "incident_id": "INC-000078",
+    "timestamp": "2026-03-05T22:09:00",
+    "site_id": "SITE-F",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 22:09, a trespasser was noted crossing into the grounds at the rear entrance."
+  },
+  {
+    "incident_id": "INC-000069",
+    "timestamp": "2026-03-06T05:03:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "Found the dormitory entrance door propped open with a wedge at 05:03; no personnel present."
+  },
+  {
+    "incident_id": "INC-000121",
+    "timestamp": "2026-03-06T09:43:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "At 09:43, a suspected theft was reported in the rear entrance."
+  },
+  {
+    "incident_id": "INC-000375",
+    "timestamp": "2026-03-06T10:26:00",
+    "site_id": "SITE-D",
+    "reporter_role": "guard",
+    "narrative_text": "Graffiti was found on the exterior wall near the chapel at 10:26."
+  },
+  {
+    "incident_id": "INC-000009",
+    "timestamp": "2026-03-06T12:17:00",
+    "site_id": "SITE-B",
+    "reporter_role": "supervisor",
+    "narrative_text": "Found the server room door propped open with a wedge at 12:17; no personnel present."
+  },
+  {
+    "incident_id": "INC-000170",
+    "timestamp": "2026-03-06T18:35:00",
+    "site_id": "SITE-D",
+    "reporter_role": "supervisor",
+    "narrative_text": "Individual observed in the network closet at 18:35, well outside authorized hours."
+  },
+  {
+    "incident_id": "INC-000307",
+    "timestamp": "2026-03-06T22:13:00",
+    "site_id": "SITE-F",
+    "reporter_role": "guard",
+    "narrative_text": "At 22:13, a person at the cafeteria could not be verified against the visitor log."
+  },
+  {
+    "incident_id": "INC-000591",
+    "timestamp": "2026-03-06T22:50:00",
+    "site_id": "SITE-C",
+    "reporter_role": "guard",
+    "narrative_text": "Subject observed moving through a known camera gap near the main lobby at 22:50."
+  },
+  {
+    "incident_id": "INC-000192",
+    "timestamp": "2026-03-07T01:40:00",
+    "site_id": "SITE-D",
+    "reporter_role": "guard",
+    "narrative_text": "An item was reported missing from the parking lot at 01:40."
+  },
+  {
+    "incident_id": "INC-000288",
+    "timestamp": "2026-03-07T01:40:00",
+    "site_id": "SITE-E",
+    "reporter_role": "guard",
+    "narrative_text": "A slip-and-fall was reported in the main lobby at 01:40; first aid rendered."
+  },
+  {
+    "incident_id": "INC-000046",
+    "timestamp": "2026-03-07T07:12:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "At 07:12, a suspected theft was reported in the records room."
+  },
+  {
+    "incident_id": "INC-000421",
+    "timestamp": "2026-03-07T08:57:00",
+    "site_id": "SITE-F",
+    "reporter_role": "guard",
+    "narrative_text": "At 08:57, a person at the main gate could not be verified against the visitor log."
+  },
+  {
+    "incident_id": "INC-000388",
+    "timestamp": "2026-03-07T16:22:00",
+    "site_id": "SITE-A",
+    "reporter_role": "guard",
+    "narrative_text": "Documents containing personal information were found in open trash at the parking lot at 16:22."
+  },
+  {
+    "incident_id": "INC-000302",
+    "timestamp": "2026-03-08T02:23:00",
+    "site_id": "SITE-C",
+    "reporter_role": "supervisor",
+    "narrative_text": "A slip-and-fall was reported in the dormitory entrance at 02:23; first aid rendered."
+  },
+  {
+    "incident_id": "INC-000521",
+    "timestamp": "2026-03-08T11:02:00",
+    "site_id": "SITE-F",
+    "reporter_role": "guard",
+    "narrative_text": "Graffiti was found on the exterior wall near the classroom building at 11:02."
+  },
+  {
+    "incident_id": "INC-000111",
+    "timestamp": "2026-03-08T11:21:00",
+    "site_id": "SITE-E",
+    "reporter_role": "guard",
+    "narrative_text": "At 11:21, intact sensitive paperwork was discovered in unsecured disposal near the parking lot."
+  },
+  {
+    "incident_id": "INC-000143",
+    "timestamp": "2026-03-08T12:27:00",
+    "site_id": "SITE-A",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 12:27, a suspected theft was reported in the administration office."
+  },
+  {
+    "incident_id": "INC-000463",
+    "timestamp": "2026-03-08T13:41:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "Individual seen repeatedly observing the server room entrances and photographing the layout at 13:41."
+  },
+  {
+    "incident_id": "INC-000079",
+    "timestamp": "2026-03-08T14:27:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "Individual observed in the records room at 14:27, well outside authorized hours."
+  },
+  {
+    "incident_id": "INC-000484",
+    "timestamp": "2026-03-08T18:36:00",
+    "site_id": "SITE-E",
+    "reporter_role": "guard",
+    "narrative_text": "Subject at administration office at 18:36 attempted to talk past the officer using claimed authority and time pressure."
+  },
+  {
+    "incident_id": "INC-000595",
+    "timestamp": "2026-03-08T20:19:00",
+    "site_id": "SITE-C",
+    "reporter_role": "guard",
+    "narrative_text": "Visitor at the classroom building at 20:19 declined to provide identification and had no record of appointment."
+  },
+  {
+    "incident_id": "INC-000528",
+    "timestamp": "2026-03-08T21:30:00",
+    "site_id": "SITE-A",
+    "reporter_role": "account_manager",
+    "narrative_text": "Individual seen repeatedly observing the cafeteria entrances and photographing the layout at 21:30."
+  },
+  {
+    "incident_id": "INC-000499",
+    "timestamp": "2026-03-09T01:18:00",
+    "site_id": "SITE-D",
+    "reporter_role": "guard",
+    "narrative_text": "Individual observed in the server room at 01:18, well outside authorized hours."
+  },
+  {
+    "incident_id": "INC-000106",
+    "timestamp": "2026-03-09T03:01:00",
+    "site_id": "SITE-F",
+    "reporter_role": "guard",
+    "narrative_text": "At 03:01, a cooling failure was noted in the server room."
+  },
+  {
+    "incident_id": "INC-000207",
+    "timestamp": "2026-03-09T06:07:00",
+    "site_id": "SITE-F",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 06:07, an unknown laptop was found connected to a network port in the server room."
+  },
+  {
+    "incident_id": "INC-000081",
+    "timestamp": "2026-03-09T06:22:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "At 06:22, a trespasser was noted crossing into the grounds at the courtyard."
+  },
+  {
+    "incident_id": "INC-000023",
+    "timestamp": "2026-03-09T06:34:00",
+    "site_id": "SITE-F",
+    "reporter_role": "account_manager",
+    "narrative_text": "Access log at library showed the same credential used at two separate points within minutes around 06:34."
+  },
+  {
+    "incident_id": "INC-000469",
+    "timestamp": "2026-03-09T10:15:00",
+    "site_id": "SITE-A",
+    "reporter_role": "guard",
+    "narrative_text": "Camera covering the main gate was found repositioned away from the entry at 10:15."
+  },
+  {
+    "incident_id": "INC-000450",
+    "timestamp": "2026-03-09T11:48:00",
+    "site_id": "SITE-C",
+    "reporter_role": "guard",
+    "narrative_text": "Graffiti was found on the exterior wall near the classroom building at 11:48."
+  },
+  {
+    "incident_id": "INC-000424",
+    "timestamp": "2026-03-09T16:55:00",
+    "site_id": "SITE-F",
+    "reporter_role": "supervisor",
+    "narrative_text": "A slip-and-fall was reported in the main gate at 16:55; first aid rendered."
+  },
+  {
+    "incident_id": "INC-000116",
+    "timestamp": "2026-03-09T17:02:00",
+    "site_id": "SITE-F",
+    "reporter_role": "guard",
+    "narrative_text": "At 17:02, an open and active network port was noted in the main lobby."
+  },
+  {
+    "incident_id": "INC-000610",
+    "timestamp": "2026-03-09T17:20:00",
+    "site_id": "SITE-A",
+    "reporter_role": "guard",
+    "narrative_text": "Camera covering the courtyard was found repositioned away from the entry at 17:20."
+  },
+  {
+    "incident_id": "INC-000231",
+    "timestamp": "2026-03-09T22:36:00",
+    "site_id": "SITE-E",
+    "reporter_role": "guard",
+    "narrative_text": "At 22:36, motion reported in the dormitory entrance during a period with no scheduled activity."
+  },
+  {
+    "incident_id": "INC-000210",
+    "timestamp": "2026-03-10T00:23:00",
+    "site_id": "SITE-B",
+    "reporter_role": "supervisor",
+    "narrative_text": "A USB flash drive was found unattended in the rear entrance at 00:23."
+  },
+  {
+    "incident_id": "INC-000458",
+    "timestamp": "2026-03-10T04:05:00",
+    "site_id": "SITE-F",
+    "reporter_role": "guard",
+    "narrative_text": "An unauthorized person was observed viewing a staff workstation screen in the network closet at 04:05."
+  },
+  {
+    "incident_id": "INC-000247",
+    "timestamp": "2026-03-10T04:54:00",
+    "site_id": "SITE-E",
+    "reporter_role": "guard",
+    "narrative_text": "Individual observed photographing access points near the rear entrance at 04:54."
+  },
+  {
+    "incident_id": "INC-000568",
+    "timestamp": "2026-03-10T04:57:00",
+    "site_id": "SITE-D",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 04:57, the records room camera feed was offline with no maintenance scheduled."
+  },
+  {
+    "incident_id": "INC-000105",
+    "timestamp": "2026-03-10T20:28:00",
+    "site_id": "SITE-E",
+    "reporter_role": "guard",
+    "narrative_text": "An individual was observed climbing the perimeter fence near the main gate at 20:28."
+  },
+  {
+    "incident_id": "INC-000558",
+    "timestamp": "2026-03-10T23:12:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "At 23:12, an open and active network port was noted in the network closet."
+  },
+  {
+    "incident_id": "INC-000505",
+    "timestamp": "2026-03-11T03:18:00",
+    "site_id": "SITE-C",
+    "reporter_role": "account_manager",
+    "narrative_text": "Visitor at the network closet at 03:18 declined to provide identification and had no record of appointment."
+  },
+  {
+    "incident_id": "INC-000110",
+    "timestamp": "2026-03-11T08:52:00",
+    "site_id": "SITE-C",
+    "reporter_role": "guard",
+    "narrative_text": "At 08:52, an unscheduled delivery was dropped at the main lobby with no manifest."
+  },
+  {
+    "incident_id": "INC-000128",
+    "timestamp": "2026-03-11T08:53:00",
+    "site_id": "SITE-E",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 08:53, movement was noted along the library route that avoids camera coverage."
+  },
+  {
+    "incident_id": "INC-000145",
+    "timestamp": "2026-03-11T19:27:00",
+    "site_id": "SITE-D",
+    "reporter_role": "guard",
+    "narrative_text": "An individual was observed climbing the perimeter fence near the main gate at 19:27."
+  },
+  {
+    "incident_id": "INC-000326",
+    "timestamp": "2026-03-11T20:31:00",
+    "site_id": "SITE-E",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 20:31, a fire alarm activated in the parking lot; area checked and cleared."
+  },
+  {
+    "incident_id": "INC-000534",
+    "timestamp": "2026-03-11T21:26:00",
+    "site_id": "SITE-E",
+    "reporter_role": "account_manager",
+    "narrative_text": "Graffiti was found on the exterior wall near the records room at 21:26."
+  },
+  {
+    "incident_id": "INC-000104",
+    "timestamp": "2026-03-12T00:42:00",
+    "site_id": "SITE-G",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 00:42, a fire alarm activated in the records room; area checked and cleared."
+  },
+  {
+    "incident_id": "INC-000356",
+    "timestamp": "2026-03-12T06:51:00",
+    "site_id": "SITE-A",
+    "reporter_role": "guard",
+    "narrative_text": "At 06:51, a trespasser was noted crossing into the grounds at the parking lot."
+  },
+  {
+    "incident_id": "INC-000488",
+    "timestamp": "2026-03-12T22:18:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "At 22:18, an unscheduled delivery was dropped at the it office with no manifest."
+  },
+  {
+    "incident_id": "INC-000539",
+    "timestamp": "2026-03-13T03:33:00",
+    "site_id": "SITE-E",
+    "reporter_role": "guard",
+    "narrative_text": "At 03:33, a person at the main lobby could not be verified against the visitor log."
+  },
+  {
+    "incident_id": "INC-000456",
+    "timestamp": "2026-03-13T06:22:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "Badge presented at it office at 06:22 belonged to a person no longer affiliated with the institution."
+  },
+  {
+    "incident_id": "INC-000475",
+    "timestamp": "2026-03-13T11:44:00",
+    "site_id": "SITE-E",
+    "reporter_role": "guard",
+    "narrative_text": "At 11:44, a trespasser was noted crossing into the grounds at the main gate."
+  },
+  {
+    "incident_id": "INC-000062",
+    "timestamp": "2026-03-13T15:40:00",
+    "site_id": "SITE-G",
+    "reporter_role": "supervisor",
+    "narrative_text": "Subject observed moving through a known camera gap near the classroom building at 15:40."
+  },
+  {
+    "incident_id": "INC-000432",
+    "timestamp": "2026-03-13T19:25:00",
+    "site_id": "SITE-F",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 19:25, a trespasser was noted crossing into the grounds at the main gate."
+  },
+  {
+    "incident_id": "INC-000017",
+    "timestamp": "2026-03-14T00:38:00",
+    "site_id": "SITE-E",
+    "reporter_role": "guard",
+    "narrative_text": "Graffiti was found on the exterior wall near the main gate at 00:38."
+  },
+  {
+    "incident_id": "INC-000609",
+    "timestamp": "2026-03-14T02:59:00",
+    "site_id": "SITE-A",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 02:59, the parking lot camera feed was offline with no maintenance scheduled."
+  },
+  {
+    "incident_id": "INC-000154",
+    "timestamp": "2026-03-14T06:24:00",
+    "site_id": "SITE-A",
+    "reporter_role": "guard",
+    "narrative_text": "An item was reported missing from the parking lot at 06:24."
+  },
+  {
+    "incident_id": "INC-000114",
+    "timestamp": "2026-03-14T14:00:00",
+    "site_id": "SITE-A",
+    "reporter_role": "guard",
+    "narrative_text": "Documents containing personal information were found in open trash at the parking lot at 14:00."
+  },
+  {
+    "incident_id": "INC-000172",
+    "timestamp": "2026-03-14T16:39:00",
+    "site_id": "SITE-D",
+    "reporter_role": "guard",
+    "narrative_text": "At 16:39, a fire alarm activated in the library; area checked and cleared."
+  },
+  {
+    "incident_id": "INC-000060",
+    "timestamp": "2026-03-14T17:38:00",
+    "site_id": "SITE-F",
+    "reporter_role": "account_manager",
+    "narrative_text": "At 17:38, a fire alarm activated in the main gate; area checked and cleared."
+  },
+  {
+    "incident_id": "INC-000347",
+    "timestamp": "2026-03-14T18:00:00",
+    "site_id": "SITE-A",
+    "reporter_role": "guard",
+    "narrative_text": "At 18:00 the courtyard gate latch appeared forced and the door was standing open."
+  },
+  {
+    "incident_id": "INC-000425",
+    "timestamp": "2026-03-14T18:01:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "A slip-and-fall was reported in the library at 18:01; first aid rendered."
+  },
+  {
+    "incident_id": "INC-000581",
+    "timestamp": "2026-03-14T20:40:00",
+    "site_id": "SITE-D",
+    "reporter_role": "guard",
+    "narrative_text": "At 20:40, motion reported in the rear entrance during a period with no scheduled activity."
+  },
+  {
+    "incident_id": "INC-000611",
+    "timestamp": "2026-03-14T22:05:00",
+    "site_id": "SITE-A",
+    "reporter_role": "supervisor",
+    "narrative_text": "Camera covering the server room was found repositioned away from the entry at 22:05."
+  },
+  {
+    "incident_id": "INC-000190",
+    "timestamp": "2026-03-15T00:40:00",
+    "site_id": "SITE-E",
+    "reporter_role": "guard",
+    "narrative_text": "A slip-and-fall was reported in the rear entrance at 00:40; first aid rendered."
+  },
+  {
+    "incident_id": "INC-000599",
+    "timestamp": "2026-03-15T03:08:00",
+    "site_id": "SITE-F",
+    "reporter_role": "guard",
+    "narrative_text": "At 03:08, minor vandalism was noted at the cafeteria."
+  },
+  {
+    "incident_id": "INC-000181",
+    "timestamp": "2026-03-15T07:19:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "At 07:19, an unscheduled delivery was dropped at the network closet with no manifest."
+  },
+  {
+    "incident_id": "INC-000535",
+    "timestamp": "2026-03-15T16:48:00",
+    "site_id": "SITE-G",
+    "reporter_role": "supervisor",
+    "narrative_text": "An item was reported missing from the chapel at 16:48."
+  },
+  {
+    "incident_id": "INC-000500",
+    "timestamp": "2026-03-15T17:00:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "At 17:00, the server room was found unlocked and occupied by an unidentified individual."
+  },
+  {
+    "incident_id": "INC-000452",
+    "timestamp": "2026-03-15T19:03:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "An individual was observed climbing the perimeter fence near the main gate at 19:03."
+  },
+  {
+    "incident_id": "INC-000310",
+    "timestamp": "2026-03-15T19:40:00",
+    "site_id": "SITE-F",
+    "reporter_role": "guard",
+    "narrative_text": "Subject observed moving through a known camera gap near the server room at 19:40."
+  },
+  {
+    "incident_id": "INC-000437",
+    "timestamp": "2026-03-15T20:50:00",
+    "site_id": "SITE-F",
+    "reporter_role": "guard",
+    "narrative_text": "At 20:50, minor vandalism was noted at the cafeteria."
+  },
+  {
+    "incident_id": "INC-000389",
+    "timestamp": "2026-03-15T23:03:00",
+    "site_id": "SITE-C",
+    "reporter_role": "account_manager",
+    "narrative_text": "At 23:03, minor vandalism was noted at the network closet."
+  },
+  {
+    "incident_id": "INC-000615",
+    "timestamp": "2026-03-15T23:12:00",
+    "site_id": "SITE-E",
+    "reporter_role": "guard",
+    "narrative_text": "Individual seen repeatedly observing the rear entrance entrances and photographing the layout at 23:12."
+  },
+  {
+    "incident_id": "INC-000562",
+    "timestamp": "2026-03-16T01:32:00",
+    "site_id": "SITE-D",
+    "reporter_role": "guard",
+    "narrative_text": "At 01:32, a fire alarm activated in the main gate; area checked and cleared."
+  },
+  {
+    "incident_id": "INC-000031",
+    "timestamp": "2026-03-16T01:47:00",
+    "site_id": "SITE-E",
+    "reporter_role": "guard",
+    "narrative_text": "At 01:47, a suspected theft was reported in the main gate."
+  },
+  {
+    "incident_id": "INC-000507",
+    "timestamp": "2026-03-16T09:40:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "A slip-and-fall was reported in the library at 09:40; first aid rendered."
+  },
+  {
+    "incident_id": "INC-000329",
+    "timestamp": "2026-03-16T11:34:00",
+    "site_id": "SITE-G",
+    "reporter_role": "supervisor",
+    "narrative_text": "Badge presented at records room at 11:34 belonged to a person no longer affiliated with the institution."
+  },
+  {
+    "incident_id": "INC-000369",
+    "timestamp": "2026-03-16T11:40:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "At 11:40, the server room was found unlocked and occupied by an unidentified individual."
+  },
+  {
+    "incident_id": "INC-000592",
+    "timestamp": "2026-03-16T15:11:00",
+    "site_id": "SITE-A",
+    "reporter_role": "guard",
+    "narrative_text": "A slip-and-fall was reported in the classroom building at 15:11; first aid rendered."
+  },
+  {
+    "incident_id": "INC-000281",
+    "timestamp": "2026-03-16T20:03:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "A slip-and-fall was reported in the rear entrance at 20:03; first aid rendered."
+  },
+  {
+    "incident_id": "INC-000353",
+    "timestamp": "2026-03-16T21:11:00",
+    "site_id": "SITE-C",
+    "reporter_role": "guard",
+    "narrative_text": "A slip-and-fall was reported in the network closet at 21:11; first aid rendered."
+  },
+  {
+    "incident_id": "INC-000037",
+    "timestamp": "2026-03-16T22:19:00",
+    "site_id": "SITE-G",
+    "reporter_role": "supervisor",
+    "narrative_text": "A slip-and-fall was reported in the courtyard at 22:19; first aid rendered."
+  },
+  {
+    "incident_id": "INC-000103",
+    "timestamp": "2026-03-17T01:29:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "At 01:29, an unscheduled delivery was dropped at the chapel with no manifest."
+  },
+  {
+    "incident_id": "INC-000413",
+    "timestamp": "2026-03-17T01:53:00",
+    "site_id": "SITE-B",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 01:53, a subject was recording the parking lot entry layout on a phone."
+  },
+  {
+    "incident_id": "INC-000299",
+    "timestamp": "2026-03-17T02:38:00",
+    "site_id": "SITE-C",
+    "reporter_role": "guard",
+    "narrative_text": "An item was reported missing from the courtyard at 02:38."
+  },
+  {
+    "incident_id": "INC-000516",
+    "timestamp": "2026-03-17T03:11:00",
+    "site_id": "SITE-D",
+    "reporter_role": "guard",
+    "narrative_text": "An individual was observed climbing the perimeter fence near the main gate at 03:11."
+  },
+  {
+    "incident_id": "INC-000243",
+    "timestamp": "2026-03-17T05:26:00",
+    "site_id": "SITE-A",
+    "reporter_role": "supervisor",
+    "narrative_text": "Individual at administration office at 05:26 claimed to be an IT vendor but could not produce a work order or company ID."
+  },
+  {
+    "incident_id": "INC-000518",
+    "timestamp": "2026-03-17T08:34:00",
+    "site_id": "SITE-A",
+    "reporter_role": "supervisor",
+    "narrative_text": "Individual at server room at 08:34 claimed to be an IT vendor but could not produce a work order or company ID."
+  },
+  {
+    "incident_id": "INC-000227",
+    "timestamp": "2026-03-17T08:52:00",
+    "site_id": "SITE-G",
+    "reporter_role": "account_manager",
+    "narrative_text": "A slip-and-fall was reported in the courtyard at 08:52; first aid rendered."
+  },
+  {
+    "incident_id": "INC-000550",
+    "timestamp": "2026-03-17T09:46:00",
+    "site_id": "SITE-A",
+    "reporter_role": "account_manager",
+    "narrative_text": "At approximately 09:46, a subject entered via the records room behind an authorized employee and did not badge in."
+  },
+  {
+    "incident_id": "INC-000428",
+    "timestamp": "2026-03-17T11:22:00",
+    "site_id": "SITE-E",
+    "reporter_role": "guard",
+    "narrative_text": "Unrecognized device observed plugged into equipment in the server room at 11:22."
+  },
+  {
+    "incident_id": "INC-000084",
+    "timestamp": "2026-03-17T16:22:00",
+    "site_id": "SITE-D",
+    "reporter_role": "supervisor",
+    "narrative_text": "Subject at parking lot at 16:22 attempted to talk past the officer using claimed authority and time pressure."
+  },
+  {
+    "incident_id": "INC-000544",
+    "timestamp": "2026-03-17T19:44:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "Badge presented at administration office at 19:44 belonged to a person no longer affiliated with the institution."
+  },
+  {
+    "incident_id": "INC-000151",
+    "timestamp": "2026-03-18T11:07:00",
+    "site_id": "SITE-G",
+    "reporter_role": "account_manager",
+    "narrative_text": "Subject observed moving through a known camera gap near the network closet at 11:07."
+  },
+  {
+    "incident_id": "INC-000468",
+    "timestamp": "2026-03-18T19:03:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "At 19:03, a fire alarm activated in the main lobby; area checked and cleared."
+  },
+  {
+    "incident_id": "INC-000216",
+    "timestamp": "2026-03-19T01:52:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "At 01:52, a trespasser was noted crossing into the grounds at the main gate."
+  },
+  {
+    "incident_id": "INC-000256",
+    "timestamp": "2026-03-19T03:03:00",
+    "site_id": "SITE-A",
+    "reporter_role": "supervisor",
+    "narrative_text": "Badge presented at records room at 03:03 belonged to a person no longer affiliated with the institution."
+  },
+  {
+    "incident_id": "INC-000391",
+    "timestamp": "2026-03-19T04:36:00",
+    "site_id": "SITE-E",
+    "reporter_role": "supervisor",
+    "narrative_text": "Subject at classroom building at 04:36 attempted to talk past the officer using claimed authority and time pressure."
+  },
+  {
+    "incident_id": "INC-000226",
+    "timestamp": "2026-03-19T17:12:00",
+    "site_id": "SITE-A",
+    "reporter_role": "guard",
+    "narrative_text": "A slip-and-fall was reported in the main gate at 17:12; first aid rendered."
+  },
+  {
+    "incident_id": "INC-000418",
+    "timestamp": "2026-03-19T18:37:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "Graffiti was found on the exterior wall near the network closet at 18:37."
+  },
+  {
+    "incident_id": "INC-000155",
+    "timestamp": "2026-03-19T19:05:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "An individual was observed climbing the perimeter fence near the main gate at 19:05."
+  },
+  {
+    "incident_id": "INC-000167",
+    "timestamp": "2026-03-19T20:40:00",
+    "site_id": "SITE-F",
+    "reporter_role": "guard",
+    "narrative_text": "Unexpected parcel left at the courtyard at 20:40, addressed to no known recipient."
+  },
+  {
+    "incident_id": "INC-000619",
+    "timestamp": "2026-03-20T01:32:00",
+    "site_id": "SITE-F",
+    "reporter_role": "guard",
+    "narrative_text": "At 01:32, a self-described maintenance contractor sought access to the rear entrance without a verifiable assignment."
+  },
+  {
+    "incident_id": "INC-000618",
+    "timestamp": "2026-03-20T06:32:00",
+    "site_id": "SITE-A",
+    "reporter_role": "account_manager",
+    "narrative_text": "At 06:32, a self-described maintenance contractor sought access to the library without a verifiable assignment."
+  },
+  {
+    "incident_id": "INC-000429",
+    "timestamp": "2026-03-20T06:54:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "An item was reported missing from the classroom building at 06:54."
+  },
+  {
+    "incident_id": "INC-000397",
+    "timestamp": "2026-03-20T12:54:00",
+    "site_id": "SITE-F",
+    "reporter_role": "guard",
+    "narrative_text": "An item was reported missing from the network closet at 12:54."
+  },
+  {
+    "incident_id": "INC-000150",
+    "timestamp": "2026-03-20T16:13:00",
+    "site_id": "SITE-A",
+    "reporter_role": "supervisor",
+    "narrative_text": "Badge presented at library at 16:13 belonged to a person no longer affiliated with the institution."
+  },
+  {
+    "incident_id": "INC-000361",
+    "timestamp": "2026-03-20T20:04:00",
+    "site_id": "SITE-C",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 20:04, a suspected theft was reported in the cafeteria."
+  },
+  {
+    "incident_id": "INC-000402",
+    "timestamp": "2026-03-20T20:48:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "At 20:48, a fire alarm activated in the administration office; area checked and cleared."
+  },
+  {
+    "incident_id": "INC-000234",
+    "timestamp": "2026-03-20T22:07:00",
+    "site_id": "SITE-A",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 22:07, minor vandalism was noted at the classroom building."
+  },
+  {
+    "incident_id": "INC-000120",
+    "timestamp": "2026-03-21T04:14:00",
+    "site_id": "SITE-D",
+    "reporter_role": "guard",
+    "narrative_text": "At 04:14 the cafeteria gate latch appeared forced and the door was standing open."
+  },
+  {
+    "incident_id": "INC-000616",
+    "timestamp": "2026-03-21T07:12:00",
+    "site_id": "SITE-E",
+    "reporter_role": "account_manager",
+    "narrative_text": "At 07:12, an individual repeatedly tried badging at the chapel reader; access denied."
+  },
+  {
+    "incident_id": "INC-000620",
+    "timestamp": "2026-03-21T07:32:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "Individual at main gate at 07:32 claimed to be an IT vendor but could not produce a work order or company ID."
+  },
+  {
+    "incident_id": "INC-000232",
+    "timestamp": "2026-03-21T09:50:00",
+    "site_id": "SITE-D",
+    "reporter_role": "guard",
+    "narrative_text": "At 09:50, a suspected theft was reported in the server room."
+  },
+  {
+    "incident_id": "INC-000479",
+    "timestamp": "2026-03-21T15:59:00",
+    "site_id": "SITE-G",
+    "reporter_role": "account_manager",
+    "narrative_text": "Subject attempted entry at the rear entrance at 15:59 without authorization and was turned away."
+  },
+  {
+    "incident_id": "INC-000344",
+    "timestamp": "2026-03-22T07:33:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "An item was reported missing from the administration office at 07:33."
+  },
+  {
+    "incident_id": "INC-000075",
+    "timestamp": "2026-03-22T22:53:00",
+    "site_id": "SITE-A",
+    "reporter_role": "guard",
+    "narrative_text": "At 22:53, minor vandalism was noted at the administration office."
+  },
+  {
+    "incident_id": "INC-000519",
+    "timestamp": "2026-03-22T23:54:00",
+    "site_id": "SITE-G",
+    "reporter_role": "supervisor",
+    "narrative_text": "Graffiti was found on the exterior wall near the dormitory entrance at 23:54."
+  },
+  {
+    "incident_id": "INC-000173",
+    "timestamp": "2026-03-23T01:50:00",
+    "site_id": "SITE-F",
+    "reporter_role": "guard",
+    "narrative_text": "An individual was observed climbing the perimeter fence near the courtyard at 01:50."
+  },
+  {
+    "incident_id": "INC-000352",
+    "timestamp": "2026-03-23T02:33:00",
+    "site_id": "SITE-F",
+    "reporter_role": "guard",
+    "narrative_text": "At 02:33, a fire alarm activated in the server room; area checked and cleared."
+  },
+  {
+    "incident_id": "INC-000435",
+    "timestamp": "2026-03-23T12:42:00",
+    "site_id": "SITE-A",
+    "reporter_role": "guard",
+    "narrative_text": "Found the main gate door propped open with a wedge at 12:42; no personnel present."
+  },
+  {
+    "incident_id": "INC-000333",
+    "timestamp": "2026-03-23T17:10:00",
+    "site_id": "SITE-C",
+    "reporter_role": "guard",
+    "narrative_text": "At 17:10, motion reported in the main gate during a period with no scheduled activity."
+  },
+  {
+    "incident_id": "INC-000533",
+    "timestamp": "2026-03-23T18:04:00",
+    "site_id": "SITE-D",
+    "reporter_role": "guard",
+    "narrative_text": "An individual was observed climbing the perimeter fence near the parking lot at 18:04."
+  },
+  {
+    "incident_id": "INC-000266",
+    "timestamp": "2026-03-23T21:45:00",
+    "site_id": "SITE-D",
+    "reporter_role": "guard",
+    "narrative_text": "An item was reported missing from the records room at 21:45."
+  },
+  {
+    "incident_id": "INC-000144",
+    "timestamp": "2026-03-24T04:04:00",
+    "site_id": "SITE-C",
+    "reporter_role": "account_manager",
+    "narrative_text": "At 04:04, a suspected theft was reported in the library."
+  },
+  {
+    "incident_id": "INC-000219",
+    "timestamp": "2026-03-24T04:20:00",
+    "site_id": "SITE-C",
+    "reporter_role": "guard",
+    "narrative_text": "At 04:20, minor vandalism was noted at the records room."
+  },
+  {
+    "incident_id": "INC-000551",
+    "timestamp": "2026-03-24T06:29:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "At 06:29, a trespasser was noted crossing into the grounds at the rear entrance."
+  },
+  {
+    "incident_id": "INC-000099",
+    "timestamp": "2026-03-24T08:01:00",
+    "site_id": "SITE-C",
+    "reporter_role": "account_manager",
+    "narrative_text": "An unauthorized person was observed viewing a staff workstation screen in the chapel at 08:01."
+  },
+  {
+    "incident_id": "INC-000294",
+    "timestamp": "2026-03-24T19:38:00",
+    "site_id": "SITE-C",
+    "reporter_role": "guard",
+    "narrative_text": "At 19:38, a suspected theft was reported in the parking lot."
+  },
+  {
+    "incident_id": "INC-000564",
+    "timestamp": "2026-03-25T08:11:00",
+    "site_id": "SITE-C",
+    "reporter_role": "guard",
+    "narrative_text": "Access log at rear entrance showed the same credential used at two separate points within minutes around 08:11."
+  },
+  {
+    "incident_id": "INC-000230",
+    "timestamp": "2026-03-25T10:10:00",
+    "site_id": "SITE-C",
+    "reporter_role": "guard",
+    "narrative_text": "At 10:10, minor vandalism was noted at the parking lot."
+  },
+  {
+    "incident_id": "INC-000441",
+    "timestamp": "2026-03-26T02:30:00",
+    "site_id": "SITE-E",
+    "reporter_role": "supervisor",
+    "narrative_text": "An unauthorized person was observed viewing a staff workstation screen in the server room at 02:30."
+  },
+  {
+    "incident_id": "INC-000455",
+    "timestamp": "2026-03-26T03:18:00",
+    "site_id": "SITE-E",
+    "reporter_role": "supervisor",
+    "narrative_text": "An item was reported missing from the chapel at 03:18."
+  },
+  {
+    "incident_id": "INC-000617",
+    "timestamp": "2026-03-26T07:12:00",
+    "site_id": "SITE-E",
+    "reporter_role": "guard",
+    "narrative_text": "Person observed inside the network closet at 07:12 without escort or work authorization."
+  },
+  {
+    "incident_id": "INC-000496",
+    "timestamp": "2026-03-26T16:30:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "Graffiti was found on the exterior wall near the rear entrance at 16:30."
+  },
+  {
+    "incident_id": "INC-000384",
+    "timestamp": "2026-03-26T19:15:00",
+    "site_id": "SITE-E",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 19:15, documents marked sensitive were found exposed in the library."
+  },
+  {
+    "incident_id": "INC-000152",
+    "timestamp": "2026-03-26T19:43:00",
+    "site_id": "SITE-G",
+    "reporter_role": "account_manager",
+    "narrative_text": "At 19:43, a subject lingered near the administration office, noting access points and staff patterns."
+  },
+  {
+    "incident_id": "INC-000217",
+    "timestamp": "2026-03-26T20:01:00",
+    "site_id": "SITE-D",
+    "reporter_role": "guard",
+    "narrative_text": "At 20:01, motion reported in the cafeteria during a period with no scheduled activity."
+  },
+  {
+    "incident_id": "INC-000283",
+    "timestamp": "2026-03-26T20:42:00",
+    "site_id": "SITE-A",
+    "reporter_role": "supervisor",
+    "narrative_text": "Access log at server room showed the same credential used at two separate points within minutes around 20:42."
+  },
+  {
+    "incident_id": "INC-000115",
+    "timestamp": "2026-03-26T22:25:00",
+    "site_id": "SITE-C",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 22:25, a trespasser was noted crossing into the grounds at the main gate."
+  },
+  {
+    "incident_id": "INC-000022",
+    "timestamp": "2026-03-27T01:14:00",
+    "site_id": "SITE-A",
+    "reporter_role": "guard",
+    "narrative_text": "Observed an individual follow a badged person through the chapel access door at 01:14 without presenting credentials."
+  },
+  {
+    "incident_id": "INC-000416",
+    "timestamp": "2026-03-27T04:53:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "A slip-and-fall was reported in the courtyard at 04:53; first aid rendered."
+  },
+  {
+    "incident_id": "INC-000013",
+    "timestamp": "2026-03-27T05:50:00",
+    "site_id": "SITE-B",
+    "reporter_role": "account_manager",
+    "narrative_text": "Visitor at the administration office at 05:50 declined to provide identification and had no record of appointment."
+  },
+  {
+    "incident_id": "INC-000282",
+    "timestamp": "2026-03-27T07:04:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "Unexpected parcel left at the it office at 07:04, addressed to no known recipient."
+  },
+  {
+    "incident_id": "INC-000586",
+    "timestamp": "2026-03-27T07:33:00",
+    "site_id": "SITE-D",
+    "reporter_role": "guard",
+    "narrative_text": "At 07:33, a suspected theft was reported in the network closet."
+  },
+  {
+    "incident_id": "INC-000215",
+    "timestamp": "2026-03-27T09:39:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "An individual was observed climbing the perimeter fence near the main gate at 09:39."
+  },
+  {
+    "incident_id": "INC-000168",
+    "timestamp": "2026-03-27T09:50:00",
+    "site_id": "SITE-D",
+    "reporter_role": "guard",
+    "narrative_text": "At 09:50, a fire alarm activated in the dormitory entrance; area checked and cleared."
+  },
+  {
+    "incident_id": "INC-000016",
+    "timestamp": "2026-03-27T09:53:00",
+    "site_id": "SITE-G",
+    "reporter_role": "account_manager",
+    "narrative_text": "Observed an individual follow a badged person through the administration office access door at 09:53 without presenting credentials."
+  },
+  {
+    "incident_id": "INC-000380",
+    "timestamp": "2026-03-27T20:05:00",
+    "site_id": "SITE-F",
+    "reporter_role": "guard",
+    "narrative_text": "Subject observed moving through a known camera gap near the courtyard at 20:05."
+  },
+  {
+    "incident_id": "INC-000444",
+    "timestamp": "2026-03-28T01:00:00",
+    "site_id": "SITE-C",
+    "reporter_role": "guard",
+    "narrative_text": "Found the cafeteria door propped open with a wedge at 01:00; no personnel present."
+  },
+  {
+    "incident_id": "INC-000472",
+    "timestamp": "2026-03-28T09:56:00",
+    "site_id": "SITE-E",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 09:56, a subject lingered near the rear entrance, noting access points and staff patterns."
+  },
+  {
+    "incident_id": "INC-000122",
+    "timestamp": "2026-03-28T13:44:00",
+    "site_id": "SITE-C",
+    "reporter_role": "guard",
+    "narrative_text": "A patch cable in the classroom building was found disconnected at 13:44."
+  },
+  {
+    "incident_id": "INC-000040",
+    "timestamp": "2026-03-28T13:53:00",
+    "site_id": "SITE-A",
+    "reporter_role": "guard",
+    "narrative_text": "At 13:53, a suspected theft was reported in the dormitory entrance."
+  },
+  {
+    "incident_id": "INC-000398",
+    "timestamp": "2026-03-28T18:06:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "At 18:06, motion reported in the server room during a period with no scheduled activity."
+  },
+  {
+    "incident_id": "INC-000350",
+    "timestamp": "2026-03-29T02:15:00",
+    "site_id": "SITE-C",
+    "reporter_role": "guard",
+    "narrative_text": "At 02:15, the rear entrance camera feed was offline with no maintenance scheduled."
+  },
+  {
+    "incident_id": "INC-000461",
+    "timestamp": "2026-03-29T05:21:00",
+    "site_id": "SITE-F",
+    "reporter_role": "account_manager",
+    "narrative_text": "At 05:21, minor vandalism was noted at the main gate."
+  },
+  {
+    "incident_id": "INC-000431",
+    "timestamp": "2026-03-29T08:27:00",
+    "site_id": "SITE-F",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 08:27, a trespasser was noted crossing into the grounds at the rear entrance."
+  },
+  {
+    "incident_id": "INC-000077",
+    "timestamp": "2026-03-29T10:00:00",
+    "site_id": "SITE-E",
+    "reporter_role": "supervisor",
+    "narrative_text": "Visitor at the records room at 10:00 declined to provide identification and had no record of appointment."
+  },
+  {
+    "incident_id": "INC-000136",
+    "timestamp": "2026-03-29T11:03:00",
+    "site_id": "SITE-E",
+    "reporter_role": "guard",
+    "narrative_text": "An individual was observed climbing the perimeter fence near the rear entrance at 11:03."
+  },
+  {
+    "incident_id": "INC-000490",
+    "timestamp": "2026-03-29T11:48:00",
+    "site_id": "SITE-F",
+    "reporter_role": "guard",
+    "narrative_text": "At 11:48, a subject lingered near the courtyard, noting access points and staff patterns."
+  },
+  {
+    "incident_id": "INC-000011",
+    "timestamp": "2026-03-29T14:09:00",
+    "site_id": "SITE-D",
+    "reporter_role": "guard",
+    "narrative_text": "At 14:09, a fire alarm activated in the dormitory entrance; area checked and cleared."
+  },
+  {
+    "incident_id": "INC-000381",
+    "timestamp": "2026-03-29T14:51:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "An item was reported missing from the library at 14:51."
+  },
+  {
+    "incident_id": "INC-000048",
+    "timestamp": "2026-03-29T16:25:00",
+    "site_id": "SITE-C",
+    "reporter_role": "guard",
+    "narrative_text": "Unrecognized device observed plugged into equipment in the library at 16:25."
+  },
+  {
+    "incident_id": "INC-000311",
+    "timestamp": "2026-03-29T19:02:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "Access log at courtyard showed the same credential used at two separate points within minutes around 19:02."
+  },
+  {
+    "incident_id": "INC-000497",
+    "timestamp": "2026-03-29T19:58:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "At 19:58, an unscheduled delivery was dropped at the courtyard with no manifest."
+  },
+  {
+    "incident_id": "INC-000280",
+    "timestamp": "2026-03-29T23:31:00",
+    "site_id": "SITE-F",
+    "reporter_role": "guard",
+    "narrative_text": "A slip-and-fall was reported in the cafeteria at 23:31; first aid rendered."
+  },
+  {
+    "incident_id": "INC-000261",
+    "timestamp": "2026-03-29T23:41:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "At 23:41, minor vandalism was noted at the parking lot."
+  },
+  {
+    "incident_id": "INC-000471",
+    "timestamp": "2026-03-30T00:06:00",
+    "site_id": "SITE-D",
+    "reporter_role": "guard",
+    "narrative_text": "An item was reported missing from the parking lot at 00:06."
+  },
+  {
+    "incident_id": "INC-000330",
+    "timestamp": "2026-03-30T07:19:00",
+    "site_id": "SITE-F",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 07:19, an unlabeled removable drive was discovered on a surface in the records room."
+  },
+  {
+    "incident_id": "INC-000523",
+    "timestamp": "2026-03-30T10:06:00",
+    "site_id": "SITE-A",
+    "reporter_role": "guard",
+    "narrative_text": "At 10:06, documents marked sensitive were found exposed in the library."
+  },
+  {
+    "incident_id": "INC-000197",
+    "timestamp": "2026-03-30T10:17:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "At 10:17, a suspected theft was reported in the chapel."
+  },
+  {
+    "incident_id": "INC-000342",
+    "timestamp": "2026-03-30T11:16:00",
+    "site_id": "SITE-A",
+    "reporter_role": "guard",
+    "narrative_text": "An individual was observed climbing the perimeter fence near the main gate at 11:16."
+  },
+  {
+    "incident_id": "INC-000578",
+    "timestamp": "2026-03-30T12:19:00",
+    "site_id": "SITE-A",
+    "reporter_role": "guard",
+    "narrative_text": "At 12:19, minor vandalism was noted at the classroom building."
+  },
+  {
+    "incident_id": "INC-000364",
+    "timestamp": "2026-03-30T13:14:00",
+    "site_id": "SITE-E",
+    "reporter_role": "guard",
+    "narrative_text": "At 13:14, a suspected theft was reported in the main gate."
+  },
+  {
+    "incident_id": "INC-000304",
+    "timestamp": "2026-03-30T19:08:00",
+    "site_id": "SITE-G",
+    "reporter_role": "account_manager",
+    "narrative_text": "A slip-and-fall was reported in the dormitory entrance at 19:08; first aid rendered."
+  },
+  {
+    "incident_id": "INC-000373",
+    "timestamp": "2026-03-31T04:15:00",
+    "site_id": "SITE-D",
+    "reporter_role": "guard",
+    "narrative_text": "At approximately 04:15, a subject entered via the dormitory entrance behind an authorized employee and did not badge in."
+  },
+  {
+    "incident_id": "INC-000096",
+    "timestamp": "2026-03-31T06:27:00",
+    "site_id": "SITE-E",
+    "reporter_role": "guard",
+    "narrative_text": "At 06:27, a subject lingered near the chapel, noting access points and staff patterns."
+  },
+  {
+    "incident_id": "INC-000137",
+    "timestamp": "2026-03-31T06:41:00",
+    "site_id": "SITE-A",
+    "reporter_role": "guard",
+    "narrative_text": "Power fluctuation reported in the server room at 06:41, affecting equipment."
+  },
+  {
+    "incident_id": "INC-000410",
+    "timestamp": "2026-03-31T08:05:00",
+    "site_id": "SITE-D",
+    "reporter_role": "guard",
+    "narrative_text": "Subject observed moving through a known camera gap near the administration office at 08:05."
+  },
+  {
+    "incident_id": "INC-000200",
+    "timestamp": "2026-03-31T09:19:00",
+    "site_id": "SITE-C",
+    "reporter_role": "guard",
+    "narrative_text": "An item was reported missing from the cafeteria at 09:19."
+  },
+  {
+    "incident_id": "INC-000156",
+    "timestamp": "2026-03-31T13:31:00",
+    "site_id": "SITE-D",
+    "reporter_role": "guard",
+    "narrative_text": "Subject at courtyard at 13:31 attempted to talk past the officer using claimed authority and time pressure."
+  },
+  {
+    "incident_id": "INC-000265",
+    "timestamp": "2026-03-31T13:39:00",
+    "site_id": "SITE-A",
+    "reporter_role": "guard",
+    "narrative_text": "An item was reported missing from the network closet at 13:39."
+  },
+  {
+    "incident_id": "INC-000478",
+    "timestamp": "2026-03-31T18:32:00",
+    "site_id": "SITE-D",
+    "reporter_role": "guard",
+    "narrative_text": "Unexpected parcel left at the library at 18:32, addressed to no known recipient."
+  },
+  {
+    "incident_id": "INC-000113",
+    "timestamp": "2026-03-31T20:09:00",
+    "site_id": "SITE-D",
+    "reporter_role": "guard",
+    "narrative_text": "At 20:09, an unscheduled delivery was dropped at the cafeteria with no manifest."
+  },
+  {
+    "incident_id": "INC-000511",
+    "timestamp": "2026-04-01T02:16:00",
+    "site_id": "SITE-C",
+    "reporter_role": "account_manager",
+    "narrative_text": "At approximately 02:16, a subject entered via the chapel behind an authorized employee and did not badge in."
+  },
+  {
+    "incident_id": "INC-000051",
+    "timestamp": "2026-04-01T06:23:00",
+    "site_id": "SITE-F",
+    "reporter_role": "guard",
+    "narrative_text": "At 06:23, motion reported in the parking lot during a period with no scheduled activity."
+  },
+  {
+    "incident_id": "INC-000522",
+    "timestamp": "2026-04-01T06:33:00",
+    "site_id": "SITE-A",
+    "reporter_role": "guard",
+    "narrative_text": "At 06:33, minor vandalism was noted at the server room."
+  },
+  {
+    "incident_id": "INC-000149",
+    "timestamp": "2026-04-01T13:55:00",
+    "site_id": "SITE-C",
+    "reporter_role": "guard",
+    "narrative_text": "At 13:55, an unscheduled delivery was dropped at the server room with no manifest."
+  },
+  {
+    "incident_id": "INC-000274",
+    "timestamp": "2026-04-01T17:13:00",
+    "site_id": "SITE-F",
+    "reporter_role": "guard",
+    "narrative_text": "At 17:13, a subject lingered near the cafeteria, noting access points and staff patterns."
+  },
+  {
+    "incident_id": "INC-000396",
+    "timestamp": "2026-04-01T18:52:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "At 18:52, a trespasser was noted crossing into the grounds at the parking lot."
+  },
+  {
+    "incident_id": "INC-000512",
+    "timestamp": "2026-04-01T20:15:00",
+    "site_id": "SITE-B",
+    "reporter_role": "account_manager",
+    "narrative_text": "Power fluctuation reported in the server room at 20:15, affecting equipment."
+  },
+  {
+    "incident_id": "INC-000202",
+    "timestamp": "2026-04-01T20:25:00",
+    "site_id": "SITE-A",
+    "reporter_role": "guard",
+    "narrative_text": "An item was reported missing from the main gate at 20:25."
+  },
+  {
+    "incident_id": "INC-000338",
+    "timestamp": "2026-04-01T22:22:00",
+    "site_id": "SITE-F",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 22:22, an unscheduled delivery was dropped at the records room with no manifest."
+  },
+  {
+    "incident_id": "INC-000131",
+    "timestamp": "2026-04-02T07:30:00",
+    "site_id": "SITE-A",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 07:30, movement was noted along the main lobby route that avoids camera coverage."
+  },
+  {
+    "incident_id": "INC-000460",
+    "timestamp": "2026-04-02T10:27:00",
+    "site_id": "SITE-C",
+    "reporter_role": "guard",
+    "narrative_text": "Documents containing personal information were found in open trash at the parking lot at 10:27."
+  },
+  {
+    "incident_id": "INC-000269",
+    "timestamp": "2026-04-02T13:35:00",
+    "site_id": "SITE-F",
+    "reporter_role": "guard",
+    "narrative_text": "At 13:35, minor vandalism was noted at the cafeteria."
+  },
+  {
+    "incident_id": "INC-000571",
+    "timestamp": "2026-04-02T19:12:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "At 19:12, a trespasser was noted crossing into the grounds at the parking lot."
+  },
+  {
+    "incident_id": "INC-000322",
+    "timestamp": "2026-04-02T22:51:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "At 22:51, a subject lingered near the dormitory entrance, noting access points and staff patterns."
+  },
+  {
+    "incident_id": "INC-000119",
+    "timestamp": "2026-04-03T05:10:00",
+    "site_id": "SITE-E",
+    "reporter_role": "account_manager",
+    "narrative_text": "At 05:10, a fire alarm activated in the library; area checked and cleared."
+  },
+  {
+    "incident_id": "INC-000208",
+    "timestamp": "2026-04-03T10:42:00",
+    "site_id": "SITE-A",
+    "reporter_role": "guard",
+    "narrative_text": "At 10:42, intact sensitive paperwork was discovered in unsecured disposal near the records room."
+  },
+  {
+    "incident_id": "INC-000541",
+    "timestamp": "2026-04-03T12:48:00",
+    "site_id": "SITE-C",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 12:48, motion reported in the classroom building during a period with no scheduled activity."
+  },
+  {
+    "incident_id": "INC-000400",
+    "timestamp": "2026-04-04T02:22:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "Graffiti was found on the exterior wall near the dormitory entrance at 02:22."
+  },
+  {
+    "incident_id": "INC-000020",
+    "timestamp": "2026-04-04T06:45:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "At 06:45, a subject was recording the dormitory entrance entry layout on a phone."
+  },
+  {
+    "incident_id": "INC-000135",
+    "timestamp": "2026-04-04T11:13:00",
+    "site_id": "SITE-A",
+    "reporter_role": "guard",
+    "narrative_text": "Access log at cafeteria showed the same credential used at two separate points within minutes around 11:13."
+  },
+  {
+    "incident_id": "INC-000553",
+    "timestamp": "2026-04-04T14:24:00",
+    "site_id": "SITE-C",
+    "reporter_role": "guard",
+    "narrative_text": "At 14:24, a visitor in the courtyard was positioned to read a logged-in screen."
+  },
+  {
+    "incident_id": "INC-000457",
+    "timestamp": "2026-04-04T15:21:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "A slip-and-fall was reported in the classroom building at 15:21; first aid rendered."
+  },
+  {
+    "incident_id": "INC-000343",
+    "timestamp": "2026-04-05T07:27:00",
+    "site_id": "SITE-F",
+    "reporter_role": "guard",
+    "narrative_text": "An individual was observed climbing the perimeter fence near the main gate at 07:27."
+  },
+  {
+    "incident_id": "INC-000555",
+    "timestamp": "2026-04-05T07:51:00",
+    "site_id": "SITE-F",
+    "reporter_role": "guard",
+    "narrative_text": "Graffiti was found on the exterior wall near the main gate at 07:51."
+  },
+  {
+    "incident_id": "INC-000241",
+    "timestamp": "2026-04-05T08:08:00",
+    "site_id": "SITE-E",
+    "reporter_role": "account_manager",
+    "narrative_text": "An individual was observed climbing the perimeter fence near the main gate at 08:08."
+  },
+  {
+    "incident_id": "INC-000073",
+    "timestamp": "2026-04-05T08:49:00",
+    "site_id": "SITE-D",
+    "reporter_role": "account_manager",
+    "narrative_text": "Found the main gate door propped open with a wedge at 08:49; no personnel present."
+  },
+  {
+    "incident_id": "INC-000357",
+    "timestamp": "2026-04-05T13:46:00",
+    "site_id": "SITE-C",
+    "reporter_role": "guard",
+    "narrative_text": "Observed an individual follow a badged person through the records room access door at 13:46 without presenting credentials."
+  },
+  {
+    "incident_id": "INC-000315",
+    "timestamp": "2026-04-05T14:20:00",
+    "site_id": "SITE-D",
+    "reporter_role": "guard",
+    "narrative_text": "An item was reported missing from the chapel at 14:20."
+  },
+  {
+    "incident_id": "INC-000059",
+    "timestamp": "2026-04-05T16:29:00",
+    "site_id": "SITE-B",
+    "reporter_role": "guard",
+    "narrative_text": "Individual at main lobby at 16:29 claimed to be an IT vendor but could not produce a work order or company ID."
+  },
+  {
+    "incident_id": "INC-000134",
+    "timestamp": "2026-04-05T17:26:00",
+    "site_id": "SITE-F",
+    "reporter_role": "guard",
+    "narrative_text": "At 17:26, a trespasser was noted crossing into the grounds at the parking lot."
+  },
+  {
+    "incident_id": "INC-000406",
+    "timestamp": "2026-04-05T17:46:00",
+    "site_id": "SITE-D",
+    "reporter_role": "supervisor",
+    "narrative_text": "At 17:46, minor vandalism was noted at the server room."
+  },
+  {
+    "incident_id": "INC-000482",
+    "timestamp": "2026-04-05T17:55:00",
+    "site_id": "SITE-C",
+    "reporter_role": "guard",
+    "narrative_text": "Individual observed in the main gate at 17:55, well outside authorized hours."
+  },
+  {
+    "incident_id": "INC-000209",
+    "timestamp": "2026-04-05T20:11:00",
+    "site_id": "SITE-F",
+    "reporter_role": "guard",
+    "narrative_text": "Confidential files were left unattended on a desk in the records room at 20:11."
+  },
+  {
+    "incident_id": "INC-000422",
+    "timestamp": "2026-04-05T21:06:00",
+    "site_id": "SITE-G",
+    "reporter_role": "guard",
+    "narrative_text": "At 21:06, a fire alarm activated in the records room; area checked and cleared."
+  },
+  {
+    "incident_id": "INC-000501",
+    "timestamp": "2026-04-05T23:49:00",
+    "site_id": "SITE-E",
+    "reporter_role": "guard",
+    "narrative_text": "Camera covering the parking lot was found repositioned away from the entry at 23:49."
+  }
+]

@@ -1,0 +1,621 @@
+incident_id,timestamp,site_id,reporter_role,narrative_text
+INC-000446,2026-01-06T01:34:00,SITE-D,guard,A slip-and-fall was reported in the classroom building at 01:34; first aid rendered.
+INC-000303,2026-01-06T12:21:00,SITE-C,guard,"At 12:21, minor vandalism was noted at the records room."
+INC-000094,2026-01-06T13:28:00,SITE-B,supervisor,"At 13:28, a suspected theft was reported in the it office."
+INC-000560,2026-01-06T17:02:00,SITE-E,guard,"At 17:02, an unscheduled delivery was dropped at the records room with no manifest."
+INC-000504,2026-01-06T20:46:00,SITE-E,account_manager,An item was reported missing from the courtyard at 20:46.
+INC-000536,2026-01-06T21:41:00,SITE-G,guard,"At 21:41, a visitor in the parking lot was positioned to read a logged-in screen."
+INC-000028,2026-01-07T02:59:00,SITE-G,guard,"At 02:59, motion reported in the network closet during a period with no scheduled activity."
+INC-000312,2026-01-07T03:16:00,SITE-A,supervisor,Unrecognized device observed plugged into equipment in the server room at 03:16.
+INC-000359,2026-01-07T05:31:00,SITE-F,supervisor,"At 05:31, minor vandalism was noted at the main gate."
+INC-000363,2026-01-07T07:02:00,SITE-A,guard,Visitor at the cafeteria at 07:02 declined to provide identification and had no record of appointment.
+INC-000246,2026-01-07T09:36:00,SITE-A,guard,"At 09:36, a trespasser was noted crossing into the grounds at the main gate."
+INC-000485,2026-01-07T16:06:00,SITE-G,guard,Documents containing personal information were found in open trash at the administration office at 16:06.
+INC-000083,2026-01-08T02:18:00,SITE-D,guard,"At 02:18, an unscheduled delivery was dropped at the classroom building with no manifest."
+INC-000589,2026-01-08T05:06:00,SITE-E,guard,"At 05:06, a suspected theft was reported in the dormitory entrance."
+INC-000403,2026-01-08T10:16:00,SITE-C,guard,An item was reported missing from the chapel at 10:16.
+INC-000259,2026-01-08T12:16:00,SITE-F,guard,Badge presented at records room at 12:16 belonged to a person no longer affiliated with the institution.
+INC-000386,2026-01-08T12:50:00,SITE-G,supervisor,"At 12:50, motion reported in the it office during a period with no scheduled activity."
+INC-000161,2026-01-08T14:58:00,SITE-D,account_manager,"At 14:58, a suspected theft was reported in the chapel."
+INC-000284,2026-01-08T16:46:00,SITE-A,guard,A slip-and-fall was reported in the dormitory entrance at 16:46; first aid rendered.
+INC-000451,2026-01-08T18:32:00,SITE-B,guard,Graffiti was found on the exterior wall near the library at 18:32.
+INC-000072,2026-01-08T19:09:00,SITE-G,supervisor,Person observed inside the server room at 19:09 without escort or work authorization.
+INC-000430,2026-01-08T21:00:00,SITE-E,guard,A slip-and-fall was reported in the cafeteria at 21:00; first aid rendered.
+INC-000447,2026-01-08T21:00:00,SITE-B,guard,An unauthorized person was observed viewing a staff workstation screen in the administration office at 21:00.
+INC-000608,2026-01-09T00:05:00,SITE-D,guard,Visitor at the records room at 00:05 declined to provide identification and had no record of appointment.
+INC-000427,2026-01-09T07:23:00,SITE-F,supervisor,Observed an individual follow a badged person through the cafeteria access door at 07:23 without presenting credentials.
+INC-000068,2026-01-09T12:37:00,SITE-E,guard,An unauthorized person was observed viewing a staff workstation screen in the courtyard at 12:37.
+INC-000313,2026-01-09T15:06:00,SITE-C,guard,Graffiti was found on the exterior wall near the dormitory entrance at 15:06.
+INC-000047,2026-01-09T21:12:00,SITE-B,guard,Camera covering the parking lot was found repositioned away from the entry at 21:12.
+INC-000318,2026-01-09T23:39:00,SITE-D,supervisor,"At 23:39, an individual repeatedly tried badging at the server room reader; access denied."
+INC-000010,2026-01-10T10:25:00,SITE-B,guard,"At 10:25, a person at the dormitory entrance could not be verified against the visitor log."
+INC-000042,2026-01-10T11:37:00,SITE-E,guard,Graffiti was found on the exterior wall near the rear entrance at 11:37.
+INC-000606,2026-01-10T12:37:00,SITE-D,account_manager,"At 12:37, a person at the cafeteria could not be verified against the visitor log."
+INC-000290,2026-01-11T02:43:00,SITE-C,supervisor,A slip-and-fall was reported in the server room at 02:43; first aid rendered.
+INC-000607,2026-01-11T09:35:00,SITE-D,guard,Visitor at the main gate at 09:35 declined to provide identification and had no record of appointment.
+INC-000043,2026-01-11T11:13:00,SITE-G,guard,"At 11:13, a trespasser was noted crossing into the grounds at the parking lot."
+INC-000597,2026-01-11T18:50:00,SITE-A,account_manager,Graffiti was found on the exterior wall near the it office at 18:50.
+INC-000142,2026-01-11T23:50:00,SITE-E,supervisor,"At 23:50, minor vandalism was noted at the server room."
+INC-000201,2026-01-11T23:55:00,SITE-D,account_manager,Subject at server room at 23:55 attempted to talk past the officer using claimed authority and time pressure.
+INC-000489,2026-01-12T00:47:00,SITE-E,account_manager,"At 00:47, a trespasser was noted crossing into the grounds at the courtyard."
+INC-000603,2026-01-12T07:54:00,SITE-B,guard,At 07:54 the cafeteria gate latch appeared forced and the door was standing open.
+INC-000233,2026-01-12T18:30:00,SITE-F,account_manager,"At 18:30, minor vandalism was noted at the library."
+INC-000025,2026-01-12T21:41:00,SITE-G,guard,"At 21:41, a fire alarm activated in the administration office; area checked and cleared."
+INC-000412,2026-01-13T04:48:00,SITE-E,guard,"At 04:48, a trespasser was noted crossing into the grounds at the main gate."
+INC-000392,2026-01-13T07:38:00,SITE-A,supervisor,"At 07:38, a suspected theft was reported in the classroom building."
+INC-000018,2026-01-13T07:56:00,SITE-B,supervisor,"Power fluctuation reported in the server room at 07:56, affecting equipment."
+INC-000258,2026-01-13T14:08:00,SITE-G,supervisor,A slip-and-fall was reported in the rear entrance at 14:08; first aid rendered.
+INC-000032,2026-01-13T16:05:00,SITE-B,guard,"Individual observed in the records room at 16:05, well outside authorized hours."
+INC-000366,2026-01-14T14:55:00,SITE-D,guard,Camera covering the dormitory entrance was found repositioned away from the entry at 14:55.
+INC-000577,2026-01-14T15:35:00,SITE-A,guard,An item was reported missing from the main lobby at 15:35.
+INC-000604,2026-01-14T16:34:00,SITE-B,guard,Found the administration office door propped open with a wedge at 16:34; no personnel present.
+INC-000260,2026-01-14T17:03:00,SITE-F,guard,"At 17:03, a trespasser was noted crossing into the grounds at the main gate."
+INC-000138,2026-01-14T17:13:00,SITE-B,guard,"At 17:13, a subject was recording the courtyard entry layout on a phone."
+INC-000132,2026-01-14T20:52:00,SITE-F,guard,"At 20:52, documents marked sensitive were found exposed in the records room."
+INC-000517,2026-01-15T00:54:00,SITE-F,guard,"At 00:54, a suspected theft was reported in the rear entrance."
+INC-000057,2026-01-15T14:26:00,SITE-E,account_manager,A slip-and-fall was reported in the server room at 14:26; first aid rendered.
+INC-000027,2026-01-15T14:51:00,SITE-G,guard,Graffiti was found on the exterior wall near the records room at 14:51.
+INC-000605,2026-01-15T15:09:00,SITE-D,supervisor,"At 15:09, a person at the main gate could not be verified against the visitor log."
+INC-000552,2026-01-15T16:18:00,SITE-E,supervisor,"At 16:18, a suspected theft was reported in the main gate."
+INC-000404,2026-01-15T17:57:00,SITE-F,account_manager,"At 17:57, documents marked sensitive were found exposed in the administration office."
+INC-000090,2026-01-15T18:40:00,SITE-D,guard,Subject observed moving through a known camera gap near the administration office at 18:40.
+INC-000601,2026-01-16T01:19:00,SITE-B,guard,Found the it office door propped open with a wedge at 01:19; no personnel present.
+INC-000602,2026-01-16T03:05:00,SITE-B,guard,Found the it office door propped open with a wedge at 03:05; no personnel present.
+INC-000184,2026-01-16T05:17:00,SITE-C,guard,Visitor at the cafeteria at 05:17 declined to provide identification and had no record of appointment.
+INC-000082,2026-01-16T07:46:00,SITE-B,supervisor,"Individual observed in the parking lot at 07:46, well outside authorized hours."
+INC-000186,2026-01-16T11:14:00,SITE-D,guard,At 11:14 the main lobby gate latch appeared forced and the door was standing open.
+INC-000240,2026-01-16T11:59:00,SITE-F,guard,"At 11:59, a trespasser was noted crossing into the grounds at the rear entrance."
+INC-000199,2026-01-16T13:38:00,SITE-D,supervisor,"At 13:38, a subject lingered near the records room, noting access points and staff patterns."
+INC-000293,2026-01-16T16:47:00,SITE-F,guard,"At 16:47, a subject lingered near the main gate, noting access points and staff patterns."
+INC-000372,2026-01-16T18:06:00,SITE-D,guard,"At 18:06, a caller at the rear entrance pressured the officer to grant access 'just this once,' citing urgency from a senior name."
+INC-000546,2026-01-16T19:02:00,SITE-C,guard,"At 19:02, minor vandalism was noted at the it office."
+INC-000262,2026-01-16T21:42:00,SITE-D,guard,Documents containing personal information were found in open trash at the parking lot at 21:42.
+INC-000300,2026-01-16T23:57:00,SITE-G,account_manager,A slip-and-fall was reported in the rear entrance at 23:57; first aid rendered.
+INC-000502,2026-01-17T02:03:00,SITE-A,supervisor,An individual was observed climbing the perimeter fence near the parking lot at 02:03.
+INC-000545,2026-01-17T04:30:00,SITE-G,guard,An item was reported missing from the server room at 04:30.
+INC-000445,2026-01-17T04:39:00,SITE-D,guard,At 04:39 the parking lot gate latch appeared forced and the door was standing open.
+INC-000002,2026-01-17T06:14:00,SITE-A,guard,Observed an individual follow a badged person through the rear entrance access door at 06:14 without presenting credentials.
+INC-000439,2026-01-17T07:22:00,SITE-F,guard,"At 07:22, a cooling failure was noted in the server room."
+INC-000107,2026-01-17T07:53:00,SITE-D,supervisor,"Individual observed in the server room at 07:53, well outside authorized hours."
+INC-000385,2026-01-17T08:24:00,SITE-A,guard,Documents containing personal information were found in open trash at the administration office at 08:24.
+INC-000408,2026-01-17T09:52:00,SITE-D,account_manager,"At 09:52, a suspected theft was reported in the administration office."
+INC-000377,2026-01-17T22:15:00,SITE-B,supervisor,An individual was observed climbing the perimeter fence near the courtyard at 22:15.
+INC-000407,2026-01-18T01:25:00,SITE-B,supervisor,"At 01:25, a caller at the courtyard pressured the officer to grant access 'just this once,' citing urgency from a senior name."
+INC-000334,2026-01-18T04:48:00,SITE-F,guard,A patch cable in the classroom building was found disconnected at 04:48.
+INC-000126,2026-01-18T20:41:00,SITE-F,supervisor,Individual at main lobby at 20:41 claimed to be an IT vendor but could not produce a work order or company ID.
+INC-000569,2026-01-18T22:10:00,SITE-D,guard,"At 22:10, a suspected theft was reported in the main lobby."
+INC-000277,2026-01-18T23:30:00,SITE-D,guard,"At 23:30, a fire alarm activated in the network closet; area checked and cleared."
+INC-000038,2026-01-19T04:16:00,SITE-F,supervisor,"At 04:16, a caller at the chapel pressured the officer to grant access 'just this once,' citing urgency from a senior name."
+INC-000102,2026-01-19T05:21:00,SITE-F,supervisor,"At 05:21, a trespasser was noted crossing into the grounds at the rear entrance."
+INC-000370,2026-01-19T06:33:00,SITE-C,supervisor,Individual seen repeatedly observing the classroom building entrances and photographing the layout at 06:33.
+INC-000225,2026-01-19T13:08:00,SITE-G,guard,"At 13:08, a suspected theft was reported in the server room."
+INC-000074,2026-01-19T18:01:00,SITE-C,account_manager,"At 18:01, a self-described maintenance contractor sought access to the server room without a verifiable assignment."
+INC-000049,2026-01-19T19:27:00,SITE-A,guard,"At 19:27, a trespasser was noted crossing into the grounds at the courtyard."
+INC-000316,2026-01-19T21:51:00,SITE-F,guard,An individual was observed climbing the perimeter fence near the parking lot at 21:51.
+INC-000510,2026-01-20T05:42:00,SITE-B,guard,Access log at network closet showed the same credential used at two separate points within minutes around 05:42.
+INC-000162,2026-01-20T12:01:00,SITE-C,account_manager,"At 12:01, an individual repeatedly tried badging at the main gate reader; access denied."
+INC-000129,2026-01-20T14:04:00,SITE-G,guard,Subject at library at 14:04 attempted to talk past the officer using claimed authority and time pressure.
+INC-000394,2026-01-20T16:55:00,SITE-G,guard,"At 16:55, minor vandalism was noted at the main gate."
+INC-000141,2026-01-20T23:04:00,SITE-E,guard,A slip-and-fall was reported in the cafeteria at 23:04; first aid rendered.
+INC-000508,2026-01-21T01:00:00,SITE-B,supervisor,"Individual observed in the courtyard at 01:00, well outside authorized hours."
+INC-000376,2026-01-21T02:10:00,SITE-C,guard,A slip-and-fall was reported in the network closet at 02:10; first aid rendered.
+INC-000331,2026-01-21T07:13:00,SITE-D,account_manager,"At 07:13, a suspected theft was reported in the network closet."
+INC-000033,2026-01-21T18:15:00,SITE-D,guard,Individual at courtyard at 18:15 claimed to be an IT vendor but could not produce a work order or company ID.
+INC-000349,2026-01-21T18:46:00,SITE-G,guard,"At 18:46, documents marked sensitive were found exposed in the records room."
+INC-000076,2026-01-21T18:50:00,SITE-G,supervisor,"At 18:50, a subject lingered near the main lobby, noting access points and staff patterns."
+INC-000253,2026-01-21T20:58:00,SITE-F,account_manager,An individual was observed climbing the perimeter fence near the courtyard at 20:58.
+INC-000298,2026-01-22T02:11:00,SITE-A,supervisor,"At 02:11, a trespasser was noted crossing into the grounds at the rear entrance."
+INC-000203,2026-01-22T02:15:00,SITE-A,guard,"At 02:15, a fire alarm activated in the network closet; area checked and cleared."
+INC-000448,2026-01-22T03:24:00,SITE-C,guard,"At 03:24, a caller at the rear entrance pressured the officer to grant access 'just this once,' citing urgency from a senior name."
+INC-000019,2026-01-22T04:42:00,SITE-G,guard,"At 04:42, a subject was recording the cafeteria entry layout on a phone."
+INC-000393,2026-01-22T10:45:00,SITE-G,guard,Graffiti was found on the exterior wall near the library at 10:45.
+INC-000213,2026-01-22T13:32:00,SITE-G,guard,Graffiti was found on the exterior wall near the server room at 13:32.
+INC-000263,2026-01-22T23:14:00,SITE-E,guard,"At 23:14, a fire alarm activated in the records room; area checked and cleared."
+INC-000379,2026-01-23T03:00:00,SITE-G,guard,An item was reported missing from the main lobby at 03:00.
+INC-000526,2026-01-23T14:10:00,SITE-E,supervisor,"At 14:10, documents marked sensitive were found exposed in the administration office."
+INC-000250,2026-01-23T15:20:00,SITE-B,guard,"At 15:20, a suspected theft was reported in the server room."
+INC-000229,2026-01-23T22:21:00,SITE-A,supervisor,"At approximately 22:21, a subject entered via the network closet behind an authorized employee and did not badge in."
+INC-000221,2026-01-24T03:03:00,SITE-B,account_manager,"At 03:03, a fire alarm activated in the dormitory entrance; area checked and cleared."
+INC-000139,2026-01-24T04:34:00,SITE-C,guard,Visitor at the dormitory entrance at 04:34 declined to provide identification and had no record of appointment.
+INC-000271,2026-01-24T14:58:00,SITE-C,guard,"At 14:58, minor vandalism was noted at the main lobby."
+INC-000532,2026-01-24T18:52:00,SITE-E,account_manager,"At 18:52, a fire alarm activated in the network closet; area checked and cleared."
+INC-000420,2026-01-24T19:38:00,SITE-D,guard,"At 19:38, a trespasser was noted crossing into the grounds at the rear entrance."
+INC-000335,2026-01-24T22:20:00,SITE-B,guard,"At 22:20, a self-described maintenance contractor sought access to the records room without a verifiable assignment."
+INC-000590,2026-01-25T00:31:00,SITE-A,guard,"At 00:31, a self-described maintenance contractor sought access to the classroom building without a verifiable assignment."
+INC-000171,2026-01-25T01:28:00,SITE-E,guard,A slip-and-fall was reported in the chapel at 01:28; first aid rendered.
+INC-000044,2026-01-25T07:55:00,SITE-E,guard,Subject observed moving through a known camera gap near the library at 07:55.
+INC-000493,2026-01-25T10:38:00,SITE-A,account_manager,"At 10:38, a self-described maintenance contractor sought access to the main lobby without a verifiable assignment."
+INC-000348,2026-01-25T13:39:00,SITE-F,guard,Graffiti was found on the exterior wall near the administration office at 13:39.
+INC-000254,2026-01-25T14:47:00,SITE-D,guard,"At 14:47, minor vandalism was noted at the courtyard."
+INC-000204,2026-01-25T21:28:00,SITE-E,supervisor,An item was reported missing from the main gate at 21:28.
+INC-000147,2026-01-25T21:59:00,SITE-C,guard,An individual was observed climbing the perimeter fence near the rear entrance at 21:59.
+INC-000464,2026-01-26T03:26:00,SITE-G,account_manager,"At 03:26, a person at the server room could not be verified against the visitor log."
+INC-000362,2026-01-26T08:49:00,SITE-C,guard,Graffiti was found on the exterior wall near the chapel at 08:49.
+INC-000486,2026-01-26T09:43:00,SITE-C,guard,"At 09:43, a self-described maintenance contractor sought access to the dormitory entrance without a verifiable assignment."
+INC-000598,2026-01-26T15:05:00,SITE-B,guard,An item was reported missing from the administration office at 15:05.
+INC-000492,2026-01-26T18:54:00,SITE-B,guard,"At 18:54, a trespasser was noted crossing into the grounds at the courtyard."
+INC-000061,2026-01-26T23:55:00,SITE-D,guard,Individual seen repeatedly observing the cafeteria entrances and photographing the layout at 23:55.
+INC-000579,2026-01-27T00:02:00,SITE-E,guard,At 00:02 the administration office gate latch appeared forced and the door was standing open.
+INC-000327,2026-01-27T02:36:00,SITE-D,guard,"Unexpected parcel left at the main lobby at 02:36, addressed to no known recipient."
+INC-000415,2026-01-27T06:51:00,SITE-B,guard,"At 06:51, a fire alarm activated in the classroom building; area checked and cleared."
+INC-000530,2026-01-27T08:59:00,SITE-A,guard,Confidential files were left unattended on a desk in the administration office at 08:59.
+INC-000097,2026-01-27T09:38:00,SITE-A,supervisor,Camera covering the it office was found repositioned away from the entry at 09:38.
+INC-000382,2026-01-27T18:27:00,SITE-A,guard,"At 18:27, a fire alarm activated in the records room; area checked and cleared."
+INC-000405,2026-01-27T19:56:00,SITE-F,guard,"Unexpected parcel left at the parking lot at 19:56, addressed to no known recipient."
+INC-000409,2026-01-27T20:18:00,SITE-B,guard,"At 20:18, a suspected theft was reported in the chapel."
+INC-000548,2026-01-27T21:02:00,SITE-E,guard,Graffiti was found on the exterior wall near the main gate at 21:02.
+INC-000378,2026-01-28T00:25:00,SITE-G,supervisor,"At 00:25, a caller at the records room pressured the officer to grant access 'just this once,' citing urgency from a senior name."
+INC-000285,2026-01-28T03:58:00,SITE-G,guard,Subject attempted entry at the chapel at 03:58 without authorization and was turned away.
+INC-000166,2026-01-28T19:09:00,SITE-B,supervisor,"At 19:09, a trespasser was noted crossing into the grounds at the main gate."
+INC-000547,2026-01-28T20:31:00,SITE-G,guard,"At 20:31, a person at the cafeteria could not be verified against the visitor log."
+INC-000491,2026-01-28T23:32:00,SITE-B,guard,"At 23:32, a suspected theft was reported in the chapel."
+INC-000438,2026-01-29T09:06:00,SITE-E,guard,Individual seen repeatedly observing the cafeteria entrances and photographing the layout at 09:06.
+INC-000323,2026-01-29T11:44:00,SITE-A,guard,"At 11:44, a trespasser was noted crossing into the grounds at the parking lot."
+INC-000411,2026-01-29T14:02:00,SITE-C,supervisor,"At 14:02, a fire alarm activated in the dormitory entrance; area checked and cleared."
+INC-000565,2026-01-29T15:27:00,SITE-C,guard,"At 15:27, a trespasser was noted crossing into the grounds at the parking lot."
+INC-000198,2026-01-29T15:44:00,SITE-C,supervisor,"At 15:44, an unscheduled delivery was dropped at the cafeteria with no manifest."
+INC-000561,2026-01-29T16:17:00,SITE-D,account_manager,An individual was observed climbing the perimeter fence near the rear entrance at 16:17.
+INC-000566,2026-01-29T18:08:00,SITE-D,guard,Subject observed moving through a known camera gap near the courtyard at 18:08.
+INC-000600,2026-01-30T00:44:00,SITE-F,guard,"At 00:44, movement was noted along the parking lot route that avoids camera coverage."
+INC-000273,2026-01-30T01:17:00,SITE-E,guard,Camera covering the parking lot was found repositioned away from the entry at 01:17.
+INC-000249,2026-01-30T05:39:00,SITE-F,guard,"At 05:39, a subject lingered near the records room, noting access points and staff patterns."
+INC-000026,2026-01-30T06:34:00,SITE-B,guard,Visitor at the cafeteria at 06:34 declined to provide identification and had no record of appointment.
+INC-000109,2026-01-30T19:32:00,SITE-D,guard,"At 19:32, minor vandalism was noted at the it office."
+INC-000275,2026-01-30T23:07:00,SITE-B,account_manager,Person observed inside the network closet at 23:07 without escort or work authorization.
+INC-000367,2026-01-31T09:36:00,SITE-C,account_manager,Observed an individual follow a badged person through the network closet access door at 09:36 without presenting credentials.
+INC-000368,2026-01-31T23:57:00,SITE-G,guard,A slip-and-fall was reported in the rear entrance at 23:57; first aid rendered.
+INC-000235,2026-02-01T13:32:00,SITE-F,supervisor,A slip-and-fall was reported in the network closet at 13:32; first aid rendered.
+INC-000291,2026-02-01T18:09:00,SITE-A,guard,An individual was observed climbing the perimeter fence near the rear entrance at 18:09.
+INC-000093,2026-02-01T20:13:00,SITE-G,guard,Observed an individual follow a badged person through the dormitory entrance access door at 20:13 without presenting credentials.
+INC-000034,2026-02-01T21:45:00,SITE-C,guard,"At 21:45, a trespasser was noted crossing into the grounds at the courtyard."
+INC-000267,2026-02-02T01:08:00,SITE-E,guard,"At 01:08, minor vandalism was noted at the rear entrance."
+INC-000354,2026-02-02T01:59:00,SITE-C,supervisor,"At approximately 01:59, a subject entered via the main lobby behind an authorized employee and did not badge in."
+INC-000064,2026-02-02T02:26:00,SITE-F,supervisor,"At 02:26, minor vandalism was noted at the parking lot."
+INC-000339,2026-02-02T15:17:00,SITE-G,guard,A slip-and-fall was reported in the main gate at 15:17; first aid rendered.
+INC-000055,2026-02-02T16:30:00,SITE-F,guard,A slip-and-fall was reported in the network closet at 16:30; first aid rendered.
+INC-000086,2026-02-02T23:30:00,SITE-B,account_manager,"At 23:30, minor vandalism was noted at the dormitory entrance."
+INC-000178,2026-02-03T04:09:00,SITE-B,guard,"Power fluctuation reported in the server room at 04:09, affecting equipment."
+INC-000287,2026-02-03T09:43:00,SITE-F,guard,Graffiti was found on the exterior wall near the records room at 09:43.
+INC-000214,2026-02-03T11:33:00,SITE-C,guard,"At 11:33, minor vandalism was noted at the server room."
+INC-000158,2026-02-03T12:38:00,SITE-A,guard,Access log at main lobby showed the same credential used at two separate points within minutes around 12:38.
+INC-000473,2026-02-03T14:21:00,SITE-G,account_manager,"At 14:21, a suspected theft was reported in the rear entrance."
+INC-000071,2026-02-03T20:04:00,SITE-C,guard,An item was reported missing from the network closet at 20:04.
+INC-000278,2026-02-03T23:09:00,SITE-E,supervisor,"At 23:09, a suspected theft was reported in the main lobby."
+INC-000242,2026-02-04T01:06:00,SITE-F,supervisor,Graffiti was found on the exterior wall near the parking lot at 01:06.
+INC-000538,2026-02-04T02:18:00,SITE-D,guard,An individual was observed climbing the perimeter fence near the rear entrance at 02:18.
+INC-000007,2026-02-04T03:24:00,SITE-G,guard,Visitor at the dormitory entrance at 03:24 declined to provide identification and had no record of appointment.
+INC-000087,2026-02-04T11:11:00,SITE-C,supervisor,A USB flash drive was found unattended in the dormitory entrance at 11:11.
+INC-000295,2026-02-04T11:35:00,SITE-D,guard,"At 11:35, movement was noted along the parking lot route that avoids camera coverage."
+INC-000279,2026-02-04T12:36:00,SITE-C,supervisor,"At 12:36, minor vandalism was noted at the records room."
+INC-000543,2026-02-04T14:50:00,SITE-A,guard,Individual seen repeatedly observing the it office entrances and photographing the layout at 14:50.
+INC-000160,2026-02-04T16:35:00,SITE-E,guard,A slip-and-fall was reported in the records room at 16:35; first aid rendered.
+INC-000125,2026-02-04T19:51:00,SITE-G,guard,"At 19:51, movement was noted along the main gate route that avoids camera coverage."
+INC-000252,2026-02-05T01:42:00,SITE-F,guard,An individual was observed climbing the perimeter fence near the main gate at 01:42.
+INC-000470,2026-02-05T02:29:00,SITE-D,guard,"At 02:29, an individual repeatedly tried badging at the cafeteria reader; access denied."
+INC-000123,2026-02-05T12:36:00,SITE-A,guard,"At 12:36, an unknown laptop was found connected to a network port in the library."
+INC-000140,2026-02-05T18:20:00,SITE-G,guard,An individual was observed climbing the perimeter fence near the main gate at 18:20.
+INC-000390,2026-02-05T18:20:00,SITE-B,guard,Graffiti was found on the exterior wall near the network closet at 18:20.
+INC-000112,2026-02-05T18:24:00,SITE-F,guard,"At 18:24, the server room was found unlocked and occupied by an unidentified individual."
+INC-000520,2026-02-05T19:43:00,SITE-F,guard,"At 19:43, a suspected theft was reported in the library."
+INC-000576,2026-02-05T21:16:00,SITE-B,guard,An item was reported missing from the it office at 21:16.
+INC-000056,2026-02-05T21:19:00,SITE-A,guard,An individual was observed climbing the perimeter fence near the parking lot at 21:19.
+INC-000193,2026-02-05T23:42:00,SITE-C,account_manager,"At 23:42, a suspected theft was reported in the administration office."
+INC-000529,2026-02-06T01:08:00,SITE-A,guard,Subject attempted entry at the courtyard at 01:08 without authorization and was turned away.
+INC-000091,2026-02-06T03:35:00,SITE-A,account_manager,Subject observed moving through a known camera gap near the network closet at 03:35.
+INC-000585,2026-02-06T05:45:00,SITE-D,guard,"At 05:45, a fire alarm activated in the it office; area checked and cleared."
+INC-000021,2026-02-06T07:04:00,SITE-A,account_manager,Documents containing personal information were found in open trash at the records room at 07:04.
+INC-000272,2026-02-06T08:13:00,SITE-D,guard,At 08:13 the main gate gate latch appeared forced and the door was standing open.
+INC-000559,2026-02-06T19:22:00,SITE-G,guard,Graffiti was found on the exterior wall near the library at 19:22.
+INC-000255,2026-02-06T21:48:00,SITE-G,supervisor,"At 21:48, a self-described maintenance contractor sought access to the courtyard without a verifiable assignment."
+INC-000296,2026-02-06T22:04:00,SITE-G,guard,"At 22:04, a trespasser was noted crossing into the grounds at the main gate."
+INC-000183,2026-02-07T01:41:00,SITE-G,supervisor,Camera covering the cafeteria was found repositioned away from the entry at 01:41.
+INC-000188,2026-02-07T06:53:00,SITE-A,account_manager,"At approximately 06:53, a subject entered via the library behind an authorized employee and did not badge in."
+INC-000159,2026-02-07T09:20:00,SITE-G,supervisor,"At 09:20, the server room was found unlocked and occupied by an unidentified individual."
+INC-000498,2026-02-07T17:46:00,SITE-D,supervisor,"At 17:46, a suspected theft was reported in the dormitory entrance."
+INC-000014,2026-02-07T17:55:00,SITE-E,guard,"At 17:55, a fire alarm activated in the main lobby; area checked and cleared."
+INC-000476,2026-02-07T19:12:00,SITE-A,guard,A slip-and-fall was reported in the classroom building at 19:12; first aid rendered.
+INC-000174,2026-02-07T23:54:00,SITE-C,guard,Subject attempted entry at the administration office at 23:54 without authorization and was turned away.
+INC-000036,2026-02-08T04:59:00,SITE-E,guard,"At 04:59, minor vandalism was noted at the main gate."
+INC-000130,2026-02-08T17:07:00,SITE-A,guard,"At 17:07, a fire alarm activated in the cafeteria; area checked and cleared."
+INC-000440,2026-02-08T18:18:00,SITE-C,supervisor,Subject observed moving through a known camera gap near the cafeteria at 18:18.
+INC-000387,2026-02-09T05:01:00,SITE-D,guard,An individual was observed climbing the perimeter fence near the courtyard at 05:01.
+INC-000301,2026-02-09T09:17:00,SITE-B,guard,Individual at cafeteria at 09:17 claimed to be an IT vendor but could not produce a work order or company ID.
+INC-000251,2026-02-09T10:19:00,SITE-G,account_manager,A slip-and-fall was reported in the courtyard at 10:19; first aid rendered.
+INC-000587,2026-02-09T13:12:00,SITE-G,guard,"Individual observed in the records room at 13:12, well outside authorized hours."
+INC-000100,2026-02-09T18:02:00,SITE-G,supervisor,"At 18:02, a subject was recording the network closet entry layout on a phone."
+INC-000008,2026-02-09T22:59:00,SITE-F,guard,Graffiti was found on the exterior wall near the administration office at 22:59.
+INC-000360,2026-02-09T23:56:00,SITE-F,guard,"At 23:56, minor vandalism was noted at the chapel."
+INC-000124,2026-02-10T00:36:00,SITE-D,account_manager,"At 00:36, a subject was recording the records room entry layout on a phone."
+INC-000371,2026-02-10T02:02:00,SITE-F,supervisor,"At 02:02, an unlabeled removable drive was discovered on a surface in the server room."
+INC-000001,2026-02-10T07:14:00,SITE-F,guard,Observed an individual follow a badged person through the library access door at 07:14 without presenting credentials.
+INC-000434,2026-02-10T08:41:00,SITE-C,guard,Individual observed photographing access points near the it office at 08:41.
+INC-000239,2026-02-10T09:07:00,SITE-E,guard,An individual was observed climbing the perimeter fence near the rear entrance at 09:07.
+INC-000319,2026-02-10T22:51:00,SITE-B,account_manager,Graffiti was found on the exterior wall near the network closet at 22:51.
+INC-000531,2026-02-11T02:13:00,SITE-F,supervisor,"At 02:13, a visitor in the cafeteria was positioned to read a logged-in screen."
+INC-000556,2026-02-11T02:25:00,SITE-B,guard,"At 02:25, a caller at the administration office pressured the officer to grant access 'just this once,' citing urgency from a senior name."
+INC-000054,2026-02-11T06:27:00,SITE-C,account_manager,"At 06:27, a suspected theft was reported in the network closet."
+INC-000433,2026-02-11T09:43:00,SITE-E,guard,"At 09:43, motion reported in the chapel during a period with no scheduled activity."
+INC-000182,2026-02-11T12:32:00,SITE-D,guard,"Unexpected parcel left at the rear entrance at 12:32, addressed to no known recipient."
+INC-000583,2026-02-11T15:34:00,SITE-C,supervisor,"At 15:34, minor vandalism was noted at the main lobby."
+INC-000187,2026-02-11T15:44:00,SITE-A,supervisor,"At 15:44, the records room camera feed was offline with no maintenance scheduled."
+INC-000244,2026-02-11T20:03:00,SITE-C,account_manager,"At 20:03, a caller at the server room pressured the officer to grant access 'just this once,' citing urgency from a senior name."
+INC-000095,2026-02-11T22:55:00,SITE-F,guard,"At 22:55, a trespasser was noted crossing into the grounds at the rear entrance."
+INC-000127,2026-02-12T10:47:00,SITE-A,guard,Found the parking lot door propped open with a wedge at 10:47; no personnel present.
+INC-000015,2026-02-12T13:10:00,SITE-A,guard,"At 13:10, a caller at the cafeteria pressured the officer to grant access 'just this once,' citing urgency from a senior name."
+INC-000449,2026-02-12T14:46:00,SITE-C,supervisor,"At 14:46, a suspected theft was reported in the rear entrance."
+INC-000108,2026-02-12T16:45:00,SITE-D,supervisor,At 16:45 the dormitory entrance gate latch appeared forced and the door was standing open.
+INC-000584,2026-02-12T19:14:00,SITE-G,supervisor,"At 19:14, a fire alarm activated in the network closet; area checked and cleared."
+INC-000088,2026-02-12T22:08:00,SITE-E,guard,An item was reported missing from the administration office at 22:08.
+INC-000414,2026-02-13T02:25:00,SITE-D,guard,Found the server room door propped open with a wedge at 02:25; no personnel present.
+INC-000189,2026-02-13T03:03:00,SITE-B,account_manager,"At 03:03, a trespasser was noted crossing into the grounds at the parking lot."
+INC-000268,2026-02-13T04:42:00,SITE-B,guard,Access log at rear entrance showed the same credential used at two separate points within minutes around 04:42.
+INC-000308,2026-02-13T07:16:00,SITE-F,guard,"At 07:16, a self-described maintenance contractor sought access to the administration office without a verifiable assignment."
+INC-000238,2026-02-13T07:19:00,SITE-E,guard,"At 07:19, a cooling failure was noted in the network closet."
+INC-000442,2026-02-13T13:03:00,SITE-E,guard,"At 13:03, intact sensitive paperwork was discovered in unsecured disposal near the administration office."
+INC-000133,2026-02-13T15:07:00,SITE-A,supervisor,An item was reported missing from the chapel at 15:07.
+INC-000052,2026-02-13T16:19:00,SITE-F,guard,"At 16:19, a person at the administration office could not be verified against the visitor log."
+INC-000085,2026-02-14T08:14:00,SITE-C,guard,"At 08:14, a fire alarm activated in the chapel; area checked and cleared."
+INC-000153,2026-02-14T10:22:00,SITE-F,guard,"At 10:22, a trespasser was noted crossing into the grounds at the main gate."
+INC-000582,2026-02-14T11:26:00,SITE-D,guard,Observed an individual follow a badged person through the dormitory entrance access door at 11:26 without presenting credentials.
+INC-000211,2026-02-14T12:45:00,SITE-A,supervisor,"At approximately 12:45, a subject entered via the it office behind an authorized employee and did not badge in."
+INC-000223,2026-02-14T15:01:00,SITE-D,supervisor,Unrecognized device observed plugged into equipment in the it office at 15:01.
+INC-000542,2026-02-14T18:22:00,SITE-C,guard,A slip-and-fall was reported in the network closet at 18:22; first aid rendered.
+INC-000175,2026-02-14T20:44:00,SITE-C,guard,Found the administration office door propped open with a wedge at 20:44; no personnel present.
+INC-000035,2026-02-15T02:00:00,SITE-D,account_manager,An individual was observed climbing the perimeter fence near the rear entrance at 02:00.
+INC-000399,2026-02-15T05:40:00,SITE-C,guard,"At 05:40, a self-described maintenance contractor sought access to the server room without a verifiable assignment."
+INC-000305,2026-02-15T09:47:00,SITE-D,supervisor,Graffiti was found on the exterior wall near the it office at 09:47.
+INC-000574,2026-02-15T10:41:00,SITE-B,guard,"At 10:41, a trespasser was noted crossing into the grounds at the courtyard."
+INC-000557,2026-02-15T11:13:00,SITE-D,guard,Found the server room door propped open with a wedge at 11:13; no personnel present.
+INC-000346,2026-02-15T11:56:00,SITE-A,guard,An item was reported missing from the dormitory entrance at 11:56.
+INC-000514,2026-02-15T13:10:00,SITE-G,guard,Badge presented at main lobby at 13:10 belonged to a person no longer affiliated with the institution.
+INC-000325,2026-02-15T14:39:00,SITE-B,guard,"At 14:39, minor vandalism was noted at the main lobby."
+INC-000494,2026-02-15T16:14:00,SITE-A,guard,An individual was observed climbing the perimeter fence near the parking lot at 16:14.
+INC-000212,2026-02-15T20:04:00,SITE-B,supervisor,"At 20:04, a person at the cafeteria could not be verified against the visitor log."
+INC-000443,2026-02-15T22:11:00,SITE-B,supervisor,"At 22:11, a fire alarm activated in the network closet; area checked and cleared."
+INC-000118,2026-02-16T01:18:00,SITE-A,guard,Visitor at the main gate at 01:18 declined to provide identification and had no record of appointment.
+INC-000395,2026-02-16T04:10:00,SITE-C,supervisor,Access log at it office showed the same credential used at two separate points within minutes around 04:10.
+INC-000417,2026-02-16T08:33:00,SITE-E,account_manager,"At 08:33, a fire alarm activated in the cafeteria; area checked and cleared."
+INC-000423,2026-02-16T08:46:00,SITE-G,guard,Unrecognized device observed plugged into equipment in the classroom building at 08:46.
+INC-000276,2026-02-16T09:24:00,SITE-E,guard,"At 09:24, minor vandalism was noted at the cafeteria."
+INC-000257,2026-02-16T16:28:00,SITE-B,guard,At 16:28 the chapel gate latch appeared forced and the door was standing open.
+INC-000222,2026-02-16T18:46:00,SITE-G,guard,"At 18:46, minor vandalism was noted at the main gate."
+INC-000236,2026-02-16T21:30:00,SITE-E,guard,Individual at rear entrance at 21:30 claimed to be an IT vendor but could not produce a work order or company ID.
+INC-000176,2026-02-17T04:42:00,SITE-F,supervisor,A slip-and-fall was reported in the it office at 04:42; first aid rendered.
+INC-000570,2026-02-17T08:23:00,SITE-D,guard,Camera covering the main gate was found repositioned away from the entry at 08:23.
+INC-000063,2026-02-17T10:57:00,SITE-C,guard,Individual at rear entrance at 10:57 claimed to be an IT vendor but could not produce a work order or company ID.
+INC-000289,2026-02-17T18:54:00,SITE-F,guard,A slip-and-fall was reported in the chapel at 18:54; first aid rendered.
+INC-000004,2026-02-18T03:05:00,SITE-B,guard,"At 03:05, minor vandalism was noted at the parking lot."
+INC-000477,2026-02-18T03:48:00,SITE-F,account_manager,Graffiti was found on the exterior wall near the parking lot at 03:48.
+INC-000462,2026-02-18T05:07:00,SITE-C,supervisor,"At 05:07, documents marked sensitive were found exposed in the records room."
+INC-000039,2026-02-18T06:43:00,SITE-F,supervisor,"At 06:43, minor vandalism was noted at the administration office."
+INC-000164,2026-02-18T07:21:00,SITE-F,supervisor,An individual was observed climbing the perimeter fence near the parking lot at 07:21.
+INC-000573,2026-02-18T13:40:00,SITE-G,guard,An unauthorized person was observed viewing a staff workstation screen in the courtyard at 13:40.
+INC-000146,2026-02-18T14:25:00,SITE-D,guard,"At 14:25, minor vandalism was noted at the parking lot."
+INC-000467,2026-02-18T16:33:00,SITE-G,guard,Individual observed photographing access points near the it office at 16:33.
+INC-000194,2026-02-18T20:11:00,SITE-E,supervisor,An individual was observed climbing the perimeter fence near the rear entrance at 20:11.
+INC-000067,2026-02-18T21:43:00,SITE-D,guard,"At 21:43, a suspected theft was reported in the network closet."
+INC-000340,2026-02-18T21:48:00,SITE-G,guard,"At 21:48, an individual repeatedly tried badging at the main lobby reader; access denied."
+INC-000495,2026-02-19T07:56:00,SITE-A,guard,"At 07:56, a fire alarm activated in the classroom building; area checked and cleared."
+INC-000314,2026-02-19T09:21:00,SITE-B,supervisor,"At 09:21, a subject lingered near the cafeteria, noting access points and staff patterns."
+INC-000165,2026-02-19T11:46:00,SITE-G,guard,Found the records room door propped open with a wedge at 11:46; no personnel present.
+INC-000483,2026-02-19T21:08:00,SITE-F,guard,Access log at it office showed the same credential used at two separate points within minutes around 21:08.
+INC-000224,2026-02-20T01:03:00,SITE-E,account_manager,"At 01:03, an unlabeled removable drive was discovered on a surface in the dormitory entrance."
+INC-000383,2026-02-20T06:58:00,SITE-B,guard,"At 06:58, a fire alarm activated in the library; area checked and cleared."
+INC-000191,2026-02-20T07:36:00,SITE-E,guard,"At 07:36, a suspected theft was reported in the parking lot."
+INC-000286,2026-02-20T08:50:00,SITE-G,guard,Access log at parking lot showed the same credential used at two separate points within minutes around 08:50.
+INC-000465,2026-02-20T19:01:00,SITE-G,guard,"At 19:01, a fire alarm activated in the records room; area checked and cleared."
+INC-000237,2026-02-20T21:49:00,SITE-E,supervisor,An individual was observed climbing the perimeter fence near the courtyard at 21:49.
+INC-000177,2026-02-21T00:23:00,SITE-E,guard,"At 00:23, an individual repeatedly tried badging at the dormitory entrance reader; access denied."
+INC-000515,2026-02-21T04:43:00,SITE-C,supervisor,"At 04:43, an unscheduled delivery was dropped at the it office with no manifest."
+INC-000320,2026-02-21T10:12:00,SITE-B,guard,"At 10:12, a subject lingered near the cafeteria, noting access points and staff patterns."
+INC-000006,2026-02-21T18:12:00,SITE-G,guard,Individual seen repeatedly observing the it office entrances and photographing the layout at 18:12.
+INC-000527,2026-02-21T19:45:00,SITE-B,guard,"At 19:45, minor vandalism was noted at the records room."
+INC-000180,2026-02-21T21:46:00,SITE-D,account_manager,"At 21:46, a person at the classroom building could not be verified against the visitor log."
+INC-000426,2026-02-21T22:12:00,SITE-A,supervisor,"At 22:12, a fire alarm activated in the dormitory entrance; area checked and cleared."
+INC-000575,2026-02-21T23:37:00,SITE-G,guard,A slip-and-fall was reported in the rear entrance at 23:37; first aid rendered.
+INC-000365,2026-02-22T03:32:00,SITE-E,guard,An item was reported missing from the administration office at 03:32.
+INC-000148,2026-02-22T04:35:00,SITE-F,supervisor,"At 04:35, a suspected theft was reported in the main lobby."
+INC-000228,2026-02-22T10:35:00,SITE-D,guard,"At 10:35, a suspected theft was reported in the main gate."
+INC-000337,2026-02-22T14:31:00,SITE-F,guard,Badge presented at main gate at 14:31 belonged to a person no longer affiliated with the institution.
+INC-000612,2026-02-22T15:47:00,SITE-C,guard,Individual seen repeatedly observing the parking lot entrances and photographing the layout at 15:47.
+INC-000220,2026-02-22T16:35:00,SITE-G,guard,"At 16:35, an unlabeled removable drive was discovered on a surface in the chapel."
+INC-000179,2026-02-23T04:10:00,SITE-E,account_manager,Individual at library at 04:10 claimed to be an IT vendor but could not produce a work order or company ID.
+INC-000264,2026-02-23T07:15:00,SITE-E,guard,"At 07:15, a fire alarm activated in the cafeteria; area checked and cleared."
+INC-000070,2026-02-23T08:48:00,SITE-G,guard,"At 08:48, a trespasser was noted crossing into the grounds at the rear entrance."
+INC-000524,2026-02-23T20:24:00,SITE-B,supervisor,"At 20:24, motion reported in the main gate during a period with no scheduled activity."
+INC-000297,2026-02-24T10:23:00,SITE-F,guard,"At 10:23, a self-described maintenance contractor sought access to the chapel without a verifiable assignment."
+INC-000066,2026-02-24T13:34:00,SITE-C,guard,"At 13:34, a trespasser was noted crossing into the grounds at the parking lot."
+INC-000206,2026-02-24T17:07:00,SITE-E,supervisor,"Unexpected parcel left at the dormitory entrance at 17:07, addressed to no known recipient."
+INC-000050,2026-02-24T18:12:00,SITE-A,guard,"Individual observed in the dormitory entrance at 18:12, well outside authorized hours."
+INC-000321,2026-02-24T19:25:00,SITE-E,guard,Access log at courtyard showed the same credential used at two separate points within minutes around 19:25.
+INC-000594,2026-02-24T21:19:00,SITE-D,guard,Found the server room door propped open with a wedge at 21:19; no personnel present.
+INC-000480,2026-02-24T21:38:00,SITE-A,supervisor,"At 21:38, a self-described maintenance contractor sought access to the courtyard without a verifiable assignment."
+INC-000292,2026-02-24T21:57:00,SITE-G,guard,"Individual observed in the rear entrance at 21:57, well outside authorized hours."
+INC-000351,2026-02-25T09:41:00,SITE-F,supervisor,"At 09:41, minor vandalism was noted at the main lobby."
+INC-000481,2026-02-25T10:18:00,SITE-C,guard,"At 10:18, minor vandalism was noted at the cafeteria."
+INC-000205,2026-02-25T10:41:00,SITE-C,guard,"Individual observed in the dormitory entrance at 10:41, well outside authorized hours."
+INC-000306,2026-02-25T11:07:00,SITE-G,supervisor,An individual was observed climbing the perimeter fence near the parking lot at 11:07.
+INC-000196,2026-02-25T17:30:00,SITE-E,guard,"At 17:30, a trespasser was noted crossing into the grounds at the courtyard."
+INC-000506,2026-02-25T21:01:00,SITE-D,supervisor,A slip-and-fall was reported in the cafeteria at 21:01; first aid rendered.
+INC-000029,2026-02-26T01:10:00,SITE-G,guard,"At 01:10, minor vandalism was noted at the parking lot."
+INC-000058,2026-02-26T07:09:00,SITE-D,guard,"Unexpected parcel left at the administration office at 07:09, addressed to no known recipient."
+INC-000098,2026-02-26T08:32:00,SITE-F,guard,An individual was observed climbing the perimeter fence near the rear entrance at 08:32.
+INC-000613,2026-02-26T09:47:00,SITE-C,guard,"At 09:47, an individual repeatedly tried badging at the main lobby reader; access denied."
+INC-000012,2026-02-26T11:14:00,SITE-E,supervisor,"Unexpected parcel left at the library at 11:14, addressed to no known recipient."
+INC-000549,2026-02-26T11:42:00,SITE-G,account_manager,An individual was observed climbing the perimeter fence near the rear entrance at 11:42.
+INC-000525,2026-02-26T11:52:00,SITE-E,supervisor,"At 11:52, minor vandalism was noted at the records room."
+INC-000309,2026-02-26T17:32:00,SITE-E,guard,A slip-and-fall was reported in the server room at 17:32; first aid rendered.
+INC-000024,2026-02-27T06:06:00,SITE-G,guard,"At 06:06, a fire alarm activated in the chapel; area checked and cleared."
+INC-000419,2026-02-27T08:24:00,SITE-C,account_manager,"At 08:24, a subject lingered near the administration office, noting access points and staff patterns."
+INC-000503,2026-02-27T12:28:00,SITE-C,guard,At 12:28 the administration office gate latch appeared forced and the door was standing open.
+INC-000401,2026-02-27T15:56:00,SITE-B,supervisor,"At 15:56, a fire alarm activated in the parking lot; area checked and cleared."
+INC-000509,2026-02-27T20:54:00,SITE-B,guard,An individual was observed climbing the perimeter fence near the parking lot at 20:54.
+INC-000045,2026-02-27T21:55:00,SITE-G,guard,An individual was observed climbing the perimeter fence near the parking lot at 21:55.
+INC-000614,2026-02-28T04:47:00,SITE-C,guard,Observed an individual follow a badged person through the rear entrance access door at 04:47 without presenting credentials.
+INC-000245,2026-02-28T05:59:00,SITE-B,guard,"At approximately 05:59, a subject entered via the server room behind an authorized employee and did not badge in."
+INC-000436,2026-02-28T12:24:00,SITE-C,account_manager,Badge presented at it office at 12:24 belonged to a person no longer affiliated with the institution.
+INC-000336,2026-02-28T12:28:00,SITE-F,guard,"At 12:28, a trespasser was noted crossing into the grounds at the main gate."
+INC-000065,2026-02-28T12:57:00,SITE-G,guard,"At 12:57, minor vandalism was noted at the network closet."
+INC-000270,2026-02-28T13:09:00,SITE-F,guard,"At 13:09, movement was noted along the dormitory entrance route that avoids camera coverage."
+INC-000355,2026-02-28T13:44:00,SITE-G,supervisor,"Individual observed in the parking lot at 13:44, well outside authorized hours."
+INC-000454,2026-02-28T21:06:00,SITE-C,guard,An item was reported missing from the administration office at 21:06.
+INC-000053,2026-02-28T21:24:00,SITE-B,guard,"At 21:24, a self-described maintenance contractor sought access to the administration office without a verifiable assignment."
+INC-000324,2026-03-01T05:31:00,SITE-D,supervisor,"Individual observed in the administration office at 05:31, well outside authorized hours."
+INC-000332,2026-03-01T05:39:00,SITE-F,guard,An unauthorized person was observed viewing a staff workstation screen in the library at 05:39.
+INC-000537,2026-03-01T07:51:00,SITE-E,guard,An unauthorized person was observed viewing a staff workstation screen in the cafeteria at 07:51.
+INC-000317,2026-03-01T14:14:00,SITE-E,guard,Badge presented at network closet at 14:14 belonged to a person no longer affiliated with the institution.
+INC-000540,2026-03-01T20:37:00,SITE-B,supervisor,"At 20:37, a suspected theft was reported in the dormitory entrance."
+INC-000345,2026-03-01T22:08:00,SITE-G,guard,"At 22:08, a person at the cafeteria could not be verified against the visitor log."
+INC-000030,2026-03-01T22:46:00,SITE-C,guard,"At 22:46, a cooling failure was noted in the network closet."
+INC-000163,2026-03-02T03:15:00,SITE-A,guard,Subject observed moving through a known camera gap near the parking lot at 03:15.
+INC-000157,2026-03-02T03:18:00,SITE-C,account_manager,"At 03:18, a suspected theft was reported in the administration office."
+INC-000117,2026-03-02T03:48:00,SITE-A,supervisor,Individual observed photographing access points near the administration office at 03:48.
+INC-000596,2026-03-02T10:00:00,SITE-F,account_manager,A USB flash drive was found unattended in the library at 10:00.
+INC-000567,2026-03-02T12:12:00,SITE-E,guard,"At 12:12, a self-described maintenance contractor sought access to the library without a verifiable assignment."
+INC-000101,2026-03-02T20:52:00,SITE-E,supervisor,"At 20:52, documents marked sensitive were found exposed in the records room."
+INC-000466,2026-03-03T01:04:00,SITE-D,guard,Person observed inside the network closet at 01:04 without escort or work authorization.
+INC-000580,2026-03-03T04:44:00,SITE-E,account_manager,"At 04:44, a trespasser was noted crossing into the grounds at the parking lot."
+INC-000593,2026-03-03T07:47:00,SITE-D,supervisor,Graffiti was found on the exterior wall near the main lobby at 07:47.
+INC-000092,2026-03-03T09:55:00,SITE-D,guard,"Unexpected parcel left at the courtyard at 09:55, addressed to no known recipient."
+INC-000089,2026-03-03T10:11:00,SITE-D,supervisor,Subject attempted entry at the main lobby at 10:11 without authorization and was turned away.
+INC-000453,2026-03-03T12:07:00,SITE-D,supervisor,An item was reported missing from the rear entrance at 12:07.
+INC-000041,2026-03-03T17:45:00,SITE-B,guard,"At 17:45, a caller at the parking lot pressured the officer to grant access 'just this once,' citing urgency from a senior name."
+INC-000169,2026-03-04T01:03:00,SITE-D,guard,Badge presented at main gate at 01:03 belonged to a person no longer affiliated with the institution.
+INC-000572,2026-03-04T02:24:00,SITE-G,supervisor,"Unexpected parcel left at the courtyard at 02:24, addressed to no known recipient."
+INC-000474,2026-03-04T03:06:00,SITE-F,guard,"At 03:06, a caller at the network closet pressured the officer to grant access 'just this once,' citing urgency from a senior name."
+INC-000487,2026-03-04T03:39:00,SITE-C,supervisor,An item was reported missing from the records room at 03:39.
+INC-000080,2026-03-04T07:48:00,SITE-C,guard,Camera covering the cafeteria was found repositioned away from the entry at 07:48.
+INC-000374,2026-03-04T08:14:00,SITE-C,guard,"At 08:14, a caller at the chapel pressured the officer to grant access 'just this once,' citing urgency from a senior name."
+INC-000588,2026-03-04T08:44:00,SITE-E,guard,"At 08:44, a fire alarm activated in the courtyard; area checked and cleared."
+INC-000513,2026-03-04T10:39:00,SITE-D,account_manager,Documents containing personal information were found in open trash at the parking lot at 10:39.
+INC-000185,2026-03-04T11:59:00,SITE-G,guard,"At 11:59, the server room was found unlocked and occupied by an unidentified individual."
+INC-000003,2026-03-04T18:17:00,SITE-B,guard,"At 18:17, an unscheduled delivery was dropped at the network closet with no manifest."
+INC-000341,2026-03-05T00:27:00,SITE-D,guard,"At 00:27, minor vandalism was noted at the classroom building."
+INC-000195,2026-03-05T01:18:00,SITE-F,guard,Camera covering the classroom building was found repositioned away from the entry at 01:18.
+INC-000218,2026-03-05T02:44:00,SITE-C,supervisor,"At 02:44, a fire alarm activated in the main lobby; area checked and cleared."
+INC-000459,2026-03-05T09:16:00,SITE-B,guard,An unauthorized person was observed viewing a staff workstation screen in the cafeteria at 09:16.
+INC-000563,2026-03-05T10:44:00,SITE-E,guard,"At 10:44, a subject was recording the main lobby entry layout on a phone."
+INC-000005,2026-03-05T17:07:00,SITE-F,guard,"At approximately 17:07, a subject entered via the server room behind an authorized employee and did not badge in."
+INC-000328,2026-03-05T18:47:00,SITE-B,supervisor,An individual was observed climbing the perimeter fence near the rear entrance at 18:47.
+INC-000554,2026-03-05T18:55:00,SITE-F,guard,Unrecognized device observed plugged into equipment in the it office at 18:55.
+INC-000358,2026-03-05T19:38:00,SITE-A,guard,A slip-and-fall was reported in the main lobby at 19:38; first aid rendered.
+INC-000248,2026-03-05T20:16:00,SITE-B,guard,"At 20:16, movement was noted along the it office route that avoids camera coverage."
+INC-000078,2026-03-05T22:09:00,SITE-F,supervisor,"At 22:09, a trespasser was noted crossing into the grounds at the rear entrance."
+INC-000069,2026-03-06T05:03:00,SITE-G,guard,Found the dormitory entrance door propped open with a wedge at 05:03; no personnel present.
+INC-000121,2026-03-06T09:43:00,SITE-G,guard,"At 09:43, a suspected theft was reported in the rear entrance."
+INC-000375,2026-03-06T10:26:00,SITE-D,guard,Graffiti was found on the exterior wall near the chapel at 10:26.
+INC-000009,2026-03-06T12:17:00,SITE-B,supervisor,Found the server room door propped open with a wedge at 12:17; no personnel present.
+INC-000170,2026-03-06T18:35:00,SITE-D,supervisor,"Individual observed in the network closet at 18:35, well outside authorized hours."
+INC-000307,2026-03-06T22:13:00,SITE-F,guard,"At 22:13, a person at the cafeteria could not be verified against the visitor log."
+INC-000591,2026-03-06T22:50:00,SITE-C,guard,Subject observed moving through a known camera gap near the main lobby at 22:50.
+INC-000192,2026-03-07T01:40:00,SITE-D,guard,An item was reported missing from the parking lot at 01:40.
+INC-000288,2026-03-07T01:40:00,SITE-E,guard,A slip-and-fall was reported in the main lobby at 01:40; first aid rendered.
+INC-000046,2026-03-07T07:12:00,SITE-G,guard,"At 07:12, a suspected theft was reported in the records room."
+INC-000421,2026-03-07T08:57:00,SITE-F,guard,"At 08:57, a person at the main gate could not be verified against the visitor log."
+INC-000388,2026-03-07T16:22:00,SITE-A,guard,Documents containing personal information were found in open trash at the parking lot at 16:22.
+INC-000302,2026-03-08T02:23:00,SITE-C,supervisor,A slip-and-fall was reported in the dormitory entrance at 02:23; first aid rendered.
+INC-000521,2026-03-08T11:02:00,SITE-F,guard,Graffiti was found on the exterior wall near the classroom building at 11:02.
+INC-000111,2026-03-08T11:21:00,SITE-E,guard,"At 11:21, intact sensitive paperwork was discovered in unsecured disposal near the parking lot."
+INC-000143,2026-03-08T12:27:00,SITE-A,supervisor,"At 12:27, a suspected theft was reported in the administration office."
+INC-000463,2026-03-08T13:41:00,SITE-G,guard,Individual seen repeatedly observing the server room entrances and photographing the layout at 13:41.
+INC-000079,2026-03-08T14:27:00,SITE-G,guard,"Individual observed in the records room at 14:27, well outside authorized hours."
+INC-000484,2026-03-08T18:36:00,SITE-E,guard,Subject at administration office at 18:36 attempted to talk past the officer using claimed authority and time pressure.
+INC-000595,2026-03-08T20:19:00,SITE-C,guard,Visitor at the classroom building at 20:19 declined to provide identification and had no record of appointment.
+INC-000528,2026-03-08T21:30:00,SITE-A,account_manager,Individual seen repeatedly observing the cafeteria entrances and photographing the layout at 21:30.
+INC-000499,2026-03-09T01:18:00,SITE-D,guard,"Individual observed in the server room at 01:18, well outside authorized hours."
+INC-000106,2026-03-09T03:01:00,SITE-F,guard,"At 03:01, a cooling failure was noted in the server room."
+INC-000207,2026-03-09T06:07:00,SITE-F,supervisor,"At 06:07, an unknown laptop was found connected to a network port in the server room."
+INC-000081,2026-03-09T06:22:00,SITE-B,guard,"At 06:22, a trespasser was noted crossing into the grounds at the courtyard."
+INC-000023,2026-03-09T06:34:00,SITE-F,account_manager,Access log at library showed the same credential used at two separate points within minutes around 06:34.
+INC-000469,2026-03-09T10:15:00,SITE-A,guard,Camera covering the main gate was found repositioned away from the entry at 10:15.
+INC-000450,2026-03-09T11:48:00,SITE-C,guard,Graffiti was found on the exterior wall near the classroom building at 11:48.
+INC-000424,2026-03-09T16:55:00,SITE-F,supervisor,A slip-and-fall was reported in the main gate at 16:55; first aid rendered.
+INC-000116,2026-03-09T17:02:00,SITE-F,guard,"At 17:02, an open and active network port was noted in the main lobby."
+INC-000610,2026-03-09T17:20:00,SITE-A,guard,Camera covering the courtyard was found repositioned away from the entry at 17:20.
+INC-000231,2026-03-09T22:36:00,SITE-E,guard,"At 22:36, motion reported in the dormitory entrance during a period with no scheduled activity."
+INC-000210,2026-03-10T00:23:00,SITE-B,supervisor,A USB flash drive was found unattended in the rear entrance at 00:23.
+INC-000458,2026-03-10T04:05:00,SITE-F,guard,An unauthorized person was observed viewing a staff workstation screen in the network closet at 04:05.
+INC-000247,2026-03-10T04:54:00,SITE-E,guard,Individual observed photographing access points near the rear entrance at 04:54.
+INC-000568,2026-03-10T04:57:00,SITE-D,supervisor,"At 04:57, the records room camera feed was offline with no maintenance scheduled."
+INC-000105,2026-03-10T20:28:00,SITE-E,guard,An individual was observed climbing the perimeter fence near the main gate at 20:28.
+INC-000558,2026-03-10T23:12:00,SITE-B,guard,"At 23:12, an open and active network port was noted in the network closet."
+INC-000505,2026-03-11T03:18:00,SITE-C,account_manager,Visitor at the network closet at 03:18 declined to provide identification and had no record of appointment.
+INC-000110,2026-03-11T08:52:00,SITE-C,guard,"At 08:52, an unscheduled delivery was dropped at the main lobby with no manifest."
+INC-000128,2026-03-11T08:53:00,SITE-E,supervisor,"At 08:53, movement was noted along the library route that avoids camera coverage."
+INC-000145,2026-03-11T19:27:00,SITE-D,guard,An individual was observed climbing the perimeter fence near the main gate at 19:27.
+INC-000326,2026-03-11T20:31:00,SITE-E,supervisor,"At 20:31, a fire alarm activated in the parking lot; area checked and cleared."
+INC-000534,2026-03-11T21:26:00,SITE-E,account_manager,Graffiti was found on the exterior wall near the records room at 21:26.
+INC-000104,2026-03-12T00:42:00,SITE-G,supervisor,"At 00:42, a fire alarm activated in the records room; area checked and cleared."
+INC-000356,2026-03-12T06:51:00,SITE-A,guard,"At 06:51, a trespasser was noted crossing into the grounds at the parking lot."
+INC-000488,2026-03-12T22:18:00,SITE-B,guard,"At 22:18, an unscheduled delivery was dropped at the it office with no manifest."
+INC-000539,2026-03-13T03:33:00,SITE-E,guard,"At 03:33, a person at the main lobby could not be verified against the visitor log."
+INC-000456,2026-03-13T06:22:00,SITE-G,guard,Badge presented at it office at 06:22 belonged to a person no longer affiliated with the institution.
+INC-000475,2026-03-13T11:44:00,SITE-E,guard,"At 11:44, a trespasser was noted crossing into the grounds at the main gate."
+INC-000062,2026-03-13T15:40:00,SITE-G,supervisor,Subject observed moving through a known camera gap near the classroom building at 15:40.
+INC-000432,2026-03-13T19:25:00,SITE-F,supervisor,"At 19:25, a trespasser was noted crossing into the grounds at the main gate."
+INC-000017,2026-03-14T00:38:00,SITE-E,guard,Graffiti was found on the exterior wall near the main gate at 00:38.
+INC-000609,2026-03-14T02:59:00,SITE-A,supervisor,"At 02:59, the parking lot camera feed was offline with no maintenance scheduled."
+INC-000154,2026-03-14T06:24:00,SITE-A,guard,An item was reported missing from the parking lot at 06:24.
+INC-000114,2026-03-14T14:00:00,SITE-A,guard,Documents containing personal information were found in open trash at the parking lot at 14:00.
+INC-000172,2026-03-14T16:39:00,SITE-D,guard,"At 16:39, a fire alarm activated in the library; area checked and cleared."
+INC-000060,2026-03-14T17:38:00,SITE-F,account_manager,"At 17:38, a fire alarm activated in the main gate; area checked and cleared."
+INC-000347,2026-03-14T18:00:00,SITE-A,guard,At 18:00 the courtyard gate latch appeared forced and the door was standing open.
+INC-000425,2026-03-14T18:01:00,SITE-B,guard,A slip-and-fall was reported in the library at 18:01; first aid rendered.
+INC-000581,2026-03-14T20:40:00,SITE-D,guard,"At 20:40, motion reported in the rear entrance during a period with no scheduled activity."
+INC-000611,2026-03-14T22:05:00,SITE-A,supervisor,Camera covering the server room was found repositioned away from the entry at 22:05.
+INC-000190,2026-03-15T00:40:00,SITE-E,guard,A slip-and-fall was reported in the rear entrance at 00:40; first aid rendered.
+INC-000599,2026-03-15T03:08:00,SITE-F,guard,"At 03:08, minor vandalism was noted at the cafeteria."
+INC-000181,2026-03-15T07:19:00,SITE-B,guard,"At 07:19, an unscheduled delivery was dropped at the network closet with no manifest."
+INC-000535,2026-03-15T16:48:00,SITE-G,supervisor,An item was reported missing from the chapel at 16:48.
+INC-000500,2026-03-15T17:00:00,SITE-G,guard,"At 17:00, the server room was found unlocked and occupied by an unidentified individual."
+INC-000452,2026-03-15T19:03:00,SITE-G,guard,An individual was observed climbing the perimeter fence near the main gate at 19:03.
+INC-000310,2026-03-15T19:40:00,SITE-F,guard,Subject observed moving through a known camera gap near the server room at 19:40.
+INC-000437,2026-03-15T20:50:00,SITE-F,guard,"At 20:50, minor vandalism was noted at the cafeteria."
+INC-000389,2026-03-15T23:03:00,SITE-C,account_manager,"At 23:03, minor vandalism was noted at the network closet."
+INC-000615,2026-03-15T23:12:00,SITE-E,guard,Individual seen repeatedly observing the rear entrance entrances and photographing the layout at 23:12.
+INC-000562,2026-03-16T01:32:00,SITE-D,guard,"At 01:32, a fire alarm activated in the main gate; area checked and cleared."
+INC-000031,2026-03-16T01:47:00,SITE-E,guard,"At 01:47, a suspected theft was reported in the main gate."
+INC-000507,2026-03-16T09:40:00,SITE-G,guard,A slip-and-fall was reported in the library at 09:40; first aid rendered.
+INC-000329,2026-03-16T11:34:00,SITE-G,supervisor,Badge presented at records room at 11:34 belonged to a person no longer affiliated with the institution.
+INC-000369,2026-03-16T11:40:00,SITE-B,guard,"At 11:40, the server room was found unlocked and occupied by an unidentified individual."
+INC-000592,2026-03-16T15:11:00,SITE-A,guard,A slip-and-fall was reported in the classroom building at 15:11; first aid rendered.
+INC-000281,2026-03-16T20:03:00,SITE-B,guard,A slip-and-fall was reported in the rear entrance at 20:03; first aid rendered.
+INC-000353,2026-03-16T21:11:00,SITE-C,guard,A slip-and-fall was reported in the network closet at 21:11; first aid rendered.
+INC-000037,2026-03-16T22:19:00,SITE-G,supervisor,A slip-and-fall was reported in the courtyard at 22:19; first aid rendered.
+INC-000103,2026-03-17T01:29:00,SITE-G,guard,"At 01:29, an unscheduled delivery was dropped at the chapel with no manifest."
+INC-000413,2026-03-17T01:53:00,SITE-B,supervisor,"At 01:53, a subject was recording the parking lot entry layout on a phone."
+INC-000299,2026-03-17T02:38:00,SITE-C,guard,An item was reported missing from the courtyard at 02:38.
+INC-000516,2026-03-17T03:11:00,SITE-D,guard,An individual was observed climbing the perimeter fence near the main gate at 03:11.
+INC-000243,2026-03-17T05:26:00,SITE-A,supervisor,Individual at administration office at 05:26 claimed to be an IT vendor but could not produce a work order or company ID.
+INC-000518,2026-03-17T08:34:00,SITE-A,supervisor,Individual at server room at 08:34 claimed to be an IT vendor but could not produce a work order or company ID.
+INC-000227,2026-03-17T08:52:00,SITE-G,account_manager,A slip-and-fall was reported in the courtyard at 08:52; first aid rendered.
+INC-000550,2026-03-17T09:46:00,SITE-A,account_manager,"At approximately 09:46, a subject entered via the records room behind an authorized employee and did not badge in."
+INC-000428,2026-03-17T11:22:00,SITE-E,guard,Unrecognized device observed plugged into equipment in the server room at 11:22.
+INC-000084,2026-03-17T16:22:00,SITE-D,supervisor,Subject at parking lot at 16:22 attempted to talk past the officer using claimed authority and time pressure.
+INC-000544,2026-03-17T19:44:00,SITE-G,guard,Badge presented at administration office at 19:44 belonged to a person no longer affiliated with the institution.
+INC-000151,2026-03-18T11:07:00,SITE-G,account_manager,Subject observed moving through a known camera gap near the network closet at 11:07.
+INC-000468,2026-03-18T19:03:00,SITE-B,guard,"At 19:03, a fire alarm activated in the main lobby; area checked and cleared."
+INC-000216,2026-03-19T01:52:00,SITE-G,guard,"At 01:52, a trespasser was noted crossing into the grounds at the main gate."
+INC-000256,2026-03-19T03:03:00,SITE-A,supervisor,Badge presented at records room at 03:03 belonged to a person no longer affiliated with the institution.
+INC-000391,2026-03-19T04:36:00,SITE-E,supervisor,Subject at classroom building at 04:36 attempted to talk past the officer using claimed authority and time pressure.
+INC-000226,2026-03-19T17:12:00,SITE-A,guard,A slip-and-fall was reported in the main gate at 17:12; first aid rendered.
+INC-000418,2026-03-19T18:37:00,SITE-B,guard,Graffiti was found on the exterior wall near the network closet at 18:37.
+INC-000155,2026-03-19T19:05:00,SITE-G,guard,An individual was observed climbing the perimeter fence near the main gate at 19:05.
+INC-000167,2026-03-19T20:40:00,SITE-F,guard,"Unexpected parcel left at the courtyard at 20:40, addressed to no known recipient."
+INC-000619,2026-03-20T01:32:00,SITE-F,guard,"At 01:32, a self-described maintenance contractor sought access to the rear entrance without a verifiable assignment."
+INC-000618,2026-03-20T06:32:00,SITE-A,account_manager,"At 06:32, a self-described maintenance contractor sought access to the library without a verifiable assignment."
+INC-000429,2026-03-20T06:54:00,SITE-B,guard,An item was reported missing from the classroom building at 06:54.
+INC-000397,2026-03-20T12:54:00,SITE-F,guard,An item was reported missing from the network closet at 12:54.
+INC-000150,2026-03-20T16:13:00,SITE-A,supervisor,Badge presented at library at 16:13 belonged to a person no longer affiliated with the institution.
+INC-000361,2026-03-20T20:04:00,SITE-C,supervisor,"At 20:04, a suspected theft was reported in the cafeteria."
+INC-000402,2026-03-20T20:48:00,SITE-G,guard,"At 20:48, a fire alarm activated in the administration office; area checked and cleared."
+INC-000234,2026-03-20T22:07:00,SITE-A,supervisor,"At 22:07, minor vandalism was noted at the classroom building."
+INC-000120,2026-03-21T04:14:00,SITE-D,guard,At 04:14 the cafeteria gate latch appeared forced and the door was standing open.
+INC-000616,2026-03-21T07:12:00,SITE-E,account_manager,"At 07:12, an individual repeatedly tried badging at the chapel reader; access denied."
+INC-000620,2026-03-21T07:32:00,SITE-G,guard,Individual at main gate at 07:32 claimed to be an IT vendor but could not produce a work order or company ID.
+INC-000232,2026-03-21T09:50:00,SITE-D,guard,"At 09:50, a suspected theft was reported in the server room."
+INC-000479,2026-03-21T15:59:00,SITE-G,account_manager,Subject attempted entry at the rear entrance at 15:59 without authorization and was turned away.
+INC-000344,2026-03-22T07:33:00,SITE-B,guard,An item was reported missing from the administration office at 07:33.
+INC-000075,2026-03-22T22:53:00,SITE-A,guard,"At 22:53, minor vandalism was noted at the administration office."
+INC-000519,2026-03-22T23:54:00,SITE-G,supervisor,Graffiti was found on the exterior wall near the dormitory entrance at 23:54.
+INC-000173,2026-03-23T01:50:00,SITE-F,guard,An individual was observed climbing the perimeter fence near the courtyard at 01:50.
+INC-000352,2026-03-23T02:33:00,SITE-F,guard,"At 02:33, a fire alarm activated in the server room; area checked and cleared."
+INC-000435,2026-03-23T12:42:00,SITE-A,guard,Found the main gate door propped open with a wedge at 12:42; no personnel present.
+INC-000333,2026-03-23T17:10:00,SITE-C,guard,"At 17:10, motion reported in the main gate during a period with no scheduled activity."
+INC-000533,2026-03-23T18:04:00,SITE-D,guard,An individual was observed climbing the perimeter fence near the parking lot at 18:04.
+INC-000266,2026-03-23T21:45:00,SITE-D,guard,An item was reported missing from the records room at 21:45.
+INC-000144,2026-03-24T04:04:00,SITE-C,account_manager,"At 04:04, a suspected theft was reported in the library."
+INC-000219,2026-03-24T04:20:00,SITE-C,guard,"At 04:20, minor vandalism was noted at the records room."
+INC-000551,2026-03-24T06:29:00,SITE-B,guard,"At 06:29, a trespasser was noted crossing into the grounds at the rear entrance."
+INC-000099,2026-03-24T08:01:00,SITE-C,account_manager,An unauthorized person was observed viewing a staff workstation screen in the chapel at 08:01.
+INC-000294,2026-03-24T19:38:00,SITE-C,guard,"At 19:38, a suspected theft was reported in the parking lot."
+INC-000564,2026-03-25T08:11:00,SITE-C,guard,Access log at rear entrance showed the same credential used at two separate points within minutes around 08:11.
+INC-000230,2026-03-25T10:10:00,SITE-C,guard,"At 10:10, minor vandalism was noted at the parking lot."
+INC-000441,2026-03-26T02:30:00,SITE-E,supervisor,An unauthorized person was observed viewing a staff workstation screen in the server room at 02:30.
+INC-000455,2026-03-26T03:18:00,SITE-E,supervisor,An item was reported missing from the chapel at 03:18.
+INC-000617,2026-03-26T07:12:00,SITE-E,guard,Person observed inside the network closet at 07:12 without escort or work authorization.
+INC-000496,2026-03-26T16:30:00,SITE-G,guard,Graffiti was found on the exterior wall near the rear entrance at 16:30.
+INC-000384,2026-03-26T19:15:00,SITE-E,supervisor,"At 19:15, documents marked sensitive were found exposed in the library."
+INC-000152,2026-03-26T19:43:00,SITE-G,account_manager,"At 19:43, a subject lingered near the administration office, noting access points and staff patterns."
+INC-000217,2026-03-26T20:01:00,SITE-D,guard,"At 20:01, motion reported in the cafeteria during a period with no scheduled activity."
+INC-000283,2026-03-26T20:42:00,SITE-A,supervisor,Access log at server room showed the same credential used at two separate points within minutes around 20:42.
+INC-000115,2026-03-26T22:25:00,SITE-C,supervisor,"At 22:25, a trespasser was noted crossing into the grounds at the main gate."
+INC-000022,2026-03-27T01:14:00,SITE-A,guard,Observed an individual follow a badged person through the chapel access door at 01:14 without presenting credentials.
+INC-000416,2026-03-27T04:53:00,SITE-B,guard,A slip-and-fall was reported in the courtyard at 04:53; first aid rendered.
+INC-000013,2026-03-27T05:50:00,SITE-B,account_manager,Visitor at the administration office at 05:50 declined to provide identification and had no record of appointment.
+INC-000282,2026-03-27T07:04:00,SITE-B,guard,"Unexpected parcel left at the it office at 07:04, addressed to no known recipient."
+INC-000586,2026-03-27T07:33:00,SITE-D,guard,"At 07:33, a suspected theft was reported in the network closet."
+INC-000215,2026-03-27T09:39:00,SITE-B,guard,An individual was observed climbing the perimeter fence near the main gate at 09:39.
+INC-000168,2026-03-27T09:50:00,SITE-D,guard,"At 09:50, a fire alarm activated in the dormitory entrance; area checked and cleared."
+INC-000016,2026-03-27T09:53:00,SITE-G,account_manager,Observed an individual follow a badged person through the administration office access door at 09:53 without presenting credentials.
+INC-000380,2026-03-27T20:05:00,SITE-F,guard,Subject observed moving through a known camera gap near the courtyard at 20:05.
+INC-000444,2026-03-28T01:00:00,SITE-C,guard,Found the cafeteria door propped open with a wedge at 01:00; no personnel present.
+INC-000472,2026-03-28T09:56:00,SITE-E,supervisor,"At 09:56, a subject lingered near the rear entrance, noting access points and staff patterns."
+INC-000122,2026-03-28T13:44:00,SITE-C,guard,A patch cable in the classroom building was found disconnected at 13:44.
+INC-000040,2026-03-28T13:53:00,SITE-A,guard,"At 13:53, a suspected theft was reported in the dormitory entrance."
+INC-000398,2026-03-28T18:06:00,SITE-B,guard,"At 18:06, motion reported in the server room during a period with no scheduled activity."
+INC-000350,2026-03-29T02:15:00,SITE-C,guard,"At 02:15, the rear entrance camera feed was offline with no maintenance scheduled."
+INC-000461,2026-03-29T05:21:00,SITE-F,account_manager,"At 05:21, minor vandalism was noted at the main gate."
+INC-000431,2026-03-29T08:27:00,SITE-F,supervisor,"At 08:27, a trespasser was noted crossing into the grounds at the rear entrance."
+INC-000077,2026-03-29T10:00:00,SITE-E,supervisor,Visitor at the records room at 10:00 declined to provide identification and had no record of appointment.
+INC-000136,2026-03-29T11:03:00,SITE-E,guard,An individual was observed climbing the perimeter fence near the rear entrance at 11:03.
+INC-000490,2026-03-29T11:48:00,SITE-F,guard,"At 11:48, a subject lingered near the courtyard, noting access points and staff patterns."
+INC-000011,2026-03-29T14:09:00,SITE-D,guard,"At 14:09, a fire alarm activated in the dormitory entrance; area checked and cleared."
+INC-000381,2026-03-29T14:51:00,SITE-B,guard,An item was reported missing from the library at 14:51.
+INC-000048,2026-03-29T16:25:00,SITE-C,guard,Unrecognized device observed plugged into equipment in the library at 16:25.
+INC-000311,2026-03-29T19:02:00,SITE-B,guard,Access log at courtyard showed the same credential used at two separate points within minutes around 19:02.
+INC-000497,2026-03-29T19:58:00,SITE-B,guard,"At 19:58, an unscheduled delivery was dropped at the courtyard with no manifest."
+INC-000280,2026-03-29T23:31:00,SITE-F,guard,A slip-and-fall was reported in the cafeteria at 23:31; first aid rendered.
+INC-000261,2026-03-29T23:41:00,SITE-G,guard,"At 23:41, minor vandalism was noted at the parking lot."
+INC-000471,2026-03-30T00:06:00,SITE-D,guard,An item was reported missing from the parking lot at 00:06.
+INC-000330,2026-03-30T07:19:00,SITE-F,supervisor,"At 07:19, an unlabeled removable drive was discovered on a surface in the records room."
+INC-000523,2026-03-30T10:06:00,SITE-A,guard,"At 10:06, documents marked sensitive were found exposed in the library."
+INC-000197,2026-03-30T10:17:00,SITE-G,guard,"At 10:17, a suspected theft was reported in the chapel."
+INC-000342,2026-03-30T11:16:00,SITE-A,guard,An individual was observed climbing the perimeter fence near the main gate at 11:16.
+INC-000578,2026-03-30T12:19:00,SITE-A,guard,"At 12:19, minor vandalism was noted at the classroom building."
+INC-000364,2026-03-30T13:14:00,SITE-E,guard,"At 13:14, a suspected theft was reported in the main gate."
+INC-000304,2026-03-30T19:08:00,SITE-G,account_manager,A slip-and-fall was reported in the dormitory entrance at 19:08; first aid rendered.
+INC-000373,2026-03-31T04:15:00,SITE-D,guard,"At approximately 04:15, a subject entered via the dormitory entrance behind an authorized employee and did not badge in."
+INC-000096,2026-03-31T06:27:00,SITE-E,guard,"At 06:27, a subject lingered near the chapel, noting access points and staff patterns."
+INC-000137,2026-03-31T06:41:00,SITE-A,guard,"Power fluctuation reported in the server room at 06:41, affecting equipment."
+INC-000410,2026-03-31T08:05:00,SITE-D,guard,Subject observed moving through a known camera gap near the administration office at 08:05.
+INC-000200,2026-03-31T09:19:00,SITE-C,guard,An item was reported missing from the cafeteria at 09:19.
+INC-000156,2026-03-31T13:31:00,SITE-D,guard,Subject at courtyard at 13:31 attempted to talk past the officer using claimed authority and time pressure.
+INC-000265,2026-03-31T13:39:00,SITE-A,guard,An item was reported missing from the network closet at 13:39.
+INC-000478,2026-03-31T18:32:00,SITE-D,guard,"Unexpected parcel left at the library at 18:32, addressed to no known recipient."
+INC-000113,2026-03-31T20:09:00,SITE-D,guard,"At 20:09, an unscheduled delivery was dropped at the cafeteria with no manifest."
+INC-000511,2026-04-01T02:16:00,SITE-C,account_manager,"At approximately 02:16, a subject entered via the chapel behind an authorized employee and did not badge in."
+INC-000051,2026-04-01T06:23:00,SITE-F,guard,"At 06:23, motion reported in the parking lot during a period with no scheduled activity."
+INC-000522,2026-04-01T06:33:00,SITE-A,guard,"At 06:33, minor vandalism was noted at the server room."
+INC-000149,2026-04-01T13:55:00,SITE-C,guard,"At 13:55, an unscheduled delivery was dropped at the server room with no manifest."
+INC-000274,2026-04-01T17:13:00,SITE-F,guard,"At 17:13, a subject lingered near the cafeteria, noting access points and staff patterns."
+INC-000396,2026-04-01T18:52:00,SITE-B,guard,"At 18:52, a trespasser was noted crossing into the grounds at the parking lot."
+INC-000512,2026-04-01T20:15:00,SITE-B,account_manager,"Power fluctuation reported in the server room at 20:15, affecting equipment."
+INC-000202,2026-04-01T20:25:00,SITE-A,guard,An item was reported missing from the main gate at 20:25.
+INC-000338,2026-04-01T22:22:00,SITE-F,supervisor,"At 22:22, an unscheduled delivery was dropped at the records room with no manifest."
+INC-000131,2026-04-02T07:30:00,SITE-A,supervisor,"At 07:30, movement was noted along the main lobby route that avoids camera coverage."
+INC-000460,2026-04-02T10:27:00,SITE-C,guard,Documents containing personal information were found in open trash at the parking lot at 10:27.
+INC-000269,2026-04-02T13:35:00,SITE-F,guard,"At 13:35, minor vandalism was noted at the cafeteria."
+INC-000571,2026-04-02T19:12:00,SITE-G,guard,"At 19:12, a trespasser was noted crossing into the grounds at the parking lot."
+INC-000322,2026-04-02T22:51:00,SITE-B,guard,"At 22:51, a subject lingered near the dormitory entrance, noting access points and staff patterns."
+INC-000119,2026-04-03T05:10:00,SITE-E,account_manager,"At 05:10, a fire alarm activated in the library; area checked and cleared."
+INC-000208,2026-04-03T10:42:00,SITE-A,guard,"At 10:42, intact sensitive paperwork was discovered in unsecured disposal near the records room."
+INC-000541,2026-04-03T12:48:00,SITE-C,supervisor,"At 12:48, motion reported in the classroom building during a period with no scheduled activity."
+INC-000400,2026-04-04T02:22:00,SITE-B,guard,Graffiti was found on the exterior wall near the dormitory entrance at 02:22.
+INC-000020,2026-04-04T06:45:00,SITE-G,guard,"At 06:45, a subject was recording the dormitory entrance entry layout on a phone."
+INC-000135,2026-04-04T11:13:00,SITE-A,guard,Access log at cafeteria showed the same credential used at two separate points within minutes around 11:13.
+INC-000553,2026-04-04T14:24:00,SITE-C,guard,"At 14:24, a visitor in the courtyard was positioned to read a logged-in screen."
+INC-000457,2026-04-04T15:21:00,SITE-B,guard,A slip-and-fall was reported in the classroom building at 15:21; first aid rendered.
+INC-000343,2026-04-05T07:27:00,SITE-F,guard,An individual was observed climbing the perimeter fence near the main gate at 07:27.
+INC-000555,2026-04-05T07:51:00,SITE-F,guard,Graffiti was found on the exterior wall near the main gate at 07:51.
+INC-000241,2026-04-05T08:08:00,SITE-E,account_manager,An individual was observed climbing the perimeter fence near the main gate at 08:08.
+INC-000073,2026-04-05T08:49:00,SITE-D,account_manager,Found the main gate door propped open with a wedge at 08:49; no personnel present.
+INC-000357,2026-04-05T13:46:00,SITE-C,guard,Observed an individual follow a badged person through the records room access door at 13:46 without presenting credentials.
+INC-000315,2026-04-05T14:20:00,SITE-D,guard,An item was reported missing from the chapel at 14:20.
+INC-000059,2026-04-05T16:29:00,SITE-B,guard,Individual at main lobby at 16:29 claimed to be an IT vendor but could not produce a work order or company ID.
+INC-000134,2026-04-05T17:26:00,SITE-F,guard,"At 17:26, a trespasser was noted crossing into the grounds at the parking lot."
+INC-000406,2026-04-05T17:46:00,SITE-D,supervisor,"At 17:46, minor vandalism was noted at the server room."
+INC-000482,2026-04-05T17:55:00,SITE-C,guard,"Individual observed in the main gate at 17:55, well outside authorized hours."
+INC-000209,2026-04-05T20:11:00,SITE-F,guard,Confidential files were left unattended on a desk in the records room at 20:11.
+INC-000422,2026-04-05T21:06:00,SITE-G,guard,"At 21:06, a fire alarm activated in the records room; area checked and cleared."
+INC-000501,2026-04-05T23:49:00,SITE-E,guard,Camera covering the parking lot was found repositioned away from the entry at 23:49.
