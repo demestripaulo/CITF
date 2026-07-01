@@ -1,5 +1,9 @@
 # Converged Incident Triage Framework (CITF)
 
+[![tests](https://github.com/demestripaulo/CITF/actions/workflows/tests.yml/badge.svg)](https://github.com/demestripaulo/CITF/actions/workflows/tests.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python 3.9+](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/)
+
 A source-agnostic framework for classifying **physical-security incident reports**,
 prioritizing them, and surfacing their **cyber-risk implications** — aimed at
 small and mid-sized, security-dependent organizations that do not run a Security

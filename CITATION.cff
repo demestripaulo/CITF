@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Converged Incident Triage Framework (CITF)"
+abstract: >-
+  A source-agnostic framework for classifying human-authored physical-security
+  incident reports, prioritizing them, and translating them into cyber-risk
+  implications for small and mid-sized, security-dependent organizations.
+authors:
+  - family-names: Demestri
+    given-names: Paulo
+type: software
+version: 0.1.0
+date-released: "2026-07-01"
+license: MIT
+repository-code: "https://github.com/demestripaulo/CITF"
+keywords:
+  - cybersecurity
+  - physical security
+  - converged security
+  - incident triage
+  - operational risk
+  - NIST CSF
